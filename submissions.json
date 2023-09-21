@@ -1,5 +1,15 @@
 [
   {
+    "id": 1389,
+    "title": "Create Target Array in the Given Order",
+    "title_slug": "create-target-array-in-the-given-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
