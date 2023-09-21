@@ -114,6 +114,16 @@
     ]
   },
   {
+    "id": 2535,
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 2574,
     "title": "Left and Right Sum Differences",
     "title_slug": "left-and-right-sum-differences",
