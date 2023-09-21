@@ -39,6 +39,18 @@
     ]
   },
   {
+    "id": 1656,
+    "title": "Design an Ordered Stream",
+    "title_slug": "design-an-ordered-stream",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1658,
     "title": "Minimum Operations to Reduce X to Zero",
     "title_slug": "minimum-operations-to-reduce-x-to-zero",
