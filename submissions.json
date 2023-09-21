@@ -1,5 +1,15 @@
 [
   {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1658,
     "title": "Minimum Operations to Reduce X to Zero",
     "title_slug": "minimum-operations-to-reduce-x-to-zero",
