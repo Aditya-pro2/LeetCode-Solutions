@@ -33,6 +33,16 @@
     ]
   },
   {
+    "id": 2574,
+    "title": "Left and Right Sum Differences",
+    "title_slug": "left-and-right-sum-differences",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2798,
     "title": "Number of Employees Who Met the Target",
     "title_slug": "number-of-employees-who-met-the-target",
