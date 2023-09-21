@@ -33,6 +33,16 @@
     ]
   },
   {
+    "id": 1720,
+    "title": "Decode XORed Array",
+    "title_slug": "decode-xored-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2114,
     "title": "Maximum Number of Words Found in Sentences",
     "title_slug": "maximum-number-of-words-found-in-sentences",
