@@ -1,5 +1,14 @@
 [
   {
+    "id": 1313,
+    "title": "Decompress Run-Length Encoded List",
+    "title_slug": "decompress-run-length-encoded-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1389,
     "title": "Create Target Array in the Given Order",
     "title_slug": "create-target-array-in-the-given-order",
