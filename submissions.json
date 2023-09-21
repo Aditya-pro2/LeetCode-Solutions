@@ -114,6 +114,18 @@
     ]
   },
   {
+    "id": 2367,
+    "title": "Number of Arithmetic Triplets",
+    "title_slug": "number-of-arithmetic-triplets",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2535,
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
