@@ -23,4 +23,5 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | `Array` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | Easy | `Array` `String` |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | `Array` `Bit Manipulation` |
