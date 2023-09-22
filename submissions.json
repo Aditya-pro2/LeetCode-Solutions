@@ -148,6 +148,16 @@
     ]
   },
   {
+    "id": 2373,
+    "title": "Largest Local Values in a Matrix",
+    "title_slug": "largest-local-values-in-a-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2535,
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
