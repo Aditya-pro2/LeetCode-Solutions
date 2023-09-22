@@ -39,6 +39,17 @@
     ]
   },
   {
+    "id": 1588,
+    "title": "Sum of All Odd Length Subarrays",
+    "title_slug": "sum-of-all-odd-length-subarrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1656,
     "title": "Design an Ordered Stream",
     "title_slug": "design-an-ordered-stream",
