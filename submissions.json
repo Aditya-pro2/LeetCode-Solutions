@@ -115,6 +115,17 @@
     ]
   },
   {
+    "id": 2006,
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "title_slug": "count-number-of-pairs-with-absolute-difference-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2114,
     "title": "Maximum Number of Words Found in Sentences",
     "title_slug": "maximum-number-of-words-found-in-sentences",
