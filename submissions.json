@@ -96,6 +96,19 @@
     ]
   },
   {
+    "id": 1684,
+    "title": "Count the Number of Consistent Strings",
+    "title_slug": "count-the-number-of-consistent-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1720,
     "title": "Decode XORed Array",
     "title_slug": "decode-xored-array",
