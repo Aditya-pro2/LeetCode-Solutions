@@ -1,5 +1,16 @@
 [
   {
+    "id": 804,
+    "title": "Unique Morse Code Words",
+    "title_slug": "unique-morse-code-words",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1313,
     "title": "Decompress Run-Length Encoded List",
     "title_slug": "decompress-run-length-encoded-list",
