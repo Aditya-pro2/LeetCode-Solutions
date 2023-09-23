@@ -196,6 +196,17 @@
     ]
   },
   {
+    "id": 2108,
+    "title": "Find First Palindromic String in the Array",
+    "title_slug": "find-first-palindromic-string-in-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2114,
     "title": "Maximum Number of Words Found in Sentences",
     "title_slug": "maximum-number-of-words-found-in-sentences",
