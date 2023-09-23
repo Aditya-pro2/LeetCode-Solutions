@@ -214,6 +214,16 @@
     ]
   },
   {
+    "id": 2656,
+    "title": "Maximum Sum With Exactly K Elements ",
+    "title_slug": "maximum-sum-with-exactly-k-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2798,
     "title": "Number of Employees Who Met the Target",
     "title_slug": "number-of-employees-who-met-the-target",
