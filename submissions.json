@@ -24,6 +24,17 @@
     ]
   },
   {
+    "id": 1252,
+    "title": "Cells with Odd Values in a Matrix",
+    "title_slug": "cells-with-odd-values-in-a-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1313,
     "title": "Decompress Run-Length Encoded List",
     "title_slug": "decompress-run-length-encoded-list",
