@@ -32,6 +32,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | `Array` `Enumeration` `Hash Table` `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | `Array` `Matrix` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy | `Array` `Hash Table` `Simulation` `String` |

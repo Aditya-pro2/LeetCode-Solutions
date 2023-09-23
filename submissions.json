@@ -279,6 +279,16 @@
     ]
   },
   {
+    "id": 2553,
+    "title": "Separate the Digits in an Array",
+    "title_slug": "separate-the-digits-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2574,
     "title": "Left and Right Sum Differences",
     "title_slug": "left-and-right-sum-differences",
