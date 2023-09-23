@@ -152,6 +152,16 @@
     ]
   },
   {
+    "id": 1913,
+    "title": "Maximum Product Difference Between Two Pairs",
+    "title_slug": "maximum-product-difference-between-two-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2006,
     "title": "Count Number of Pairs With Absolute Difference K",
     "title_slug": "count-number-of-pairs-with-absolute-difference-k",
