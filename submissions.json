@@ -43,6 +43,17 @@
     ]
   },
   {
+    "id": 1464,
+    "title": "Maximum Product of Two Elements in an Array",
+    "title_slug": "maximum-product-of-two-elements-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
