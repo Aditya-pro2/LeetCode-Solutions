@@ -150,6 +150,18 @@
     ]
   },
   {
+    "id": 2037,
+    "title": "Minimum Number of Moves to Seat Everyone",
+    "title_slug": "minimum-number-of-moves-to-seat-everyone",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2114,
     "title": "Maximum Number of Words Found in Sentences",
     "title_slug": "maximum-number-of-words-found-in-sentences",
