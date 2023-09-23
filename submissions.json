@@ -163,6 +163,16 @@
     ]
   },
   {
+    "id": 1827,
+    "title": "Minimum Operations to Make the Array Increasing",
+    "title_slug": "minimum-operations-to-make-the-array-increasing",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1913,
     "title": "Maximum Product Difference Between Two Pairs",
     "title_slug": "maximum-product-difference-between-two-pairs",
