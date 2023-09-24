@@ -323,6 +323,18 @@
     ]
   },
   {
+    "id": 2363,
+    "title": "Merge Similar Items",
+    "title_slug": "merge-similar-items",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Ordered Set",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2367,
     "title": "Number of Arithmetic Triplets",
     "title_slug": "number-of-arithmetic-triplets",

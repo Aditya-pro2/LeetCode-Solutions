@@ -36,6 +36,7 @@
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | `Array` `String` `Two Pointers` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | `Array` `String` |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | `Array` `Counting` `Hash Table` |
+| 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | `Array` `Hash Table` `Ordered Set` `Sorting` |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | `Array` `Enumeration` `Hash Table` `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | `Array` `Matrix` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
