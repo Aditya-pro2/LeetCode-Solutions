@@ -175,6 +175,17 @@
     ]
   },
   {
+    "id": 1748,
+    "title": "Sum of Unique Elements",
+    "title_slug": "sum-of-unique-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1773,
     "title": "Count Items Matching a Rule",
     "title_slug": "count-items-matching-a-rule",
