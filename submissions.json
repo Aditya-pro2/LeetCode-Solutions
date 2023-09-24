@@ -24,6 +24,17 @@
     ]
   },
   {
+    "id": 905,
+    "title": "Sort Array By Parity",
+    "title_slug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 942,
     "title": "DI String Match",
     "title_slug": "di-string-match",
