@@ -312,6 +312,17 @@
     ]
   },
   {
+    "id": 2341,
+    "title": "Maximum Number of Pairs in Array",
+    "title_slug": "maximum-number-of-pairs-in-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2367,
     "title": "Number of Arithmetic Triplets",
     "title_slug": "number-of-arithmetic-triplets",
