@@ -37,6 +37,7 @@
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | `Array` `Counting` `Hash Table` `String` |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | `Array` `Binary Search` `Sorting` |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | `Array` `String` `Two Pointers` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | `Array` `String` |

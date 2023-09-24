@@ -337,6 +337,15 @@
     ]
   },
   {
+    "id": 2057,
+    "title": "Smallest Index With Equal Value",
+    "title_slug": "smallest-index-with-equal-value",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2089,
     "title": "Find Target Indices After Sorting Array",
     "title_slug": "find-target-indices-after-sorting-array",
