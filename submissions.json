@@ -325,6 +325,18 @@
     ]
   },
   {
+    "id": 2053,
+    "title": "Kth Distinct String in an Array",
+    "title_slug": "kth-distinct-string-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2089,
     "title": "Find Target Indices After Sorting Array",
     "title_slug": "find-target-indices-after-sorting-array",
