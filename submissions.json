@@ -36,6 +36,17 @@
     ]
   },
   {
+    "id": 1051,
+    "title": "Height Checker",
+    "title_slug": "height-checker",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1252,
     "title": "Cells with Odd Values in a Matrix",
     "title_slug": "cells-with-odd-values-in-a-matrix",
