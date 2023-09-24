@@ -346,6 +346,16 @@
     ]
   },
   {
+    "id": 2255,
+    "title": "Count Prefixes of a Given String",
+    "title_slug": "count-prefixes-of-a-given-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2341,
     "title": "Maximum Number of Pairs in Array",
     "title_slug": "maximum-number-of-pairs-in-array",
