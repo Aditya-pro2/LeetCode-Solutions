@@ -345,6 +345,16 @@
     ]
   },
   {
+    "id": 2670,
+    "title": "Find the Distinct Difference Array",
+    "title_slug": "find-the-distinct-difference-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
