@@ -260,6 +260,17 @@
     ]
   },
   {
+    "id": 2089,
+    "title": "Find Target Indices After Sorting Array",
+    "title_slug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2108,
     "title": "Find First Palindromic String in the Array",
     "title_slug": "find-first-palindromic-string-in-the-array",
