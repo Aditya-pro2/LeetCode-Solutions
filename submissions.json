@@ -77,6 +77,15 @@
     ]
   },
   {
+    "id": 1450,
+    "title": "Number of Students Doing Homework at a Given Time",
+    "title_slug": "number-of-students-doing-homework-at-a-given-time",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1464,
     "title": "Maximum Product of Two Elements in an Array",
     "title_slug": "maximum-product-of-two-elements-in-an-array",
