@@ -24,6 +24,18 @@
     ]
   },
   {
+    "id": 942,
+    "title": "DI String Match",
+    "title_slug": "di-string-match",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1252,
     "title": "Cells with Odd Values in a Matrix",
     "title_slug": "cells-with-odd-values-in-a-matrix",
