@@ -100,6 +100,17 @@
     ]
   },
   {
+    "id": 1403,
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "title_slug": "minimum-subsequence-in-non-increasing-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1450,
     "title": "Number of Students Doing Homework at a Given Time",
     "title_slug": "number-of-students-doing-homework-at-a-given-time",
