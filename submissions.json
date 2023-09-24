@@ -78,6 +78,18 @@
     ]
   },
   {
+    "id": 1356,
+    "title": "Sort Integers by The Number of 1 Bits",
+    "title_slug": "sort-integers-by-the-number-of-1-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1389,
     "title": "Create Target Array in the Given Order",
     "title_slug": "create-target-array-in-the-given-order",
