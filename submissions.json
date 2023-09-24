@@ -269,6 +269,19 @@
     ]
   },
   {
+    "id": 2500,
+    "title": "Delete Greatest Value in Each Row",
+    "title_slug": "delete-greatest-value-in-each-row",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2535,
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
