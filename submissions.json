@@ -69,6 +69,15 @@
     ]
   },
   {
+    "id": 1299,
+    "title": "Replace Elements with Greatest Element on Right Side",
+    "title_slug": "replace-elements-with-greatest-element-on-right-side",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1313,
     "title": "Decompress Run-Length Encoded List",
     "title_slug": "decompress-run-length-encoded-list",
