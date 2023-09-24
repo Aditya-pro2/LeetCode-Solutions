@@ -268,6 +268,17 @@
     ]
   },
   {
+    "id": 2032,
+    "title": "Two Out of Three",
+    "title_slug": "two-out-of-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2037,
     "title": "Minimum Number of Moves to Seat Everyone",
     "title_slug": "minimum-number-of-moves-to-seat-everyone",
