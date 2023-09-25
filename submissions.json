@@ -548,6 +548,15 @@
     ]
   },
   {
+    "id": 2520,
+    "title": "Count the Digits That Divide a Number",
+    "title_slug": "count-the-digits-that-divide-a-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2535,
     "title": "Difference Between Element Sum and Digit Sum of an Array",
     "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
