@@ -582,6 +582,15 @@
     ]
   },
   {
+    "id": 2769,
+    "title": "Find the Maximum Achievable Number",
+    "title_slug": "find-the-maximum-achievable-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2778,
     "title": "Sum of Squares of Special Elements ",
     "title_slug": "sum-of-squares-of-special-elements",
