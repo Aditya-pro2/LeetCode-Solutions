@@ -599,6 +599,15 @@
     ]
   },
   {
+    "id": 2652,
+    "title": "Sum Multiples",
+    "title_slug": "sum-multiples",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2656,
     "title": "Maximum Sum With Exactly K Elements ",
     "title_slug": "maximum-sum-with-exactly-k-elements",
