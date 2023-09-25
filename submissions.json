@@ -170,6 +170,16 @@
     ]
   },
   {
+    "id": 1486,
+    "title": "XOR Operation in an Array",
+    "title_slug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 1528,
     "title": "Shuffle String",
     "title_slug": "shuffle-string",
