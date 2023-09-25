@@ -58,6 +58,17 @@
     ]
   },
   {
+    "id": 1217,
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 1252,
     "title": "Cells with Odd Values in a Matrix",
     "title_slug": "cells-with-odd-values-in-a-matrix",
