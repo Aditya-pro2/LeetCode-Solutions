@@ -80,6 +80,15 @@
     ]
   },
   {
+    "id": 1281,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1299,
     "title": "Replace Elements with Greatest Element on Right Side",
     "title_slug": "replace-elements-with-greatest-element-on-right-side",
