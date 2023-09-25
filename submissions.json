@@ -467,6 +467,16 @@
     ]
   },
   {
+    "id": 2413,
+    "title": "Smallest Even Multiple",
+    "title_slug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2469,
     "title": "Convert the Temperature",
     "title_slug": "convert-the-temperature",
