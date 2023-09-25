@@ -398,6 +398,15 @@
     ]
   },
   {
+    "id": 2235,
+    "title": "Add Two Integers",
+    "title_slug": "add-two-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2255,
     "title": "Count Prefixes of a Given String",
     "title_slug": "count-prefixes-of-a-given-string",
