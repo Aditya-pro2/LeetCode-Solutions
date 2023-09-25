@@ -467,6 +467,15 @@
     ]
   },
   {
+    "id": 2469,
+    "title": "Convert the Temperature",
+    "title_slug": "convert-the-temperature",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2500,
     "title": "Delete Greatest Value in Each Row",
     "title_slug": "delete-greatest-value-in-each-row",
