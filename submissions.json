@@ -259,6 +259,16 @@
     ]
   },
   {
+    "id": 1688,
+    "title": "Count of Matches in Tournament",
+    "title_slug": "count-of-matches-in-tournament",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
