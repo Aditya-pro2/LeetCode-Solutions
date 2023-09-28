@@ -320,6 +320,16 @@
     ]
   },
   {
+    "id": 1812,
+    "title": "Determine Color of a Chessboard Square",
+    "title_slug": "determine-color-of-a-chessboard-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1816,
     "title": "Truncate Sentence",
     "title_slug": "truncate-sentence",
