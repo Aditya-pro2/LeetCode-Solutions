@@ -350,6 +350,15 @@
     ]
   },
   {
+    "id": 1837,
+    "title": "Sum of Digits in Base K",
+    "title_slug": "sum-of-digits-in-base-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1913,
     "title": "Maximum Product Difference Between Two Pairs",
     "title_slug": "maximum-product-difference-between-two-pairs",
