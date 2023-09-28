@@ -437,6 +437,15 @@
     ]
   },
   {
+    "id": 2119,
+    "title": "A Number After a Double Reversal",
+    "title_slug": "a-number-after-a-double-reversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2160,
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
