@@ -577,6 +577,16 @@
     ]
   },
   {
+    "id": 2325,
+    "title": "Decode the Message",
+    "title_slug": "decode-the-message",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2341,
     "title": "Maximum Number of Pairs in Array",
     "title_slug": "maximum-number-of-pairs-in-array",
