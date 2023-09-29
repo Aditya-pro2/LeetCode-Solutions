@@ -549,6 +549,15 @@
     ]
   },
   {
+    "id": 2194,
+    "title": "Cells in a Range on an Excel Sheet",
+    "title_slug": "cells-in-a-range-on-an-excel-sheet",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2235,
     "title": "Add Two Integers",
     "title_slug": "add-two-integers",
