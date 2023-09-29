@@ -11,6 +11,16 @@
     ]
   },
   {
+    "id": 771,
+    "title": "Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 804,
     "title": "Unique Morse Code Words",
     "title_slug": "unique-morse-code-words",
