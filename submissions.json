@@ -299,6 +299,15 @@
     ]
   },
   {
+    "id": 1678,
+    "title": "Goal Parser Interpretation",
+    "title_slug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1684,
     "title": "Count the Number of Consistent Strings",
     "title_slug": "count-the-number-of-consistent-strings",
