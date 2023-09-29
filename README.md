@@ -14,6 +14,7 @@
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | Easy | `Array` `Geometry` `Math` `Matrix` `Sorting` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | `Array` `Math` `Simulation` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
