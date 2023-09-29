@@ -10,6 +10,7 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Bit Manipulation` `Matrix` `Simulation` `Two Pointers` |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | Easy | `Array` `Geometry` `Math` `Matrix` `Sorting` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
