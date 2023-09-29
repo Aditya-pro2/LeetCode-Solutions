@@ -58,6 +58,19 @@
     ]
   },
   {
+    "id": 1030,
+    "title": "Matrix Cells in Distance Order",
+    "title_slug": "matrix-cells-in-distance-order",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1051,
     "title": "Height Checker",
     "title_slug": "height-checker",
