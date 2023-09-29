@@ -1,5 +1,16 @@
 [
   {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "title_slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 804,
     "title": "Unique Morse Code Words",
     "title_slug": "unique-morse-code-words",
