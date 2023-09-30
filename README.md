@@ -46,6 +46,7 @@
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | `Math` `String` |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | `Array` `String` |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | `Array` `Greedy` |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | Easy | `Hash Table` `String` |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | `Math` |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | `Sorting` `String` |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | `Array` `Sorting` |

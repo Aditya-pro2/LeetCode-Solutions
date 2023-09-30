@@ -423,6 +423,16 @@
     ]
   },
   {
+    "id": 1832,
+    "title": "Check if the Sentence Is Pangram",
+    "title_slug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1837,
     "title": "Sum of Digits in Base K",
     "title_slug": "sum-of-digits-in-base-k",
