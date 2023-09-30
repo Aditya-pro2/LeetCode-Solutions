@@ -857,6 +857,16 @@
     ]
   },
   {
+    "id": 2810,
+    "title": "Faulty Keyboard",
+    "title_slug": "faulty-keyboard",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",

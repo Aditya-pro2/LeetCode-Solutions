@@ -88,6 +88,7 @@
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | `Array` |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | `Simulation` `String` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | Easy | `Array` `String` |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars) | Easy | `Array` `Hash Table` `Prefix Sum` |
