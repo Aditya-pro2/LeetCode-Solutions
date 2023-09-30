@@ -597,6 +597,15 @@
     ]
   },
   {
+    "id": 2315,
+    "title": "Count Asterisks",
+    "title_slug": "count-asterisks",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2325,
     "title": "Decode the Message",
     "title_slug": "decode-the-message",

@@ -63,6 +63,7 @@
 | 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet) | Easy | `String` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | `Math` |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | `Array` `String` |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | `String` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | `Hash Table` `String` |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | `Array` `Counting` `Hash Table` |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | `Array` `Greedy` `Hash Table` `Heap (Priority Queue)` `Simulation` `Sorting` |
