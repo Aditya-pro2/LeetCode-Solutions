@@ -432,6 +432,16 @@
     ]
   },
   {
+    "id": 1859,
+    "title": "Sorting the Sentence",
+    "title_slug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "skills": [
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 1913,
     "title": "Maximum Product Difference Between Two Pairs",
     "title_slug": "maximum-product-difference-between-two-pairs",
