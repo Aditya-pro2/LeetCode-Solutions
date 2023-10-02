@@ -108,6 +108,16 @@
     ]
   },
   {
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1030,
     "title": "Matrix Cells in Distance Order",
     "title_slug": "matrix-cells-in-distance-order",
