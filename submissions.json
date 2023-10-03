@@ -53,6 +53,15 @@
     ]
   },
   {
+    "id": 434,
+    "title": "Number of Segments in a String",
+    "title_slug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
