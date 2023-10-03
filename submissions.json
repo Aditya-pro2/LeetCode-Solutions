@@ -42,6 +42,17 @@
     ]
   },
   {
+    "id": 415,
+    "title": "Add Strings",
+    "title_slug": "add-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
