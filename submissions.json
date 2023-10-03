@@ -283,6 +283,18 @@
     ]
   },
   {
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 1528,
     "title": "Shuffle String",
     "title_slug": "shuffle-string",
