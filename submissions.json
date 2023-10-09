@@ -62,6 +62,17 @@
     ]
   },
   {
+    "id": 500,
+    "title": "Keyboard Row",
+    "title_slug": "keyboard-row",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
