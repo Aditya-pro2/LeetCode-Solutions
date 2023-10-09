@@ -264,6 +264,16 @@
     ]
   },
   {
+    "id": 1380,
+    "title": "Lucky Numbers in a Matrix",
+    "title_slug": "lucky-numbers-in-a-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1389,
     "title": "Create Target Array in the Given Order",
     "title_slug": "create-target-array-in-the-given-order",
