@@ -890,6 +890,17 @@
     ]
   },
   {
+    "id": 2578,
+    "title": "Split With Minimum Sum",
+    "title_slug": "split-with-minimum-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2586,
     "title": "Count the Number of Vowel Strings in Range",
     "title_slug": "count-the-number-of-vowel-strings-in-range",
