@@ -1083,5 +1083,16 @@
       "Array",
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 2928,
+    "title": "Distribute Candies Among Children I",
+    "title_slug": "distribute-candies-among-children-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Combinatorics",
+      "Enumeration",
+      "Math"
+    ]
   }
 ]
