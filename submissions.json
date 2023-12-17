@@ -715,6 +715,16 @@
     ]
   },
   {
+    "id": 2180,
+    "title": "Count Integers With Even Digit Sum",
+    "title_slug": "count-integers-with-even-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2194,
     "title": "Cells in a Range on an Excel Sheet",
     "title_slug": "cells-in-a-range-on-an-excel-sheet",
