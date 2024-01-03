@@ -73,6 +73,18 @@
     ]
   },
   {
+    "id": 455,
+    "title": "Assign Cookies",
+    "title_slug": "assign-cookies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 500,
     "title": "Keyboard Row",
     "title_slug": "keyboard-row",
