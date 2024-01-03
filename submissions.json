@@ -967,6 +967,16 @@
     ]
   },
   {
+    "id": 2610,
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2643,
     "title": "Row With Maximum Ones",
     "title_slug": "row-with-maximum-ones",
