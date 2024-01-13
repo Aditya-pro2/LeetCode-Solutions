@@ -116,3 +116,4 @@
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars) | Easy | `Array` `Hash Table` `Prefix Sum` |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | `Array` `Bit Manipulation` |
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i) | Easy | `Combinatorics` `Enumeration` `Math` |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
