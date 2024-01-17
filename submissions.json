@@ -1159,6 +1159,16 @@
     ]
   },
   {
+    "id": 2956,
+    "title": "Find Common Elements Between Two Arrays",
+    "title_slug": "find-common-elements-between-two-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2974,
     "title": "Minimum Number Game",
     "title_slug": "minimum-number-game",
