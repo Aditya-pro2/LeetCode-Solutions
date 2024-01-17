@@ -1138,6 +1138,16 @@
     ]
   },
   {
+    "id": 2913,
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "title_slug": "subarrays-distinct-element-sum-of-squares-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2928,
     "title": "Distribute Candies Among Children I",
     "title_slug": "distribute-candies-among-children-i",
