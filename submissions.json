@@ -239,6 +239,16 @@
     ]
   },
   {
+    "id": 1071,
+    "title": "Greatest Common Divisor of Strings",
+    "title_slug": "greatest-common-divisor-of-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1108,
     "title": "Defanging an IP Address",
     "title_slug": "defanging-an-ip-address",
