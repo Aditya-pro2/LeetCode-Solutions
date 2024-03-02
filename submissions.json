@@ -1148,6 +1148,17 @@
     ]
   },
   {
+    "id": 2864,
+    "title": "Maximum Odd Binary Number",
+    "title_slug": "maximum-odd-binary-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2913,
     "title": "Subarrays Distinct Element Sum of Squares I",
     "title_slug": "subarrays-distinct-element-sum-of-squares-i",
