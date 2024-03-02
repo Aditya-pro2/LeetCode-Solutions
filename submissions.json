@@ -1200,5 +1200,14 @@
       "Simulation",
       "Sorting"
     ]
+  },
+  {
+    "id": 3065,
+    "title": "Minimum Operations to Exceed Threshold Value I",
+    "title_slug": "minimum-operations-to-exceed-threshold-value-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
