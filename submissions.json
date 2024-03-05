@@ -572,6 +572,16 @@
     ]
   },
   {
+    "id": 1750,
+    "title": "Minimum Length of String After Deleting Similar Ends",
+    "title_slug": "minimum-length-of-string-after-deleting-similar-ends",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1773,
     "title": "Count Items Matching a Rule",
     "title_slug": "count-items-matching-a-rule",
