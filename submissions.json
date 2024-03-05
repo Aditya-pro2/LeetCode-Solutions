@@ -360,6 +360,17 @@
     ]
   },
   {
+    "id": 1436,
+    "title": "Destination City",
+    "title_slug": "destination-city",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1450,
     "title": "Number of Students Doing Homework at a Given Time",
     "title_slug": "number-of-students-doing-homework-at-a-given-time",
