@@ -1200,6 +1200,17 @@
     ]
   },
   {
+    "id": 2960,
+    "title": "Count Tested Devices After Test Operations",
+    "title_slug": "count-tested-devices-after-test-operations",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2974,
     "title": "Minimum Number Game",
     "title_slug": "minimum-number-game",
