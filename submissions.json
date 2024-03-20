@@ -106,6 +106,15 @@
     ]
   },
   {
+    "id": 627,
+    "title": "Swap Sex of Employees",
+    "title_slug": "swap-sex-of-employees",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",
