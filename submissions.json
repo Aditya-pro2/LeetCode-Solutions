@@ -561,6 +561,15 @@
     ]
   },
   {
+    "id": 1741,
+    "title": "Find Total Time Spent by Each Employee",
+    "title_slug": "find-total-time-spent-by-each-employee",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1742,
     "title": "Maximum Number of Balls in a Box",
     "title_slug": "maximum-number-of-balls-in-a-box",
