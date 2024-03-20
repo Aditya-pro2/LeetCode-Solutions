@@ -531,6 +531,15 @@
     ]
   },
   {
+    "id": 1693,
+    "title": "Daily Leads and Partners",
+    "title_slug": "daily-leads-and-partners",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
