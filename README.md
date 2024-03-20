@@ -47,6 +47,7 @@
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | `Array` `String` |
+| 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | `Database` |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Stack` `String` |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Easy | `Array` `Sorting` |

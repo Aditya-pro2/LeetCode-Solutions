@@ -433,6 +433,15 @@
     ]
   },
   {
+    "id": 1587,
+    "title": "Bank Account Summary II",
+    "title_slug": "bank-account-summary-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1588,
     "title": "Sum of All Odd Length Subarrays",
     "title_slug": "sum-of-all-odd-length-subarrays",
