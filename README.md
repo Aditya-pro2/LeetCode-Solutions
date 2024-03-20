@@ -65,6 +65,7 @@
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | `Array` `Counting` `Hash Table` |
 | 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | Medium | `String` `Two Pointers` |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | Easy | `Array` `String` |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | `Database` |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | `Math` `String` |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | `Array` `String` |
 | 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Easy | `Array` `Greedy` |

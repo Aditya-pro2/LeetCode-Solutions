@@ -621,6 +621,15 @@
     ]
   },
   {
+    "id": 1795,
+    "title": "Rearrange Products Table",
+    "title_slug": "rearrange-products-table",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1812,
     "title": "Determine Color of a Chessboard Square",
     "title_slug": "determine-color-of-a-chessboard-square",
