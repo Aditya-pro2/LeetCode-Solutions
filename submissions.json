@@ -267,6 +267,15 @@
     ]
   },
   {
+    "id": 1179,
+    "title": "Reformat Department Table",
+    "title_slug": "reformat-department-table",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1217,
     "title": "Minimum Cost to Move Chips to The Same Position",
     "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
