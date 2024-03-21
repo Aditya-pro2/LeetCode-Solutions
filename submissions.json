@@ -716,6 +716,15 @@
     ]
   },
   {
+    "id": 1890,
+    "title": "The Latest Login in 2020",
+    "title_slug": "the-latest-login-in-2020",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1913,
     "title": "Maximum Product Difference Between Two Pairs",
     "title_slug": "maximum-product-difference-between-two-pairs",
