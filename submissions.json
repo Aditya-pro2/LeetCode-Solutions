@@ -273,6 +273,15 @@
     ]
   },
   {
+    "id": 1050,
+    "title": "Actors and Directors Who Cooperated At Least Three Times",
+    "title_slug": "actors-and-directors-who-cooperated-at-least-three-times",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1051,
     "title": "Height Checker",
     "title_slug": "height-checker",
