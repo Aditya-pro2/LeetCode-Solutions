@@ -17,6 +17,7 @@
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | `String` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | `Array` `Hash Table` `String` |
+| 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | `Database` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |

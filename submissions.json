@@ -114,6 +114,15 @@
     ]
   },
   {
+    "id": 511,
+    "title": "Game Play Analysis I",
+    "title_slug": "game-play-analysis-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
