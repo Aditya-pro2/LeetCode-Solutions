@@ -20,6 +20,15 @@
     ]
   },
   {
+    "id": 182,
+    "title": "Duplicate Emails",
+    "title_slug": "duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 258,
     "title": "Add Digits",
     "title_slug": "add-digits",
