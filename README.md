@@ -135,6 +135,7 @@
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | Easy | `Greedy` `Math` `String` |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | Easy | `Array` `Hash Table` |
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i) | Easy | `Combinatorics` `Enumeration` `Math` |
+| 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sliding Window` `Trie` |
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks) | Easy | `Array` `Enumeration` |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | Easy | `Array` `Hash Table` |
 | 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations) | Easy | `Array` `Counting` `Simulation` |

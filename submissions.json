@@ -1330,6 +1330,19 @@
     ]
   },
   {
+    "id": 2932,
+    "title": "Maximum Strong Pair XOR I",
+    "title_slug": "maximum-strong-pair-xor-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table",
+      "Sliding Window",
+      "Trie"
+    ]
+  },
+  {
     "id": 2951,
     "title": "Find the Peaks",
     "title_slug": "find-the-peaks",
