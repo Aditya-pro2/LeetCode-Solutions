@@ -1330,6 +1330,16 @@
     ]
   },
   {
+    "id": 2951,
+    "title": "Find the Peaks",
+    "title_slug": "find-the-peaks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 2956,
     "title": "Find Common Elements Between Two Arrays",
     "title_slug": "find-common-elements-between-two-arrays",
