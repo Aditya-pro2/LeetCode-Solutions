@@ -1,5 +1,15 @@
 [
   {
+    "id": 119,
+    "title": "Pascal's Triangle II",
+    "title_slug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
