@@ -1403,5 +1403,15 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 3079,
+    "title": "Find the Sum of Encrypted Integers",
+    "title_slug": "find-the-sum-of-encrypted-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]
