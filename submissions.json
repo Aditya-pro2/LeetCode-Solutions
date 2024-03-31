@@ -159,6 +159,16 @@
     ]
   },
   {
+    "id": 495,
+    "title": "Teemo Attacking",
+    "title_slug": "teemo-attacking",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 500,
     "title": "Keyboard Row",
     "title_slug": "keyboard-row",
