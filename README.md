@@ -149,3 +149,4 @@
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | Easy | `Array` `Math` |
+| 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |

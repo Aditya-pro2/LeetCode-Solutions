@@ -1481,5 +1481,15 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 3142,
+    "title": "Check if Grid Satisfies Conditions",
+    "title_slug": "check-if-grid-satisfies-conditions",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
   }
 ]
