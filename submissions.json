@@ -1502,5 +1502,15 @@
       "Bit Manipulation",
       "Hash Table"
     ]
+  },
+  {
+    "id": 3159,
+    "title": "Find Occurrences of an Element in an Array",
+    "title_slug": "find-occurrences-of-an-element-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]
