@@ -150,3 +150,4 @@
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | Easy | `Array` `Math` |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
