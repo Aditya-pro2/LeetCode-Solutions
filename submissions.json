@@ -1522,5 +1522,14 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 3163,
+    "title": "String Compression III",
+    "title_slug": "string-compression-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "String"
+    ]
   }
 ]
