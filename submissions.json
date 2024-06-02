@@ -202,6 +202,17 @@
     ]
   },
   {
+    "id": 506,
+    "title": "Relative Ranks",
+    "title_slug": "relative-ranks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 511,
     "title": "Game Play Analysis I",
     "title_slug": "game-play-analysis-i",
