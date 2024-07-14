@@ -1573,5 +1573,15 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 3216,
+    "title": "Lexicographically Smallest String After a Swap",
+    "title_slug": "lexicographically-smallest-string-after-a-swap",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
   }
 ]
