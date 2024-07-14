@@ -137,6 +137,7 @@
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy | `Array` `Hash Table` `Simulation` `String` |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
+| 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | `Array` `String` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | `Array` |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | `Simulation` `String` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
