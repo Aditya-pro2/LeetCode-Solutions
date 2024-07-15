@@ -499,6 +499,17 @@
     ]
   },
   {
+    "id": 1324,
+    "title": "Print Words Vertically",
+    "title_slug": "print-words-vertically",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 1342,
     "title": "Number of Steps to Reduce a Number to Zero",
     "title_slug": "number-of-steps-to-reduce-a-number-to-zero",
