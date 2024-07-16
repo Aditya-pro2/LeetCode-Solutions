@@ -370,6 +370,17 @@
     ]
   },
   {
+    "id": 974,
+    "title": "Subarray Sums Divisible by K",
+    "title_slug": "subarray-sums-divisible-by-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1021,
     "title": "Remove Outermost Parentheses",
     "title_slug": "remove-outermost-parentheses",

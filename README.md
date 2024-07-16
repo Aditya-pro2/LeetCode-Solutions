@@ -41,6 +41,7 @@
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i) | Easy | `Array` `Math` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
+| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | `Brainteaser` `Dynamic Programming` `Game Theory` `Math` |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | Easy | `Array` `Geometry` `Math` `Matrix` `Sorting` |
