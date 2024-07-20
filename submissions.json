@@ -1669,5 +1669,16 @@
       "Greedy",
       "String"
     ]
+  },
+  {
+    "id": 3222,
+    "title": "Find the Winning Player in Coin Game",
+    "title_slug": "find-the-winning-player-in-coin-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Game Theory",
+      "Math",
+      "Simulation"
+    ]
   }
 ]

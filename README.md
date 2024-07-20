@@ -167,3 +167,4 @@
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | `Array` `Hash Table` |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii) | Medium | `String` |
 | 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap) | Easy | `Greedy` `String` |
+| 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game) | Easy | `Game Theory` `Math` `Simulation` |
