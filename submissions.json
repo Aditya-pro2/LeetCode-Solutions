@@ -1680,5 +1680,14 @@
       "Math",
       "Simulation"
     ]
+  },
+  {
+    "id": 3226,
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "title_slug": "number-of-bit-changes-to-make-two-integers-equal",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
   }
 ]
