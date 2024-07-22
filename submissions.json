@@ -247,6 +247,18 @@
     ]
   },
   {
+    "id": 509,
+    "title": "Fibonacci Number",
+    "title_slug": "fibonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization",
+      "Recursion"
+    ]
+  },
+  {
     "id": 511,
     "title": "Game Play Analysis I",
     "title_slug": "game-play-analysis-i",
