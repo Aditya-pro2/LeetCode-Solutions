@@ -201,6 +201,16 @@
     ]
   },
   {
+    "id": 441,
+    "title": "Arranging Coins",
+    "title_slug": "arranging-coins",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 442,
     "title": "Find All Duplicates in an Array",
     "title_slug": "find-all-duplicates-in-an-array",
