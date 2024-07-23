@@ -386,6 +386,17 @@
     ]
   },
   {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "title_slug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",

@@ -43,6 +43,7 @@
 | 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | `Array` `Math` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
+| 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
