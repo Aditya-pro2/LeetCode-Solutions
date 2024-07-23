@@ -19,6 +19,7 @@
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | `Array` `Design` `Prefix Sum` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
+| 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | `Bit Manipulation` `Math` `String` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
