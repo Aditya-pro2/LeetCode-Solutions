@@ -32,6 +32,7 @@
 | 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | Easy | `Array` `Simulation` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
 | 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | Easy | `Array` `Hash Table` `String` |
+| 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` `String` |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | `Database` |
