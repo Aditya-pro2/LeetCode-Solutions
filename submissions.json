@@ -1221,6 +1221,18 @@
     ]
   },
   {
+    "id": 2418,
+    "title": "Sort the People",
+    "title_slug": "sort-the-people",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 2427,
     "title": "Number of Common Factors",
     "title_slug": "number-of-common-factors",

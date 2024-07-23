@@ -123,6 +123,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | `Array` `Enumeration` `Hash Table` `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | `Array` `Matrix` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | `Array` `Hash Table` `Sorting` `String` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
