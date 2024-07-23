@@ -234,6 +234,15 @@
     ]
   },
   {
+    "id": 492,
+    "title": "Construct the Rectangle",
+    "title_slug": "construct-the-rectangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 495,
     "title": "Teemo Attacking",
     "title_slug": "teemo-attacking",
