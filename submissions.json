@@ -1185,6 +1185,16 @@
     ]
   },
   {
+    "id": 2191,
+    "title": "Sort the Jumbled Numbers",
+    "title_slug": "sort-the-jumbled-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2194,
     "title": "Cells in a Range on an Excel Sheet",
     "title_slug": "cells-in-a-range-on-an-excel-sheet",
