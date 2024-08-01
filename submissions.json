@@ -1496,6 +1496,16 @@
     ]
   },
   {
+    "id": 2678,
+    "title": "Number of Senior Citizens",
+    "title_slug": "number-of-senior-citizens",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
