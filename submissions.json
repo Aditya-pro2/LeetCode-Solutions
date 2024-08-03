@@ -1845,5 +1845,16 @@
     "skills": [
       "Bit Manipulation"
     ]
+  },
+  {
+    "id": 3238,
+    "title": "Find the Number of Winning Players",
+    "title_slug": "find-the-number-of-winning-players",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
   }
 ]
