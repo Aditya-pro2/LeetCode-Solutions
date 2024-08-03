@@ -1175,6 +1175,16 @@
     ]
   },
   {
+    "id": 2134,
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "title_slug": "minimum-swaps-to-group-all-1s-together-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2160,
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
