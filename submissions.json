@@ -1935,6 +1935,16 @@
     ]
   },
   {
+    "id": 3232,
+    "title": "Find if Digit Game Can Be Won",
+    "title_slug": "find-if-digit-game-can-be-won",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3238,
     "title": "Find the Number of Winning Players",
     "title_slug": "find-the-number-of-winning-players",
