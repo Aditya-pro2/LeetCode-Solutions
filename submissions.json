@@ -773,6 +773,19 @@
     ]
   },
   {
+    "id": 1508,
+    "title": "Range Sum of Sorted Subarray Sums",
+    "title_slug": "range-sum-of-sorted-subarray-sums",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1512,
     "title": "Number of Good Pairs",
     "title_slug": "number-of-good-pairs",

@@ -80,6 +80,7 @@
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
+| 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | `Array` `Binary Search` `Prefix Sum` `Sorting` `Two Pointers` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | `Array` `String` |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | `Database` |
