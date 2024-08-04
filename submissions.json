@@ -1875,6 +1875,16 @@
     ]
   },
   {
+    "id": 3168,
+    "title": "Minimum Number of Chairs in a Waiting Room",
+    "title_slug": "minimum-number-of-chairs-in-a-waiting-room",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3194,
     "title": "Minimum Average of Smallest and Largest Elements",
     "title_slug": "minimum-average-of-smallest-and-largest-elements",

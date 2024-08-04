@@ -186,6 +186,7 @@
 | 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | Medium | `Array` `Hash Table` |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | `Array` `Hash Table` |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii) | Medium | `String` |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) | Easy | `Simulation` `String` |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string) | Easy | `String` |
 | 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap) | Easy | `Greedy` `String` |
