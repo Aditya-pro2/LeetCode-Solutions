@@ -575,6 +575,17 @@
     ]
   },
   {
+    "id": 1037,
+    "title": "Valid Boomerang",
+    "title_slug": "valid-boomerang",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1050,
     "title": "Actors and Directors Who Cooperated At Least Three Times",
     "title_slug": "actors-and-directors-who-cooperated-at-least-three-times",
