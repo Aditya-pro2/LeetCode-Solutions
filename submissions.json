@@ -461,6 +461,18 @@
     ]
   },
   {
+    "id": 892,
+    "title": "Surface Area of 3D Shapes",
+    "title_slug": "surface-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 905,
     "title": "Sort Array By Parity",
     "title_slug": "sort-array-by-parity",
