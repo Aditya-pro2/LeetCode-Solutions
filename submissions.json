@@ -530,6 +530,16 @@
     ]
   },
   {
+    "id": 989,
+    "title": "Add to Array-Form of Integer",
+    "title_slug": "add-to-array-form-of-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1021,
     "title": "Remove Outermost Parentheses",
     "title_slug": "remove-outermost-parentheses",
