@@ -494,6 +494,19 @@
     ]
   },
   {
+    "id": 914,
+    "title": "X of a Kind in a Deck of Cards",
+    "title_slug": "x-of-a-kind-in-a-deck-of-cards",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 942,
     "title": "DI String Match",
     "title_slug": "di-string-match",
