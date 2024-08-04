@@ -1886,6 +1886,15 @@
     ]
   },
   {
+    "id": 3210,
+    "title": "Find the Encrypted String",
+    "title_slug": "find-the-encrypted-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3216,
     "title": "Lexicographically Smallest String After a Swap",
     "title_slug": "lexicographically-smallest-string-after-a-swap",
