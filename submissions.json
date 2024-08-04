@@ -451,6 +451,16 @@
     ]
   },
   {
+    "id": 836,
+    "title": "Rectangle Overlap",
+    "title_slug": "rectangle-overlap",
+    "difficulty": "Easy",
+    "skills": [
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 905,
     "title": "Sort Array By Parity",
     "title_slug": "sort-array-by-parity",
