@@ -1112,6 +1112,16 @@
     ]
   },
   {
+    "id": 1822,
+    "title": "Sign of the Product of an Array",
+    "title_slug": "sign-of-the-product-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1827,
     "title": "Minimum Operations to Make the Array Increasing",
     "title_slug": "minimum-operations-to-make-the-array-increasing",
