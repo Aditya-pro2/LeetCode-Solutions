@@ -1051,6 +1051,16 @@
     ]
   },
   {
+    "id": 1768,
+    "title": "Merge Strings Alternately",
+    "title_slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1773,
     "title": "Count Items Matching a Rule",
     "title_slug": "count-items-matching-a-rule",
