@@ -409,6 +409,15 @@
     ]
   },
   {
+    "id": 709,
+    "title": "To Lower Case",
+    "title_slug": "to-lower-case",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",
