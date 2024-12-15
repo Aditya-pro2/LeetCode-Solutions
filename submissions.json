@@ -409,6 +409,16 @@
     ]
   },
   {
+    "id": 657,
+    "title": "Robot Return to Origin",
+    "title_slug": "robot-return-to-origin",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 682,
     "title": "Baseball Game",
     "title_slug": "baseball-game",
