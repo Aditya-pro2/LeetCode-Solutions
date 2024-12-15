@@ -409,6 +409,17 @@
     ]
   },
   {
+    "id": 682,
+    "title": "Baseball Game",
+    "title_slug": "baseball-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 709,
     "title": "To Lower Case",
     "title_slug": "to-lower-case",
