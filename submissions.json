@@ -1,5 +1,14 @@
 [
   {
+    "id": 8,
+    "title": "String to Integer (atoi)",
+    "title_slug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 18,
     "title": "4Sum",
     "title_slug": "4sum",
