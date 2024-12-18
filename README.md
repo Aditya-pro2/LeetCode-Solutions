@@ -7,6 +7,7 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | `String` |
+| 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard | `Dynamic Programming` `Recursion` `String` |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |

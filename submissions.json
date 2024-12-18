@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 10,
+    "title": "Regular Expression Matching",
+    "title_slug": "regular-expression-matching",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Recursion",
+      "String"
+    ]
+  },
+  {
     "id": 18,
     "title": "4Sum",
     "title_slug": "4sum",
