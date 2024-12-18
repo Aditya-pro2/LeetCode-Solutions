@@ -31,6 +31,16 @@
     ]
   },
   {
+    "id": 24,
+    "title": "Swap Nodes in Pairs",
+    "title_slug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 119,
     "title": "Pascal's Triangle II",
     "title_slug": "pascals-triangle-ii",
