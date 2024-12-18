@@ -89,6 +89,16 @@
     ]
   },
   {
+    "id": 203,
+    "title": "Remove Linked List Elements",
+    "title_slug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
