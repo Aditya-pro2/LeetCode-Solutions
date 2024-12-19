@@ -499,6 +499,19 @@
     ]
   },
   {
+    "id": 769,
+    "title": "Max Chunks To Make Sorted",
+    "title_slug": "max-chunks-to-make-sorted",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Monotonic Stack",
+      "Sorting",
+      "Stack"
+    ]
+  },
+  {
     "id": 771,
     "title": "Jewels and Stones",
     "title_slug": "jewels-and-stones",
