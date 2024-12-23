@@ -747,6 +747,17 @@
     ]
   },
   {
+    "id": 1192,
+    "title": "Critical Connections in a Network",
+    "title_slug": "critical-connections-in-a-network",
+    "difficulty": "Hard",
+    "skills": [
+      "Biconnected Component",
+      "Depth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1217,
     "title": "Minimum Cost to Move Chips to The Same Position",
     "title_slug": "minimum-cost-to-move-chips-to-the-same-position",
