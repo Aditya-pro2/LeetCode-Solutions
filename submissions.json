@@ -656,6 +656,16 @@
     ]
   },
   {
+    "id": 1014,
+    "title": "Best Sightseeing Pair",
+    "title_slug": "best-sightseeing-pair",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1021,
     "title": "Remove Outermost Parentheses",
     "title_slug": "remove-outermost-parentheses",
