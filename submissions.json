@@ -482,6 +482,18 @@
     ]
   },
   {
+    "id": 689,
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "title_slug": "maximum-sum-of-3-non-overlapping-subarrays",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 709,
     "title": "To Lower Case",
     "title_slug": "to-lower-case",
