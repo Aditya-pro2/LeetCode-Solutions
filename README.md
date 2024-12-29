@@ -106,6 +106,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Stack` `String` |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Easy | `Array` `Sorting` |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | Hard | `Array` `Dynamic Programming` `String` |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | Easy | `Array` `Data Stream` `Design` `Hash Table` |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | Medium | `Array` `Binary Search` `Hash Table` `Prefix Sum` `Sliding Window` |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | `Array` `String` |

@@ -1053,6 +1053,17 @@
     ]
   },
   {
+    "id": 1639,
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "title_slug": "number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 1656,
     "title": "Design an Ordered Stream",
     "title_slug": "design-an-ordered-stream",
