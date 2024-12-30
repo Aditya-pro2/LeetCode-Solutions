@@ -161,6 +161,7 @@
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | `Array` `Hash Table` `Sorting` `String` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
+| 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | Medium | `Dynamic Programming` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | Medium | `Binary Tree` `Breadth-First Search` `Tree` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |

@@ -1630,6 +1630,15 @@
     ]
   },
   {
+    "id": 2466,
+    "title": "Count Ways To Build Good Strings",
+    "title_slug": "count-ways-to-build-good-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 2469,
     "title": "Convert the Temperature",
     "title_slug": "convert-the-temperature",
