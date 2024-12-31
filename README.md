@@ -68,6 +68,7 @@
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | Medium | `Array` `Dynamic Programming` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Medium | `Array` `Dynamic Programming` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |

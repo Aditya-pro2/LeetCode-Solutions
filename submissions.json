@@ -658,6 +658,16 @@
     ]
   },
   {
+    "id": 983,
+    "title": "Minimum Cost For Tickets",
+    "title_slug": "minimum-cost-for-tickets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 989,
     "title": "Add to Array-Form of Integer",
     "title_slug": "add-to-array-form-of-integer",
