@@ -93,6 +93,7 @@
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | `Array` `Matrix` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | `Array` `Simulation` |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order) | Easy | `Array` `Greedy` `Sorting` |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Medium | `Array` `Prefix Sum` `Sliding Window` |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | `Array` `Hash Table` `String` |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | Easy | `Array` |

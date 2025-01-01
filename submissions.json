@@ -915,6 +915,16 @@
     ]
   },
   {
+    "id": 1422,
+    "title": "Maximum Score After Splitting a String",
+    "title_slug": "maximum-score-after-splitting-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 1423,
     "title": "Maximum Points You Can Obtain from Cards",
     "title_slug": "maximum-points-you-can-obtain-from-cards",
