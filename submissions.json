@@ -1742,6 +1742,17 @@
     ]
   },
   {
+    "id": 2559,
+    "title": "Count Vowel Strings in Ranges",
+    "title_slug": "count-vowel-strings-in-ranges",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 2574,
     "title": "Left and Right Sum Differences",
     "title_slug": "left-and-right-sum-differences",
