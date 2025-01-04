@@ -220,3 +220,4 @@
 | 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal) | Easy | `Bit Manipulation` |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | `Array` `Math` |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
+| 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
