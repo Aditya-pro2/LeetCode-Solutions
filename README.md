@@ -221,3 +221,4 @@
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | `Array` `Math` |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | Easy | `Array` `Enumeration` `Math` `Number Theory` `Sliding Window` |
