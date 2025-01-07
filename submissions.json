@@ -915,6 +915,17 @@
     ]
   },
   {
+    "id": 1408,
+    "title": "String Matching in an Array",
+    "title_slug": "string-matching-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 1422,
     "title": "Maximum Score After Splitting a String",
     "title_slug": "maximum-score-after-splitting-a-string",
