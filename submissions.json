@@ -2097,6 +2097,20 @@
     ]
   },
   {
+    "id": 3042,
+    "title": "Count Prefix and Suffix Pairs I",
+    "title_slug": "count-prefix-and-suffix-pairs-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Function",
+      "Rolling Hash",
+      "String",
+      "String Matching",
+      "Trie"
+    ]
+  },
+  {
     "id": 3065,
     "title": "Minimum Operations to Exceed Threshold Value I",
     "title_slug": "minimum-operations-to-exceed-threshold-value-i",
