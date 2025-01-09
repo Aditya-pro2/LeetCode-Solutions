@@ -773,6 +773,16 @@
     ]
   },
   {
+    "id": 1103,
+    "title": "Distribute Candies to People",
+    "title_slug": "distribute-candies-to-people",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1108,
     "title": "Defanging an IP Address",
     "title_slug": "defanging-an-ip-address",

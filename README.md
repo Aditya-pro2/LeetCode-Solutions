@@ -79,6 +79,7 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | `Database` |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy | `Math` `Simulation` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
