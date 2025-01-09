@@ -1511,6 +1511,17 @@
     ]
   },
   {
+    "id": 2185,
+    "title": "Counting Words With a Given Prefix",
+    "title_slug": "counting-words-with-a-given-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 2191,
     "title": "Sort the Jumbled Numbers",
     "title_slug": "sort-the-jumbled-numbers",
