@@ -635,6 +635,17 @@
     ]
   },
   {
+    "id": 916,
+    "title": "Word Subsets",
+    "title_slug": "word-subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 942,
     "title": "DI String Match",
     "title_slug": "di-string-match",
