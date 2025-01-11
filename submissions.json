@@ -925,6 +925,18 @@
     ]
   },
   {
+    "id": 1400,
+    "title": "Construct K Palindrome Strings",
+    "title_slug": "construct-k-palindrome-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1403,
     "title": "Minimum Subsequence in Non-Increasing Order",
     "title_slug": "minimum-subsequence-in-non-increasing-order",
