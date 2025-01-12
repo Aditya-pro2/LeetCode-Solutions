@@ -1504,6 +1504,17 @@
     ]
   },
   {
+    "id": 2116,
+    "title": "Check if a Parentheses String Can Be Valid",
+    "title_slug": "check-if-a-parentheses-string-can-be-valid",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 2119,
     "title": "A Number After a Double Reversal",
     "title_slug": "a-number-after-a-double-reversal",
