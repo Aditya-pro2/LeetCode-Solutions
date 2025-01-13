@@ -2307,6 +2307,17 @@
     ]
   },
   {
+    "id": 3223,
+    "title": "Minimum Length of String After Operations",
+    "title_slug": "minimum-length-of-string-after-operations",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3226,
     "title": "Number of Bit Changes to Make Two Integers Equal",
     "title_slug": "number-of-bit-changes-to-make-two-integers-equal",
