@@ -1931,6 +1931,17 @@
     ]
   },
   {
+    "id": 2657,
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "title_slug": "find-the-prefix-common-array-of-two-arrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2670,
     "title": "Find the Distinct Difference Array",
     "title_slug": "find-the-distinct-difference-array",

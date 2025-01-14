@@ -190,6 +190,7 @@
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | `Math` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
 | 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
+| 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | `Array` `Bit Manipulation` `Hash Table` |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | Easy | `Array` `Hash Table` |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy | `Array` `String` |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum) | Easy | `Array` `Sorting` |
