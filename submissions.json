@@ -1748,6 +1748,16 @@
     ]
   },
   {
+    "id": 2429,
+    "title": "Minimize XOR",
+    "title_slug": "minimize-xor",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2466,
     "title": "Count Ways To Build Good Strings",
     "title_slug": "count-ways-to-build-good-strings",
