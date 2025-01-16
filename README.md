@@ -171,6 +171,7 @@
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | `Array` `Hash Table` `Sorting` `String` |
+| 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | Medium | `Array` `Bit Manipulation` `Brainteaser` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | Medium | `Bit Manipulation` `Greedy` |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | Medium | `Dynamic Programming` |

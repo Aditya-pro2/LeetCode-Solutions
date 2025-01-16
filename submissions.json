@@ -1737,6 +1737,17 @@
     ]
   },
   {
+    "id": 2425,
+    "title": "Bitwise XOR of All Pairings",
+    "title_slug": "bitwise-xor-of-all-pairings",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
     "id": 2427,
     "title": "Number of Common Factors",
     "title_slug": "number-of-common-factors",
