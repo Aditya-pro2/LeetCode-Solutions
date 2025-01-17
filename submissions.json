@@ -1983,6 +1983,16 @@
     ]
   },
   {
+    "id": 2683,
+    "title": "Neighboring Bitwise XOR",
+    "title_slug": "neighboring-bitwise-xor",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",

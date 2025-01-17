@@ -195,6 +195,7 @@
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | `Array` `Bit Manipulation` `Hash Table` |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | Easy | `Array` `Hash Table` |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy | `Array` `String` |
+| 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum) | Easy | `Array` `Sorting` |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy | `Array` `Hash Table` `Simulation` `String` |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
