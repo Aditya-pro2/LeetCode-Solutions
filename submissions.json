@@ -905,6 +905,20 @@
     ]
   },
   {
+    "id": 1368,
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "title_slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 1380,
     "title": "Lucky Numbers in a Matrix",
     "title_slug": "lucky-numbers-in-a-matrix",
