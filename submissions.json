@@ -507,6 +507,19 @@
     ]
   },
   {
+    "id": 706,
+    "title": "Design HashMap",
+    "title_slug": "design-hashmap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 709,
     "title": "To Lower Case",
     "title_slug": "to-lower-case",
