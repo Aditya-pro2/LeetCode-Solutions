@@ -606,6 +606,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 892,
     "title": "Surface Area of 3D Shapes",
     "title_slug": "surface-area-of-3d-shapes",
