@@ -494,6 +494,19 @@
     ]
   },
   {
+    "id": 705,
+    "title": "Design HashSet",
+    "title_slug": "design-hashset",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "Linked List"
+    ]
+  },
+  {
     "id": 709,
     "title": "To Lower Case",
     "title_slug": "to-lower-case",
