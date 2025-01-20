@@ -2013,6 +2013,17 @@
     ]
   },
   {
+    "id": 2661,
+    "title": "First Completely Painted Row or Column",
+    "title_slug": "first-completely-painted-row-or-column",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2670,
     "title": "Find the Distinct Difference Array",
     "title_slug": "find-the-distinct-difference-array",
