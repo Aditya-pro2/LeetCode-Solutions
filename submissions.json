@@ -1478,6 +1478,17 @@
     ]
   },
   {
+    "id": 2017,
+    "title": "Grid Game",
+    "title_slug": "grid-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2032,
     "title": "Two Out of Three",
     "title_slug": "two-out-of-three",

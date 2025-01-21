@@ -146,6 +146,7 @@
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | `Database` |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs) | Easy | `Array` `Sorting` |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | `Array` `Counting` `Hash Table` |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | `Array` `Counting` `Hash Table` `String` |
