@@ -881,6 +881,20 @@
     ]
   },
   {
+    "id": 1267,
+    "title": "Count Servers that Communicate",
+    "title_slug": "count-servers-that-communicate",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Counting",
+      "Depth-First Search",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
