@@ -572,6 +572,18 @@
     ]
   },
   {
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 804,
     "title": "Unique Morse Code Words",
     "title_slug": "unique-morse-code-words",
