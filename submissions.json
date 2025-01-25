@@ -2249,6 +2249,17 @@
     ]
   },
   {
+    "id": 2948,
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2951,
     "title": "Find the Peaks",
     "title_slug": "find-the-peaks",
