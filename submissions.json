@@ -1087,6 +1087,18 @@
     ]
   },
   {
+    "id": 1462,
+    "title": "Course Schedule IV",
+    "title_slug": "course-schedule-iv",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 1464,
     "title": "Maximum Product of Two Elements in an Array",
     "title_slug": "maximum-product-of-two-elements-in-an-array",
