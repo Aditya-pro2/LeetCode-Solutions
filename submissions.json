@@ -1908,6 +1908,18 @@
     ]
   },
   {
+    "id": 2493,
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
+    "difficulty": "Hard",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2500,
     "title": "Delete Greatest Value in Each Row",
     "title_slug": "delete-greatest-value-in-each-row",
