@@ -595,6 +595,19 @@
     ]
   },
   {
+    "id": 827,
+    "title": "Making A Large Island",
+    "title_slug": "making-a-large-island",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 832,
     "title": "Flipping an Image",
     "title_slug": "flipping-an-image",
