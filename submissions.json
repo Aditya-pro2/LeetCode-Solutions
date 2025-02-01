@@ -2416,6 +2416,15 @@
     ]
   },
   {
+    "id": 3151,
+    "title": "Special Array I",
+    "title_slug": "special-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3158,
     "title": "Find the XOR of Numbers Which Appear Twice",
     "title_slug": "find-the-xor-of-numbers-which-appear-twice",
