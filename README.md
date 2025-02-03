@@ -233,6 +233,7 @@
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | Easy | `Array` `Hash Function` `Rolling Hash` `String` `String Matching` `Trie` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | Easy | `Array` `Math` |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | `Array` |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | Easy | `Array` |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | Easy | `Array` |

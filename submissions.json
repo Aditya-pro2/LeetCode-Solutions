@@ -2406,6 +2406,15 @@
     ]
   },
   {
+    "id": 3105,
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3131,
     "title": "Find the Integer Added to Array I",
     "title_slug": "find-the-integer-added-to-array-i",
