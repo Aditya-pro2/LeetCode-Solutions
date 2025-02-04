@@ -1425,6 +1425,15 @@
     ]
   },
   {
+    "id": 1800,
+    "title": "Maximum Ascending Subarray Sum",
+    "title_slug": "maximum-ascending-subarray-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1812,
     "title": "Determine Color of a Chessboard Square",
     "title_slug": "determine-color-of-a-chessboard-square",
