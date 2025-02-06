@@ -1335,6 +1335,17 @@
     ]
   },
   {
+    "id": 1726,
+    "title": "Tuple with Same Product",
+    "title_slug": "tuple-with-same-product",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1741,
     "title": "Find Total Time Spent by Each Employee",
     "title_slug": "find-total-time-spent-by-each-employee",
