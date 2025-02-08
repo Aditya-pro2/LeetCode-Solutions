@@ -242,6 +242,7 @@
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | Easy | `Array` |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 3159 | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) | Medium | `Array` `Hash Table` |
+| 3160 | [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls) | Medium | `Array` `Hash Table` `Simulation` |
 | 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i) | Easy | `Array` `Hash Table` |
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii) | Medium | `String` |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) | Easy | `Simulation` `String` |
