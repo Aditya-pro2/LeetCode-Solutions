@@ -1857,6 +1857,18 @@
     ]
   },
   {
+    "id": 2364,
+    "title": "Count Number of Bad Pairs",
+    "title_slug": "count-number-of-bad-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 2367,
     "title": "Number of Arithmetic Triplets",
     "title_slug": "number-of-arithmetic-triplets",
