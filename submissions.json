@@ -2559,6 +2559,17 @@
     ]
   },
   {
+    "id": 3174,
+    "title": "Clear Digits",
+    "title_slug": "clear-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 3194,
     "title": "Minimum Average of Smallest and Largest Elements",
     "title_slug": "minimum-average-of-smallest-and-largest-elements",
