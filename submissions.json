@@ -1548,6 +1548,17 @@
     ]
   },
   {
+    "id": 1910,
+    "title": "Remove All Occurrences of a Substring",
+    "title_slug": "remove-all-occurrences-of-a-substring",
+    "difficulty": "Medium",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1913,
     "title": "Maximum Product Difference Between Two Pairs",
     "title_slug": "maximum-product-difference-between-two-pairs",
