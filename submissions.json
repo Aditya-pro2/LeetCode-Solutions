@@ -968,6 +968,19 @@
     ]
   },
   {
+    "id": 1352,
+    "title": "Product of the Last K Numbers",
+    "title_slug": "product-of-the-last-k-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1356,
     "title": "Sort Integers by The Number of 1 Bits",
     "title_slug": "sort-integers-by-the-number-of-1-bits",
