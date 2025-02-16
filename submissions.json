@@ -1329,6 +1329,16 @@
     ]
   },
   {
+    "id": 1718,
+    "title": "Construct the Lexicographically Largest Valid Sequence",
+    "title_slug": "construct-the-lexicographically-largest-valid-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 1720,
     "title": "Decode XORed Array",
     "title_slug": "decode-xored-array",

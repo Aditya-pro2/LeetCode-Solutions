@@ -130,6 +130,7 @@
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | `Math` `Simulation` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | `Database` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
+| 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | Medium | `Array` `Backtracking` |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | `Array` `Bit Manipulation` |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | `Array` |
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
