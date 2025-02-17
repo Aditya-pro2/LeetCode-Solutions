@@ -836,6 +836,18 @@
     ]
   },
   {
+    "id": 1079,
+    "title": "Letter Tile Possibilities",
+    "title_slug": "letter-tile-possibilities",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1084,
     "title": "Sales Analysis III",
     "title_slug": "sales-analysis-iii",
