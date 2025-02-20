@@ -1604,6 +1604,18 @@
     ]
   },
   {
+    "id": 1980,
+    "title": "Find Unique Binary String",
+    "title_slug": "find-unique-binary-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2006,
     "title": "Count Number of Pairs With Absolute Difference K",
     "title_slug": "count-number-of-pairs-with-absolute-difference-k",
