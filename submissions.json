@@ -918,6 +918,20 @@
     ]
   },
   {
+    "id": 1261,
+    "title": "Find Elements in a Contaminated Binary Tree",
+    "title_slug": "find-elements-in-a-contaminated-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Design",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 1267,
     "title": "Count Servers that Communicate",
     "title_slug": "count-servers-that-communicate",
