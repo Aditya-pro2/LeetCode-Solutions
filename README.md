@@ -79,6 +79,7 @@
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Medium | `Array` `Dynamic Programming` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | `Brainteaser` `Dynamic Programming` `Game Theory` `Math` |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | Hard | `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | Easy | `Array` `Geometry` `Math` `Matrix` `Sorting` |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | `Array` `Geometry` `Math` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | `Database` |

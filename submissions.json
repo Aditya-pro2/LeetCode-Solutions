@@ -782,6 +782,18 @@
     ]
   },
   {
+    "id": 1028,
+    "title": "Recover a Tree From Preorder Traversal",
+    "title_slug": "recover-a-tree-from-preorder-traversal",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "String",
+      "Tree"
+    ]
+  },
+  {
     "id": 1030,
     "title": "Matrix Cells in Distance Order",
     "title_slug": "matrix-cells-in-distance-order",
