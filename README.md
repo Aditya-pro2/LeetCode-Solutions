@@ -66,6 +66,7 @@
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Bit Manipulation` `Matrix` `Simulation` `Two Pointers` |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
+| 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | Medium | `Array` `Binary Tree` `Divide and Conquer` `Hash Table` `Tree` |
 | 0892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | Easy | `Array` `Geometry` `Math` `Matrix` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | `Array` `Sorting` `Two Pointers` |
