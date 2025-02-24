@@ -2086,6 +2086,19 @@
     ]
   },
   {
+    "id": 2467,
+    "title": "Most Profitable Path in a Tree",
+    "title_slug": "most-profitable-path-in-a-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Tree"
+    ]
+  },
+  {
     "id": 2469,
     "title": "Convert the Temperature",
     "title_slug": "convert-the-temperature",

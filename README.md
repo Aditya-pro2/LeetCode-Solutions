@@ -201,6 +201,7 @@
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | Medium | `Bit Manipulation` `Greedy` |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | Medium | `Dynamic Programming` |
+| 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level) | Medium | `Binary Tree` `Breadth-First Search` `Tree` |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
