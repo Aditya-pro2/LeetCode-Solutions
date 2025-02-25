@@ -1232,6 +1232,18 @@
     ]
   },
   {
+    "id": 1524,
+    "title": "Number of Sub-arrays With Odd Sum",
+    "title_slug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1528,
     "title": "Shuffle String",
     "title_slug": "shuffle-string",
