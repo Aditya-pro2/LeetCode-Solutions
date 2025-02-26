@@ -1463,6 +1463,16 @@
     ]
   },
   {
+    "id": 1749,
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "title_slug": "maximum-absolute-sum-of-any-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1750,
     "title": "Minimum Length of String After Deleting Similar Ends",
     "title_slug": "minimum-length-of-string-after-deleting-similar-ends",
