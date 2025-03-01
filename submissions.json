@@ -2120,6 +2120,17 @@
     ]
   },
   {
+    "id": 2460,
+    "title": "Apply Operations to an Array",
+    "title_slug": "apply-operations-to-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2466,
     "title": "Count Ways To Build Good Strings",
     "title_slug": "count-ways-to-build-good-strings",
