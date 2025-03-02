@@ -2259,6 +2259,17 @@
     ]
   },
   {
+    "id": 2570,
+    "title": "Merge Two 2D Arrays by Summing Values",
+    "title_slug": "merge-two-2d-arrays-by-summing-values",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2574,
     "title": "Left and Right Sum Differences",
     "title_slug": "left-and-right-sum-differences",
