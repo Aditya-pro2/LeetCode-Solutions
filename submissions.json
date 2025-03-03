@@ -1848,6 +1848,17 @@
     ]
   },
   {
+    "id": 2161,
+    "title": "Partition Array According to Given Pivot",
+    "title_slug": "partition-array-according-to-given-pivot",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2180,
     "title": "Count Integers With Even Digit Sum",
     "title_slug": "count-integers-with-even-digit-sum",
