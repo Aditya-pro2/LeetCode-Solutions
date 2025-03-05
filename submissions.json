@@ -2311,6 +2311,15 @@
     ]
   },
   {
+    "id": 2579,
+    "title": "Count Total Number of Colored Cells",
+    "title_slug": "count-total-number-of-colored-cells",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2586,
     "title": "Count the Number of Vowel Strings in Range",
     "title_slug": "count-the-number-of-vowel-strings-in-range",

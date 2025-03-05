@@ -222,6 +222,7 @@
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | `Array` `Hash Table` `Two Pointers` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum) | Easy | `Greedy` `Math` `Sorting` |
+| 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | Medium | `Math` |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | `Array` `Counting` `String` |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | Medium | `Array` `Hash Table` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
