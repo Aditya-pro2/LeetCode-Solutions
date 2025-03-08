@@ -200,6 +200,7 @@
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets) | Easy | `Array` `Enumeration` `Hash Table` `Two Pointers` |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | Easy | `Array` `Matrix` |
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | Medium | `Backtracking` `Greedy` `Stack` `String` |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people) | Easy | `Array` `Hash Table` `Sorting` `String` |
