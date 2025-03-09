@@ -2864,6 +2864,16 @@
     ]
   },
   {
+    "id": 3208,
+    "title": "Alternating Groups II",
+    "title_slug": "alternating-groups-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3210,
     "title": "Find the Encrypted String",
     "title_slug": "find-the-encrypted-string",

@@ -275,6 +275,7 @@
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | Easy | `Simulation` `Stack` `String` |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
+| 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string) | Easy | `String` |
 | 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap) | Easy | `Greedy` `String` |
 | 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game) | Easy | `Game Theory` `Math` `Simulation` |
