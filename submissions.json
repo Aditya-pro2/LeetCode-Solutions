@@ -2945,6 +2945,17 @@
     ]
   },
   {
+    "id": 3306,
+    "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+    "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
