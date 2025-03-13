@@ -2967,6 +2967,17 @@
     ]
   },
   {
+    "id": 3356,
+    "title": "Zero Array Transformation II",
+    "title_slug": "zero-array-transformation-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
