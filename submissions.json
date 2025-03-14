@@ -1908,6 +1908,16 @@
     ]
   },
   {
+    "id": 2226,
+    "title": "Maximum Candies Allocated to K Children",
+    "title_slug": "maximum-candies-allocated-to-k-children",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 2235,
     "title": "Add Two Integers",
     "title_slug": "add-two-integers",
