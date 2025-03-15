@@ -2310,6 +2310,18 @@
     ]
   },
   {
+    "id": 2560,
+    "title": "House Robber IV",
+    "title_slug": "house-robber-iv",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2570,
     "title": "Merge Two 2D Arrays by Summing Values",
     "title_slug": "merge-two-2d-arrays-by-summing-values",

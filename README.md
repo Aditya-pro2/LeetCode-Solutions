@@ -222,6 +222,7 @@
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | Medium | `Array` `Prefix Sum` `String` |
+| 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | `Array` `Hash Table` `Two Pointers` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum) | Easy | `Greedy` `Math` `Sorting` |
