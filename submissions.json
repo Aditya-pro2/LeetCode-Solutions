@@ -2374,6 +2374,16 @@
     ]
   },
   {
+    "id": 2594,
+    "title": "Minimum Time to Repair Cars",
+    "title_slug": "minimum-time-to-repair-cars",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 2610,
     "title": "Convert an Array Into a 2D Array With Conditions",
     "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
