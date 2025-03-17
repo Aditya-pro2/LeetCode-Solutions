@@ -1908,6 +1908,18 @@
     ]
   },
   {
+    "id": 2206,
+    "title": "Divide Array Into Equal Pairs",
+    "title_slug": "divide-array-into-equal-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2226,
     "title": "Maximum Candies Allocated to K Children",
     "title_slug": "maximum-candies-allocated-to-k-children",
