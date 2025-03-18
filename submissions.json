@@ -2118,6 +2118,17 @@
     ]
   },
   {
+    "id": 2401,
+    "title": "Longest Nice Subarray",
+    "title_slug": "longest-nice-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
