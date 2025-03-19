@@ -2907,6 +2907,19 @@
     ]
   },
   {
+    "id": 3191,
+    "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+    "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum",
+      "Queue",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3194,
     "title": "Minimum Average of Smallest and Largest Elements",
     "title_slug": "minimum-average-of-smallest-and-largest-elements",

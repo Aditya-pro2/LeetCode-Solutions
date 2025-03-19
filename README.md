@@ -279,6 +279,7 @@
 | 3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii) | Medium | `String` |
 | 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room) | Easy | `Simulation` `String` |
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | Easy | `Simulation` `Stack` `String` |
+| 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | Medium | `Array` `Bit Manipulation` `Prefix Sum` `Queue` `Sliding Window` |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
