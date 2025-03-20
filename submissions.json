@@ -2807,6 +2807,18 @@
     ]
   },
   {
+    "id": 3108,
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "title_slug": "minimum-cost-walk-in-weighted-graph",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 3131,
     "title": "Find the Integer Added to Array I",
     "title_slug": "find-the-integer-added-to-array-i",
