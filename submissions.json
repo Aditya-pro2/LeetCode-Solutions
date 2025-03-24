@@ -2933,6 +2933,16 @@
     ]
   },
   {
+    "id": 3169,
+    "title": "Count Days Without Meetings",
+    "title_slug": "count-days-without-meetings",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3174,
     "title": "Clear Digits",
     "title_slug": "clear-digits",
