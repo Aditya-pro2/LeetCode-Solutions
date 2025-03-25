@@ -3093,6 +3093,16 @@
     ]
   },
   {
+    "id": 3394,
+    "title": "Check if Grid can be Cut into Sections",
+    "title_slug": "check-if-grid-can-be-cut-into-sections",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
