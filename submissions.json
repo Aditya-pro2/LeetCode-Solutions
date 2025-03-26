@@ -1752,6 +1752,18 @@
     ]
   },
   {
+    "id": 2033,
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "title_slug": "minimum-operations-to-make-a-uni-value-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2037,
     "title": "Minimum Number of Moves to Seat Everyone",
     "title_slug": "minimum-number-of-moves-to-seat-everyone",

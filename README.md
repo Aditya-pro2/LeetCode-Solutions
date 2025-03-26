@@ -170,6 +170,7 @@
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | `Array` `Counting` `Hash Table` |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | `Array` `Bit Manipulation` `Hash Table` |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | Medium | `Array` `Math` `Matrix` `Sorting` |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
