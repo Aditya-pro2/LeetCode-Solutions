@@ -2608,6 +2608,17 @@
     ]
   },
   {
+    "id": 2780,
+    "title": "Minimum Index of a Valid Split",
+    "title_slug": "minimum-index-of-a-valid-split",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2788,
     "title": "Split Strings by Separator",
     "title_slug": "split-strings-by-separator",
