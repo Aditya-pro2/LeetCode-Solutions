@@ -2298,6 +2298,21 @@
     ]
   },
   {
+    "id": 2503,
+    "title": "Maximum Number of Points From Grid Queries",
+    "title_slug": "maximum-number-of-points-from-grid-queries",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Sorting",
+      "Two Pointers",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2520,
     "title": "Count the Digits That Divide a Number",
     "title_slug": "count-the-digits-that-divide-a-number",
