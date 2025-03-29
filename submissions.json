@@ -2663,6 +2663,21 @@
     ]
   },
   {
+    "id": 2818,
+    "title": "Apply Operations to Maximize Score",
+    "title_slug": "apply-operations-to-maximize-score",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Math",
+      "Monotonic Stack",
+      "Number Theory",
+      "Sorting",
+      "Stack"
+    ]
+  },
+  {
     "id": 2824,
     "title": "Count Pairs Whose Sum is Less than Target",
     "title_slug": "count-pairs-whose-sum-is-less-than-target",
