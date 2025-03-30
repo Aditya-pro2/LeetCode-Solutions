@@ -57,6 +57,7 @@
 | 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |
+| 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Medium | `Greedy` `Hash Table` `String` `Two Pointers` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Medium | `Array` `Greedy` `Monotonic Stack` `Sorting` `Stack` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |

@@ -539,6 +539,18 @@
     ]
   },
   {
+    "id": 763,
+    "title": "Partition Labels",
+    "title_slug": "partition-labels",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 766,
     "title": "Toeplitz Matrix",
     "title_slug": "toeplitz-matrix",
