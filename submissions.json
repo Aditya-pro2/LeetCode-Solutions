@@ -2376,6 +2376,18 @@
     ]
   },
   {
+    "id": 2551,
+    "title": "Put Marbles in Bags",
+    "title_slug": "put-marbles-in-bags",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2553,
     "title": "Separate the Digits in an Array",
     "title_slug": "separate-the-digits-in-an-array",
