@@ -183,6 +183,7 @@
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | `Math` |
 | 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) | Hard | `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii) | Medium | `Array` `Sliding Window` |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | Medium | `Array` `Dynamic Programming` |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | `Greedy` `Math` `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | `Array` `Simulation` `Two Pointers` |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | `Math` `Simulation` |

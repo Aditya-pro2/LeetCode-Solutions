@@ -1895,6 +1895,16 @@
     ]
   },
   {
+    "id": 2140,
+    "title": "Solving Questions With Brainpower",
+    "title_slug": "solving-questions-with-brainpower",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 2160,
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
