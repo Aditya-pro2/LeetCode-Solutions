@@ -2766,6 +2766,15 @@
     ]
   },
   {
+    "id": 2873,
+    "title": "Maximum Value of an Ordered Triplet I",
+    "title_slug": "maximum-value-of-an-ordered-triplet-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2913,
     "title": "Subarrays Distinct Element Sum of Squares I",
     "title_slug": "subarrays-distinct-element-sum-of-squares-i",
