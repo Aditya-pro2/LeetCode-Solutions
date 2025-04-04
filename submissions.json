@@ -934,6 +934,19 @@
     ]
   },
   {
+    "id": 1123,
+    "title": "Lowest Common Ancestor of Deepest Leaves",
+    "title_slug": "lowest-common-ancestor-of-deepest-leaves",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 1179,
     "title": "Reformat Department Table",
     "title_slug": "reformat-department-table",

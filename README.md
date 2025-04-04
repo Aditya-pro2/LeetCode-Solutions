@@ -93,6 +93,7 @@
 | 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Hard | `Dynamic Programming` `String` |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | Easy | `Math` `Simulation` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |
