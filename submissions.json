@@ -1690,6 +1690,20 @@
     ]
   },
   {
+    "id": 1863,
+    "title": "Sum of All Subset XOR Totals",
+    "title_slug": "sum-of-all-subset-xor-totals",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 1890,
     "title": "The Latest Login in 2020",
     "title_slug": "the-latest-login-in-2020",
