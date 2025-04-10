@@ -2923,6 +2923,17 @@
     ]
   },
   {
+    "id": 2999,
+    "title": "Count the Number of Powerful Integers",
+    "title_slug": "count-the-number-of-powerful-integers",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3042,
     "title": "Count Prefix and Suffix Pairs I",
     "title_slug": "count-prefix-and-suffix-pairs-i",
