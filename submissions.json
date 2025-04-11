@@ -2773,6 +2773,16 @@
     ]
   },
   {
+    "id": 2843,
+    "title": "  Count Symmetric Integers",
+    "title_slug": "count-symmetric-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2848,
     "title": "Points That Intersect With Cars",
     "title_slug": "points-that-intersect-with-cars",
