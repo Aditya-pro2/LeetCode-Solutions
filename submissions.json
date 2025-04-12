@@ -3236,6 +3236,18 @@
     ]
   },
   {
+    "id": 3272,
+    "title": "Find the Count of Good Integers",
+    "title_slug": "find-the-count-of-good-integers",
+    "difficulty": "Hard",
+    "skills": [
+      "Combinatorics",
+      "Enumeration",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3306,
     "title": "Count of Substrings Containing Every Vowel and K Consonants II",
     "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
