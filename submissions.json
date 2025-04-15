@@ -1976,6 +1976,21 @@
     ]
   },
   {
+    "id": 2179,
+    "title": "Count Good Triplets in an Array",
+    "title_slug": "count-good-triplets-in-an-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Binary Search",
+      "Divide and Conquer",
+      "Merge Sort",
+      "Ordered Set",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 2180,
     "title": "Count Integers With Even Digit Sum",
     "title_slug": "count-integers-with-even-digit-sum",
