@@ -2429,6 +2429,17 @@
     ]
   },
   {
+    "id": 2537,
+    "title": "Count the Number of Good Subarrays",
+    "title_slug": "count-the-number-of-good-subarrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2540,
     "title": "Minimum Common Value",
     "title_slug": "minimum-common-value",
