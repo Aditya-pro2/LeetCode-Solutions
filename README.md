@@ -190,6 +190,7 @@
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | Medium | `Array` `Dynamic Programming` |
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | `Greedy` `Math` `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | `Array` `Simulation` `Two Pointers` |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | `Array` |
 | 2179 | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Divide and Conquer` `Merge Sort` `Ordered Set` `Segment Tree` |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | `Math` `Simulation` |
 | 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | Easy | `Array` `String` `String Matching` |
