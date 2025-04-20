@@ -605,6 +605,18 @@
     ]
   },
   {
+    "id": 781,
+    "title": "Rabbits in Forest",
+    "title_slug": "rabbits-in-forest",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 802,
     "title": "Find Eventual Safe States",
     "title_slug": "find-eventual-safe-states",

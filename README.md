@@ -63,6 +63,7 @@
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Medium | `Array` `Greedy` `Monotonic Stack` `Sorting` `Stack` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
+| 0781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | Medium | `Array` `Greedy` `Hash Table` `Math` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
