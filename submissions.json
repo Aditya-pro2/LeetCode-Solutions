@@ -2153,6 +2153,18 @@
     ]
   },
   {
+    "id": 2338,
+    "title": "Count the Number of Ideal Arrays",
+    "title_slug": "count-the-number-of-ideal-arrays",
+    "difficulty": "Hard",
+    "skills": [
+      "Combinatorics",
+      "Dynamic Programming",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2341,
     "title": "Maximum Number of Pairs in Array",
     "title_slug": "maximum-number-of-pairs-in-array",
