@@ -1157,6 +1157,16 @@
     ]
   },
   {
+    "id": 1399,
+    "title": "Count Largest Group",
+    "title_slug": "count-largest-group",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 1400,
     "title": "Construct K Palindrome Strings",
     "title_slug": "construct-k-palindrome-strings",

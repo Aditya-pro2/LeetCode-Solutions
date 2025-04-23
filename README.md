@@ -113,6 +113,7 @@
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | `Array` `Matrix` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | `Array` `Simulation` |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | Easy | `Hash Table` `Math` |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | Medium | `Counting` `Greedy` `Hash Table` `String` |
 | 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order) | Easy | `Array` `Greedy` `Sorting` |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy | `Array` `String` `String Matching` |
