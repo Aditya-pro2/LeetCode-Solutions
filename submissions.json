@@ -2836,6 +2836,17 @@
     ]
   },
   {
+    "id": 2799,
+    "title": "Count Complete Subarrays in an Array",
+    "title_slug": "count-complete-subarrays-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2810,
     "title": "Faulty Keyboard",
     "title_slug": "faulty-keyboard",
