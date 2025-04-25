@@ -2904,6 +2904,17 @@
     ]
   },
   {
+    "id": 2845,
+    "title": "Count of Interesting Subarrays",
+    "title_slug": "count-of-interesting-subarrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2848,
     "title": "Points That Intersect With Cars",
     "title_slug": "points-that-intersect-with-cars",
