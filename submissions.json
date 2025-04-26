@@ -2368,6 +2368,18 @@
     ]
   },
   {
+    "id": 2444,
+    "title": "Count Subarrays With Fixed Bounds",
+    "title_slug": "count-subarrays-with-fixed-bounds",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Monotonic Queue",
+      "Queue",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2460,
     "title": "Apply Operations to an Array",
     "title_slug": "apply-operations-to-an-array",
