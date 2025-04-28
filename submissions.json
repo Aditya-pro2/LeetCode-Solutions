@@ -2144,6 +2144,18 @@
     ]
   },
   {
+    "id": 2302,
+    "title": "Count Subarrays With Score Less Than K",
+    "title_slug": "count-subarrays-with-score-less-than-k",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2315,
     "title": "Count Asterisks",
     "title_slug": "count-asterisks",
