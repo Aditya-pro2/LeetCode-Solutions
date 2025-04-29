@@ -3065,6 +3065,16 @@
     ]
   },
   {
+    "id": 2962,
+    "title": "Count Subarrays Where Max Element Appears at Least K Times",
+    "title_slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2965,
     "title": "Find Missing and Repeated Values",
     "title_slug": "find-missing-and-repeated-values",

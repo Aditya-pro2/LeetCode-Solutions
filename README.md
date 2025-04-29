@@ -291,6 +291,7 @@
 | 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks) | Easy | `Array` `Enumeration` |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | Easy | `Array` `Hash Table` |
 | 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations) | Easy | `Array` `Counting` `Simulation` |
+| 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times) | Medium | `Array` `Sliding Window` |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | Easy | `Array` `Hash Table` `Math` `Matrix` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
 | 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) | Hard | `Dynamic Programming` `Math` `String` |
