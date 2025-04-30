@@ -1059,6 +1059,16 @@
     ]
   },
   {
+    "id": 1295,
+    "title": "Find Numbers with Even Number of Digits",
+    "title_slug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1299,
     "title": "Replace Elements with Greatest Element on Right Side",
     "title_slug": "replace-elements-with-greatest-element-on-right-side",
