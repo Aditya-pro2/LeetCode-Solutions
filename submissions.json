@@ -676,6 +676,17 @@
     ]
   },
   {
+    "id": 838,
+    "title": "Push Dominoes",
+    "title_slug": "push-dominoes",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 873,
     "title": "Length of Longest Fibonacci Subsequence",
     "title_slug": "length-of-longest-fibonacci-subsequence",
