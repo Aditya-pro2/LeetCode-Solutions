@@ -830,6 +830,16 @@
     ]
   },
   {
+    "id": 1007,
+    "title": "Minimum Domino Rotations For Equal Row",
+    "title_slug": "minimum-domino-rotations-for-equal-row",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1014,
     "title": "Best Sightseeing Pair",
     "title_slug": "best-sightseeing-pair",
