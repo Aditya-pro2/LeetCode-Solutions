@@ -1001,6 +1001,17 @@
     ]
   },
   {
+    "id": 1128,
+    "title": "Number of Equivalent Domino Pairs",
+    "title_slug": "number-of-equivalent-domino-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1179,
     "title": "Reformat Department Table",
     "title_slug": "reformat-department-table",
