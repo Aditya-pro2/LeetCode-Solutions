@@ -1829,6 +1829,16 @@
     ]
   },
   {
+    "id": 1920,
+    "title": "Build Array from Permutation",
+    "title_slug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
