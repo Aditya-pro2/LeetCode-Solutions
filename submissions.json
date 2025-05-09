@@ -3518,6 +3518,18 @@
     ]
   },
   {
+    "id": 3343,
+    "title": "Count Number of Balanced Permutations",
+    "title_slug": "count-number-of-balanced-permutations",
+    "difficulty": "Hard",
+    "skills": [
+      "Combinatorics",
+      "Dynamic Programming",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3356,
     "title": "Zero Array Transformation II",
     "title_slug": "zero-array-transformation-ii",
