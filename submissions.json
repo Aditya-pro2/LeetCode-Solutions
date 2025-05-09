@@ -3505,6 +3505,19 @@
     ]
   },
   {
+    "id": 3342,
+    "title": "Find Minimum Time to Reach Last Room II",
+    "title_slug": "find-minimum-time-to-reach-last-room-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 3356,
     "title": "Zero Array Transformation II",
     "title_slug": "zero-array-transformation-ii",
