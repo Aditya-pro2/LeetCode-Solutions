@@ -3066,6 +3066,16 @@
     ]
   },
   {
+    "id": 2918,
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "title_slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2928,
     "title": "Distribute Candies Among Children I",
     "title_slug": "distribute-candies-among-children-i",
