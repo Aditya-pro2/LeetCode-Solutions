@@ -1395,6 +1395,15 @@
     ]
   },
   {
+    "id": 1550,
+    "title": "Three Consecutive Odds",
+    "title_slug": "three-consecutive-odds",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1587,
     "title": "Bank Account Summary II",
     "title_slug": "bank-account-summary-ii",
