@@ -190,6 +190,7 @@
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | Hard | `Array` `Binary Search` `Greedy` `Monotonic Queue` `Queue` `Sorting` `Two Pointers` |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | `Array` `Binary Search` `Sorting` |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` `Sorting` |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | `Array` `String` `Two Pointers` |
 | 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | Easy | `Array` `String` |
 | 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies) | Medium | `Array` `Graph Theory` `Hash Table` `String` `Topological Sort` |

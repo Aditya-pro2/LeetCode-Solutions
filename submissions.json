@@ -1976,6 +1976,19 @@
     ]
   },
   {
+    "id": 2094,
+    "title": "Finding 3-Digit Even Numbers",
+    "title_slug": "finding-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Recursion",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2108,
     "title": "Find First Palindromic String in the Array",
     "title_slug": "find-first-palindromic-string-in-the-array",
