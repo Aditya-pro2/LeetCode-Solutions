@@ -1012,6 +1012,16 @@
     ]
   },
   {
+    "id": 1154,
+    "title": "Day of the Year",
+    "title_slug": "day-of-the-year",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1179,
     "title": "Reformat Department Table",
     "title_slug": "reformat-department-table",
