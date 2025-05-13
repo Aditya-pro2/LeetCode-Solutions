@@ -334,6 +334,7 @@
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers) | Hard | `Combinatorics` `Enumeration` `Hash Table` `Math` |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) | Medium | `Hash Table` `Sliding Window` `String` |
+| 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) | Medium | `Counting` `Dynamic Programming` `Hash Table` `Math` `String` |
 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | Medium | `Array` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | Medium | `Array` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations) | Hard | `Combinatorics` `Dynamic Programming` `Math` `String` |

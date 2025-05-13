@@ -3524,6 +3524,19 @@
     ]
   },
   {
+    "id": 3335,
+    "title": "Total Characters in String After Transformations I",
+    "title_slug": "total-characters-in-string-after-transformations-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Dynamic Programming",
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3341,
     "title": "Find Minimum Time to Reach Last Room I",
     "title_slug": "find-minimum-time-to-reach-last-room-i",
