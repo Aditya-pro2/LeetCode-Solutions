@@ -101,6 +101,7 @@
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy | `Array` `Counting` `Hash Table` |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | `Math` `String` |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |

@@ -1022,6 +1022,15 @@
     ]
   },
   {
+    "id": 1175,
+    "title": "Prime Arrangements",
+    "title_slug": "prime-arrangements",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1179,
     "title": "Reformat Department Table",
     "title_slug": "reformat-department-table",
