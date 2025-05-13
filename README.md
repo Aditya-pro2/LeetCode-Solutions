@@ -103,6 +103,7 @@
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | `Math` `String` |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | `Math` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | `Array` `Math` `Simulation` |

@@ -1040,6 +1040,15 @@
     ]
   },
   {
+    "id": 1185,
+    "title": "Day of the Week",
+    "title_slug": "day-of-the-week",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1192,
     "title": "Critical Connections in a Network",
     "title_slug": "critical-connections-in-a-network",
