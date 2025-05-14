@@ -22,6 +22,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | `Array` `Design` `Prefix Sum` |
+| 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | `Brainteaser` `Math` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |

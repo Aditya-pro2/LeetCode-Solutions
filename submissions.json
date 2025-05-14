@@ -167,6 +167,16 @@
     ]
   },
   {
+    "id": 319,
+    "title": "Bulb Switcher",
+    "title_slug": "bulb-switcher",
+    "difficulty": "Medium",
+    "skills": [
+      "Brainteaser",
+      "Math"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
