@@ -1203,6 +1203,16 @@
     ]
   },
   {
+    "id": 1360,
+    "title": "Number of Days Between Two Dates",
+    "title_slug": "number-of-days-between-two-dates",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1368,
     "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
     "title_slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
