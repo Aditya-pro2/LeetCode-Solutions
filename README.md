@@ -297,6 +297,7 @@
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | Easy | `Greedy` `Math` `String` |
 | 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i) | Easy | `Array` |
 | 2874 | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii) | Medium | `Array` |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | Easy | `Array` `Dynamic Programming` `Greedy` `String` |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | Easy | `Array` `Hash Table` |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) | Medium | `Array` `Greedy` |
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i) | Easy | `Combinatorics` `Enumeration` `Math` |
