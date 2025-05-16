@@ -3138,6 +3138,17 @@
     ]
   },
   {
+    "id": 2901,
+    "title": "Longest Unequal Adjacent Groups Subsequence II",
+    "title_slug": "longest-unequal-adjacent-groups-subsequence-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 2913,
     "title": "Subarrays Distinct Element Sum of Squares I",
     "title_slug": "subarrays-distinct-element-sum-of-squares-i",
