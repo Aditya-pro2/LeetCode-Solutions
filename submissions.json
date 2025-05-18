@@ -1896,6 +1896,15 @@
     ]
   },
   {
+    "id": 1931,
+    "title": "Painting a Grid With Three Different Colors",
+    "title_slug": "painting-a-grid-with-three-different-colors",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
