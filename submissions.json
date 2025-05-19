@@ -3289,6 +3289,17 @@
     ]
   },
   {
+    "id": 3024,
+    "title": "Type of Triangle",
+    "title_slug": "type-of-triangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3042,
     "title": "Count Prefix and Suffix Pairs I",
     "title_slug": "count-prefix-and-suffix-pairs-i",
