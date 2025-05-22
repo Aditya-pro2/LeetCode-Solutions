@@ -3700,6 +3700,19 @@
     ]
   },
   {
+    "id": 3362,
+    "title": "Zero Array Transformation III",
+    "title_slug": "zero-array-transformation-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3375,
     "title": "Minimum Operations to Make Array Values Equal to K",
     "title_slug": "minimum-operations-to-make-array-values-equal-to-k",
