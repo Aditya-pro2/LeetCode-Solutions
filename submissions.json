@@ -3334,6 +3334,20 @@
     ]
   },
   {
+    "id": 3068,
+    "title": "Find the Maximum Sum of Node Values",
+    "title_slug": "find-the-maximum-sum-of-node-values",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting",
+      "Tree"
+    ]
+  },
+  {
     "id": 3079,
     "title": "Find the Sum of Encrypted Integers",
     "title_slug": "find-the-sum-of-encrypted-integers",
