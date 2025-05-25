@@ -2111,6 +2111,19 @@
     ]
   },
   {
+    "id": 2131,
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "title_slug": "longest-palindrome-by-concatenating-two-letter-words",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2134,
     "title": "Minimum Swaps to Group All 1's Together II",
     "title_slug": "minimum-swaps-to-group-all-1s-together-ii",
