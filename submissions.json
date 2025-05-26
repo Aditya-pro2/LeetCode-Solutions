@@ -1832,6 +1832,21 @@
     ]
   },
   {
+    "id": 1857,
+    "title": "Largest Color Value in a Directed Graph",
+    "title_slug": "largest-color-value-in-a-directed-graph",
+    "difficulty": "Hard",
+    "skills": [
+      "Counting",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Hash Table",
+      "Memoization",
+      "String",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 1859,
     "title": "Sorting the Sentence",
     "title_slug": "sorting-the-sentence",
