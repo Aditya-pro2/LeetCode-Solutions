@@ -3163,6 +3163,15 @@
     ]
   },
   {
+    "id": 2894,
+    "title": "Divisible and Non-divisible Sums Difference",
+    "title_slug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2900,
     "title": "Longest Unequal Adjacent Groups Subsequence I",
     "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
