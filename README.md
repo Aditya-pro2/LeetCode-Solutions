@@ -357,6 +357,7 @@
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
 | 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Prefix Sum` `Sorting` |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) | Medium | `Breadth-First Search` `Depth-First Search` `Tree` |
+| 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) | Hard | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | Easy | `Array` `Hash Table` |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | Easy | `Array` |
 | 3394 | [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections) | Medium | `Array` `Sorting` |
