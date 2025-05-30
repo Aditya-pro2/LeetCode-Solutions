@@ -2410,6 +2410,16 @@
     ]
   },
   {
+    "id": 2359,
+    "title": "Find Closest Node to Given Two Nodes",
+    "title_slug": "find-closest-node-to-given-two-nodes",
+    "difficulty": "Medium",
+    "skills": [
+      "Depth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 2363,
     "title": "Merge Similar Items",
     "title_slug": "merge-similar-items",
