@@ -3236,6 +3236,17 @@
     ]
   },
   {
+    "id": 2929,
+    "title": "Distribute Candies Among Children II",
+    "title_slug": "distribute-candies-among-children-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Combinatorics",
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2932,
     "title": "Maximum Strong Pair XOR I",
     "title_slug": "maximum-strong-pair-xor-i",
