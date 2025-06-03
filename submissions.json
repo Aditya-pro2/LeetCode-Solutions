@@ -1139,6 +1139,17 @@
     ]
   },
   {
+    "id": 1298,
+    "title": "Maximum Candies You Can Get from Boxes",
+    "title_slug": "maximum-candies-you-can-get-from-boxes",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1299,
     "title": "Replace Elements with Greatest Element on Right Side",
     "title_slug": "replace-elements-with-greatest-element-on-right-side",
