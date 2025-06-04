@@ -3867,6 +3867,17 @@
     ]
   },
   {
+    "id": 3403,
+    "title": "Find the Lexicographically Largest String From the Box I",
+    "title_slug": "find-the-lexicographically-largest-string-from-the-box-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
