@@ -938,6 +938,16 @@
     ]
   },
   {
+    "id": 1061,
+    "title": "Lexicographically Smallest Equivalent String",
+    "title_slug": "lexicographically-smallest-equivalent-string",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 1071,
     "title": "Greatest Common Divisor of Strings",
     "title_slug": "greatest-common-divisor-of-strings",
