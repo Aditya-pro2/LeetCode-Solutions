@@ -2585,6 +2585,18 @@
     ]
   },
   {
+    "id": 2434,
+    "title": "Using a Robot to Print the Lexicographically Smallest String",
+    "title_slug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 2444,
     "title": "Count Subarrays With Fixed Bounds",
     "title_slug": "count-subarrays-with-fixed-bounds",
