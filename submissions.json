@@ -3579,6 +3579,19 @@
     ]
   },
   {
+    "id": 3170,
+    "title": "Lexicographically Minimum String After Removing Stars",
+    "title_slug": "lexicographically-minimum-string-after-removing-stars",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 3174,
     "title": "Clear Digits",
     "title_slug": "clear-digits",
