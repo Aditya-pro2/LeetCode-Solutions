@@ -2903,6 +2903,19 @@
     ]
   },
   {
+    "id": 2616,
+    "title": "Minimize the Maximum Difference of Pairs",
+    "title_slug": "minimize-the-maximum-difference-of-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2643,
     "title": "Row With Maximum Ones",
     "title_slug": "row-with-maximum-ones",
