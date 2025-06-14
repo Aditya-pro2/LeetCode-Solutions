@@ -2831,6 +2831,16 @@
     ]
   },
   {
+    "id": 2566,
+    "title": "Maximum Difference by Remapping a Digit",
+    "title_slug": "maximum-difference-by-remapping-a-digit",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 2570,
     "title": "Merge Two 2D Arrays by Summing Values",
     "title_slug": "merge-two-2d-arrays-by-summing-values",

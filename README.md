@@ -268,6 +268,7 @@
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | Medium | `Array` `Prefix Sum` `String` |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` |
 | 2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) | Medium | `Array` `Binary Search` `Sorting` `Two Pointers` |
+| 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | Easy | `Greedy` `Math` |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | Easy | `Array` `Hash Table` `Two Pointers` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum) | Easy | `Greedy` `Math` `Sorting` |
