@@ -131,6 +131,7 @@
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy | `Array` `String` `String Matching` |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Medium | `Array` `Prefix Sum` `Sliding Window` |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | Medium | `Greedy` `Math` |
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | `Array` `Hash Table` `String` |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | Easy | `Array` |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays) | Easy | `Array` `Hash Table` `Sorting` |

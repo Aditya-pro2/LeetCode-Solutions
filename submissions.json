@@ -1343,6 +1343,16 @@
     ]
   },
   {
+    "id": 1432,
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "title_slug": "max-difference-you-can-get-from-changing-an-integer",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 1436,
     "title": "Destination City",
     "title_slug": "destination-city",
