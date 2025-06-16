@@ -1996,6 +1996,15 @@
     ]
   },
   {
+    "id": 2016,
+    "title": "Maximum Difference Between Increasing Elements",
+    "title_slug": "maximum-difference-between-increasing-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2017,
     "title": "Grid Game",
     "title_slug": "grid-game",
