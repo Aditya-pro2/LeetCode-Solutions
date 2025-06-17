@@ -3965,6 +3965,16 @@
     ]
   },
   {
+    "id": 3405,
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "title_slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "difficulty": "Hard",
+    "skills": [
+      "Combinatorics",
+      "Math"
+    ]
+  },
+  {
     "id": 3407,
     "title": "Substring Matching Pattern",
     "title_slug": "substring-matching-pattern",
