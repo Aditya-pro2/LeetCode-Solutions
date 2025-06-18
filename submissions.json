@@ -3419,6 +3419,17 @@
     ]
   },
   {
+    "id": 2966,
+    "title": "Divide Array Into Arrays With Max Difference",
+    "title_slug": "divide-array-into-arrays-with-max-difference",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2974,
     "title": "Minimum Number Game",
     "title_slug": "minimum-number-game",
