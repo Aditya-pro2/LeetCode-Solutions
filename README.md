@@ -384,3 +384,4 @@
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | Easy | `Counting` `Hash Table` `String` |
 | 3443 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes) | Medium | `Counting` `Hash Table` `Math` `String` |
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) | Hard | `Enumeration` `Prefix Sum` `Sliding Window` `String` |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |

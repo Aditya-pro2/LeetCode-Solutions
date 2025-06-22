@@ -4075,5 +4075,18 @@
       "Sliding Window",
       "String"
     ]
+  },
+  {
+    "id": 3591,
+    "title": "Check if Any Element Has Prime Frequency",
+    "title_slug": "check-if-any-element-has-prime-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
