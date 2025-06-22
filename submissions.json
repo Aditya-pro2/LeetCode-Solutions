@@ -2199,6 +2199,16 @@
     ]
   },
   {
+    "id": 2138,
+    "title": "Divide a String Into Groups of Size k",
+    "title_slug": "divide-a-string-into-groups-of-size-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2140,
     "title": "Solving Questions With Brainpower",
     "title_slug": "solving-questions-with-brainpower",
