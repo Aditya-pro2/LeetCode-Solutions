@@ -2087,6 +2087,16 @@
     ]
   },
   {
+    "id": 2081,
+    "title": "Sum of k-Mirror Numbers",
+    "title_slug": "sum-of-k-mirror-numbers",
+    "difficulty": "Hard",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 2089,
     "title": "Find Target Indices After Sorting Array",
     "title_slug": "find-target-indices-after-sorting-array",

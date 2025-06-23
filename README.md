@@ -201,6 +201,7 @@
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | Hard | `Array` `Binary Search` `Greedy` `Monotonic Queue` `Queue` `Sorting` `Two Pointers` |
+| 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | Hard | `Enumeration` `Math` |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | `Array` `Binary Search` `Sorting` |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` `Sorting` |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array) | Easy | `Array` `String` `Two Pointers` |
