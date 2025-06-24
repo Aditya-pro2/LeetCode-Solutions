@@ -2325,6 +2325,16 @@
     ]
   },
   {
+    "id": 2200,
+    "title": "Find All K-Distant Indices in an Array",
+    "title_slug": "find-all-k-distant-indices-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2206,
     "title": "Divide Array Into Equal Pairs",
     "title_slug": "divide-array-into-equal-pairs",
