@@ -2051,6 +2051,16 @@
     ]
   },
   {
+    "id": 2040,
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "title_slug": "kth-smallest-product-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 2053,
     "title": "Kth Distinct String in an Array",
     "title_slug": "kth-distinct-string-in-an-array",
