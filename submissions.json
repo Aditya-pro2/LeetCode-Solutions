@@ -60,6 +60,16 @@
     ]
   },
   {
+    "id": 152,
+    "title": "Maximum Product Subarray",
+    "title_slug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
