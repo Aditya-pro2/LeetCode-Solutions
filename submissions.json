@@ -2049,6 +2049,17 @@
     ]
   },
   {
+    "id": 2022,
+    "title": "Convert 1D Array Into 2D Array",
+    "title_slug": "convert-1d-array-into-2d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2032,
     "title": "Two Out of Three",
     "title_slug": "two-out-of-three",
