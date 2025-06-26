@@ -729,6 +729,17 @@
     ]
   },
   {
+    "id": 867,
+    "title": "Transpose Matrix",
+    "title_slug": "transpose-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 873,
     "title": "Length of Longest Fibonacci Subsequence",
     "title_slug": "length-of-longest-fibonacci-subsequence",
