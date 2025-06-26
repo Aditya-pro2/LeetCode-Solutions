@@ -234,6 +234,7 @@
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | Medium | `Array` `Bit Manipulation` `Counting` `Hash Table` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) | Hard | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
+| 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) | Medium | `Dynamic Programming` `Greedy` `Memoization` `String` |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | `String` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | `Hash Table` `String` |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) | Hard | `Combinatorics` `Dynamic Programming` `Math` `Number Theory` |

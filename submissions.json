@@ -2441,6 +2441,18 @@
     ]
   },
   {
+    "id": 2311,
+    "title": "Longest Binary Subsequence Less Than or Equal to K",
+    "title_slug": "longest-binary-subsequence-less-than-or-equal-to-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Greedy",
+      "Memoization",
+      "String"
+    ]
+  },
+  {
     "id": 2315,
     "title": "Count Asterisks",
     "title_slug": "count-asterisks",
