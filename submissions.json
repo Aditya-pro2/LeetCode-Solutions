@@ -2029,6 +2029,20 @@
     ]
   },
   {
+    "id": 2014,
+    "title": "Longest Subsequence Repeated k Times",
+    "title_slug": "longest-subsequence-repeated-k-times",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Counting",
+      "Enumeration",
+      "Hash Table",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2016,
     "title": "Maximum Difference Between Increasing Elements",
     "title_slug": "maximum-difference-between-increasing-elements",
