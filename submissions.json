@@ -2189,6 +2189,18 @@
     ]
   },
   {
+    "id": 2099,
+    "title": "Find Subsequence of Length K With the Largest Sum",
+    "title_slug": "find-subsequence-of-length-k-with-the-largest-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2108,
     "title": "Find First Palindromic String in the Array",
     "title_slug": "find-first-palindromic-string-in-the-array",
