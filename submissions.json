@@ -1460,6 +1460,18 @@
     ]
   },
   {
+    "id": 1498,
+    "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+    "title_slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1508,
     "title": "Range Sum of Sorted Subarray Sums",
     "title_slug": "range-sum-of-sorted-subarray-sums",
