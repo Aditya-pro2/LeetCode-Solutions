@@ -52,6 +52,7 @@
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
+| 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Counting` `Hash Table` `Sliding Window` `Sorting` |
 | 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | `Array` `Math` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
