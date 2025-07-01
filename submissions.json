@@ -3977,6 +3977,15 @@
     ]
   },
   {
+    "id": 3330,
+    "title": "Find the Original Typed String I",
+    "title_slug": "find-the-original-typed-string-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3335,
     "title": "Total Characters in String After Transformations I",
     "title_slug": "total-characters-in-string-after-transformations-i",
