@@ -3986,6 +3986,17 @@
     ]
   },
   {
+    "id": 3333,
+    "title": "Find the Original Typed String II",
+    "title_slug": "find-the-original-typed-string-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 3335,
     "title": "Total Characters in String After Transformations I",
     "title_slug": "total-characters-in-string-after-transformations-i",
