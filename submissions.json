@@ -3966,6 +3966,18 @@
     ]
   },
   {
+    "id": 3304,
+    "title": "Find the K-th Character in String Game I",
+    "title_slug": "find-the-k-th-character-in-string-game-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3306,
     "title": "Count of Substrings Containing Every Vowel and K Consonants II",
     "title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
