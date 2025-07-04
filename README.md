@@ -376,6 +376,7 @@
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers) | Hard | `Combinatorics` `Enumeration` `Hash Table` `Math` |
 | 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i) | Easy | `Bit Manipulation` `Math` `Recursion` `Simulation` |
 | 3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii) | Medium | `Hash Table` `Sliding Window` `String` |
+| 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii) | Hard | `Bit Manipulation` `Math` `Recursion` |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) | Easy | `String` |
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii) | Hard | `Dynamic Programming` `Prefix Sum` `String` |
 | 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) | Medium | `Counting` `Dynamic Programming` `Hash Table` `Math` `String` |

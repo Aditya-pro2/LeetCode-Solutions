@@ -3989,6 +3989,17 @@
     ]
   },
   {
+    "id": 3307,
+    "title": "Find the K-th Character in String Game II",
+    "title_slug": "find-the-k-th-character-in-string-game-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 3330,
     "title": "Find the Original Typed String I",
     "title_slug": "find-the-original-typed-string-i",
