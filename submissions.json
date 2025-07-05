@@ -4323,5 +4323,15 @@
       "Math",
       "Number Theory"
     ]
+  },
+  {
+    "id": 3602,
+    "title": "Hexadecimal and Hexatrigesimal Conversion",
+    "title_slug": "hexadecimal-and-hexatrigesimal-conversion",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
   }
 ]

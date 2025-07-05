@@ -406,3 +406,4 @@
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) | Hard | `Enumeration` `Prefix Sum` `Sliding Window` `String` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity) | Easy | `Array` `Counting` `Sorting` |
 | 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion) | Easy | `Math` `String` |
