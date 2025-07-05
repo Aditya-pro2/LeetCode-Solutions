@@ -1324,6 +1324,17 @@
     ]
   },
   {
+    "id": 1394,
+    "title": "Find Lucky Integer in an Array",
+    "title_slug": "find-lucky-integer-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1399,
     "title": "Count Largest Group",
     "title_slug": "count-largest-group",
