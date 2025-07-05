@@ -508,6 +508,17 @@
     ]
   },
   {
+    "id": 599,
+    "title": "Minimum Index Sum of Two Lists",
+    "title_slug": "minimum-index-sum-of-two-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 607,
     "title": "Sales Person",
     "title_slug": "sales-person",

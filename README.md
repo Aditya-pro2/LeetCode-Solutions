@@ -54,6 +54,7 @@
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Counting` `Hash Table` `Sliding Window` `Sorting` |
 | 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | `Array` `Math` |
+| 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | `Array` `Hash Table` `String` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
