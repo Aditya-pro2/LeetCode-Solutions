@@ -4344,5 +4344,16 @@
       "Dynamic Programming",
       "Matrix"
     ]
+  },
+  {
+    "id": 3604,
+    "title": "Minimum Time to Reach Destination in Directed Graph",
+    "title_slug": "minimum-time-to-reach-destination-in-directed-graph",
+    "difficulty": "Medium",
+    "skills": [
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
   }
 ]
