@@ -4289,6 +4289,17 @@
     ]
   },
   {
+    "id": 3467,
+    "title": "Transform Array by Parity",
+    "title_slug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3591,
     "title": "Check if Any Element Has Prime Frequency",
     "title_slug": "check-if-any-element-has-prime-frequency",
