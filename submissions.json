@@ -3976,6 +3976,18 @@
     ]
   },
   {
+    "id": 3264,
+    "title": "Final Array State After K Multiplication Operations I",
+    "title_slug": "final-array-state-after-k-multiplication-operations-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3272,
     "title": "Find the Count of Good Integers",
     "title_slug": "find-the-count-of-good-integers",
