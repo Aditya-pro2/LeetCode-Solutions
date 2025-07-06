@@ -1992,6 +1992,17 @@
     ]
   },
   {
+    "id": 1865,
+    "title": "Finding Pairs With a Certain Sum",
+    "title_slug": "finding-pairs-with-a-certain-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1890,
     "title": "The Latest Login in 2020",
     "title_slug": "the-latest-login-in-2020",
