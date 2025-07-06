@@ -4355,5 +4355,17 @@
       "Heap (Priority Queue)",
       "Shortest Path"
     ]
+  },
+  {
+    "id": 3608,
+    "title": "Minimum Time for K Connected Components",
+    "title_slug": "minimum-time-for-k-connected-components",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Graph Theory",
+      "Sorting",
+      "Union-Find"
+    ]
   }
 ]
