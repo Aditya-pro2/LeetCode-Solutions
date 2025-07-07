@@ -60,6 +60,17 @@
     ]
   },
   {
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 119,
     "title": "Pascal's Triangle II",
     "title_slug": "pascals-triangle-ii",
