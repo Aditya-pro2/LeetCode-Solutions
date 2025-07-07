@@ -10,6 +10,7 @@
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard | `Dynamic Programming` `Recursion` `String` |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | `Linked List` `Recursion` |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | `String` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium | `Array` `Dynamic Programming` |
