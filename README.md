@@ -13,6 +13,7 @@
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | `String` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
+| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium | `Array` `Dynamic Programming` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
