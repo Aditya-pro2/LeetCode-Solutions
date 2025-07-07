@@ -2943,6 +2943,17 @@
     ]
   },
   {
+    "id": 2527,
+    "title": "Find Xor-Beauty of Array",
+    "title_slug": "find-xor-beauty-of-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 2529,
     "title": "Maximum Count of Positive Integer and Negative Integer",
     "title_slug": "maximum-count-of-positive-integer-and-negative-integer",

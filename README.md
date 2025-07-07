@@ -278,6 +278,7 @@
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) | Hard | `Array` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Sorting` `Two Pointers` `Union-Find` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
+| 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Medium | `Array` `Bit Manipulation` `Math` |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | `Array` `Binary Search` `Counting` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
 | 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays) | Medium | `Array` `Hash Table` `Sliding Window` |
