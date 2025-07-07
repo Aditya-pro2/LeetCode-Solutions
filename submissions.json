@@ -2065,6 +2065,16 @@
     ]
   },
   {
+    "id": 1922,
+    "title": "Count Good Numbers",
+    "title_slug": "count-good-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 1931,
     "title": "Painting a Grid With Three Different Colors",
     "title_slug": "painting-a-grid-with-three-different-colors",
