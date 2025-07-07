@@ -1279,6 +1279,18 @@
     ]
   },
   {
+    "id": 1353,
+    "title": "Maximum Number of Events That Can Be Attended",
+    "title_slug": "maximum-number-of-events-that-can-be-attended",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1356,
     "title": "Sort Integers by The Number of 1 Bits",
     "title_slug": "sort-integers-by-the-number-of-1-bits",

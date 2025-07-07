@@ -125,6 +125,7 @@
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | `Array` `Simulation` `String` |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | `Bit Manipulation` `Math` |
 | 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers) | Medium | `Array` `Data Stream` `Design` `Math` `Prefix Sum` |
+| 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | `Array` `Bit Manipulation` `Counting` `Sorting` |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | Easy | `Math` `String` |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
