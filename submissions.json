@@ -71,6 +71,16 @@
     ]
   },
   {
+    "id": 51,
+    "title": "N-Queens",
+    "title_slug": "n-queens",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 78,
     "title": "Subsets",
     "title_slug": "subsets",
