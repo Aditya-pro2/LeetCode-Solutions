@@ -1846,6 +1846,18 @@
     ]
   },
   {
+    "id": 1751,
+    "title": "Maximum Number of Events That Can Be Attended II",
+    "title_slug": "maximum-number-of-events-that-can-be-attended-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
