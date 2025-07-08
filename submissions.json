@@ -60,6 +60,17 @@
     ]
   },
   {
+    "id": 47,
+    "title": "Permutations II",
+    "title_slug": "permutations-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Sorting"
+    ]
+  },
+  {
     "id": 78,
     "title": "Subsets",
     "title_slug": "subsets",

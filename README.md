@@ -12,6 +12,7 @@
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | `Linked List` `Recursion` |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | `Bit Manipulation` `Math` |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | `String` |
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | `Array` `Backtracking` `Sorting` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
