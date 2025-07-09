@@ -134,6 +134,17 @@
     ]
   },
   {
+    "id": 160,
+    "title": "Intersection of Two Linked Lists",
+    "title_slug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
