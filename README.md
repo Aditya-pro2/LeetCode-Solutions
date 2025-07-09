@@ -17,6 +17,7 @@
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Hash Table` `Linked List` `Two Pointers` |
 | 0152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | Medium | `Array` `Dynamic Programming` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | Easy | `Math` `String` |
