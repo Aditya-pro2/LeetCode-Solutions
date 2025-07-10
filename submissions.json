@@ -4408,6 +4408,17 @@
     ]
   },
   {
+    "id": 3440,
+    "title": "Reschedule Meetings for Maximum Free Time II",
+    "title_slug": "reschedule-meetings-for-maximum-free-time-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Greedy"
+    ]
+  },
+  {
     "id": 3442,
     "title": "Maximum Difference Between Even and Odd Frequency I",
     "title_slug": "maximum-difference-between-even-and-odd-frequency-i",

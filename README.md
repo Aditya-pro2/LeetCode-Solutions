@@ -414,6 +414,7 @@
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | Easy | `Array` `Enumeration` `Math` `Number Theory` `Sliding Window` |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i) | Medium | `Array` `Greedy` `Sliding Window` |
+| 3440 | [Reschedule Meetings for Maximum Free Time II](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii) | Medium | `Array` `Enumeration` `Greedy` |
 | 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i) | Easy | `Counting` `Hash Table` `String` |
 | 3443 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes) | Medium | `Counting` `Hash Table` `Math` `String` |
 | 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) | Hard | `Enumeration` `Prefix Sum` `Sliding Window` `String` |
