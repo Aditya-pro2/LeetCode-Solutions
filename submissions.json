@@ -204,6 +204,18 @@
     ]
   },
   {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 240,
     "title": "Search a 2D Matrix II",
     "title_slug": "search-a-2d-matrix-ii",
