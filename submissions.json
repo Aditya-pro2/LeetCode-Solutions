@@ -204,6 +204,17 @@
     ]
   },
   {
+    "id": 225,
+    "title": "Implement Stack using Queues",
+    "title_slug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "skills": [
+      "Design",
+      "Queue",
+      "Stack"
+    ]
+  },
+  {
     "id": 234,
     "title": "Palindrome Linked List",
     "title_slug": "palindrome-linked-list",
