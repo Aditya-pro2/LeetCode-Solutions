@@ -339,6 +339,18 @@
     ]
   },
   {
+    "id": 387,
+    "title": "First Unique Character in a String",
+    "title_slug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "Queue",
+      "String"
+    ]
+  },
+  {
     "id": 389,
     "title": "Find the Difference",
     "title_slug": "find-the-difference",

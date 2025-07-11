@@ -38,6 +38,7 @@
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |
 | 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | `Depth-First Search` `Trie` |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | `Bit Manipulation` `Math` `String` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
