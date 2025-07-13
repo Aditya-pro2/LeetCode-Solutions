@@ -2905,6 +2905,18 @@
     ]
   },
   {
+    "id": 2410,
+    "title": "Maximum Matching of Players With Trainers",
+    "title_slug": "maximum-matching-of-players-with-trainers",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
