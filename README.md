@@ -371,6 +371,7 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | `Array` |
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | Hard | `Array` `Bit Manipulation` `Graph Theory` `Union-Find` |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | Easy | `Array` |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word) | Easy | `String` |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
 | 3151 | [Special Array I](https://leetcode.com/problems/special-array-i) | Easy | `Array` |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) | Easy | `Array` `Bit Manipulation` `Hash Table` |

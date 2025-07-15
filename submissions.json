@@ -3943,6 +3943,15 @@
     ]
   },
   {
+    "id": 3136,
+    "title": "Valid Word",
+    "title_slug": "valid-word",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3142,
     "title": "Check if Grid Satisfies Conditions",
     "title_slug": "check-if-grid-satisfies-conditions",
