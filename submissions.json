@@ -51,6 +51,17 @@
     ]
   },
   {
+    "id": 32,
+    "title": "Longest Valid Parentheses",
+    "title_slug": "longest-valid-parentheses",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 38,
     "title": "Count and Say",
     "title_slug": "count-and-say",
