@@ -4090,6 +4090,16 @@
     ]
   },
   {
+    "id": 3201,
+    "title": "Find the Maximum Length of Valid Subsequence I",
+    "title_slug": "find-the-maximum-length-of-valid-subsequence-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 3203,
     "title": "Find Minimum Diameter After Merging Two Trees",
     "title_slug": "find-minimum-diameter-after-merging-two-trees",
