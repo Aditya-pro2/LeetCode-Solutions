@@ -387,6 +387,7 @@
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | Medium | `Array` `Bit Manipulation` `Prefix Sum` `Queue` `Sliding Window` |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) | Medium | `Array` `Dynamic Programming` |
+| 3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) | Medium | `Array` `Dynamic Programming` |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string) | Easy | `String` |
