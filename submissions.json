@@ -1279,6 +1279,18 @@
     ]
   },
   {
+    "id": 1233,
+    "title": "Remove Sub-Folders from the Filesystem",
+    "title_slug": "remove-sub-folders-from-the-filesystem",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Depth-First Search",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 1252,
     "title": "Cells with Odd Values in a Matrix",
     "title_slug": "cells-with-odd-values-in-a-matrix",
