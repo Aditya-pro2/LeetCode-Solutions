@@ -2239,6 +2239,19 @@
     ]
   },
   {
+    "id": 1948,
+    "title": "Delete Duplicate Folders in System",
+    "title_slug": "delete-duplicate-folders-in-system",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Hash Function",
+      "Hash Table",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
