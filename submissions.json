@@ -2252,6 +2252,15 @@
     ]
   },
   {
+    "id": 1957,
+    "title": "Delete Characters to Make Fancy String",
+    "title_slug": "delete-characters-to-make-fancy-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
