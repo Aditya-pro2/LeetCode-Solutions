@@ -669,6 +669,18 @@
     ]
   },
   {
+    "id": 646,
+    "title": "Maximum Length of Pair Chain",
+    "title_slug": "maximum-length-of-pair-chain",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 657,
     "title": "Robot Return to Origin",
     "title_slug": "robot-return-to-origin",
