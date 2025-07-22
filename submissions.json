@@ -632,6 +632,19 @@
     ]
   },
   {
+    "id": 572,
+    "title": "Subtree of Another Tree",
+    "title_slug": "subtree-of-another-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Hash Function",
+      "String Matching",
+      "Tree"
+    ]
+  },
+  {
     "id": 575,
     "title": "Distribute Candies",
     "title_slug": "distribute-candies",
