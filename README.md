@@ -17,6 +17,7 @@
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard | `Array` `Backtracking` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Hash Table` `Linked List` `Two Pointers` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
