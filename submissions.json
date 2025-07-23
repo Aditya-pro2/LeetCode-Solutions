@@ -1701,6 +1701,21 @@
     ]
   },
   {
+    "id": 1483,
+    "title": "Kth Ancestor of a Tree Node",
+    "title_slug": "kth-ancestor-of-a-tree-node",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Search",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Design",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 1486,
     "title": "XOR Operation in an Array",
     "title_slug": "xor-operation-in-an-array",

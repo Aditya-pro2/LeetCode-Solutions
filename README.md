@@ -163,6 +163,7 @@
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
+| 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node) | Hard | `Binary Search` `Bit Manipulation` `Breadth-First Search` `Depth-First Search` `Design` `Dynamic Programming` `Tree` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | Medium | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | `Array` `Binary Search` `Prefix Sum` `Sorting` `Two Pointers` |
