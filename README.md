@@ -187,6 +187,7 @@
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | `Database` |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
+| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | `Greedy` `Stack` `String` |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | Medium | `Array` `Backtracking` |
 | 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | Easy | `Array` `Bit Manipulation` |
 | 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square) | Easy | `Array` |
