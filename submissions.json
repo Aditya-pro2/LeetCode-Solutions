@@ -1070,6 +1070,21 @@
     ]
   },
   {
+    "id": 973,
+    "title": "K Closest Points to Origin",
+    "title_slug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Geometry",
+      "Heap (Priority Queue)",
+      "Math",
+      "Quickselect",
+      "Sorting"
+    ]
+  },
+  {
     "id": 974,
     "title": "Subarray Sums Divisible by K",
     "title_slug": "subarray-sums-divisible-by-k",
