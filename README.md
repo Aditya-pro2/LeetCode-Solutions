@@ -275,6 +275,7 @@
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) | Hard | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) | Medium | `Dynamic Programming` `Greedy` `Memoization` `String` |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | `String` |
+| 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) | Hard | `Array` `Bit Manipulation` `Depth-First Search` `Tree` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | `Hash Table` `String` |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) | Hard | `Combinatorics` `Dynamic Programming` `Math` `Number Theory` |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | `Array` `Counting` `Hash Table` |
