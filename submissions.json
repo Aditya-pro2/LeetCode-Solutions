@@ -2973,6 +2973,15 @@
     ]
   },
   {
+    "id": 2220,
+    "title": "Minimum Bit Flips to Convert Number",
+    "title_slug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2226,
     "title": "Maximum Candies Allocated to K Children",
     "title_slug": "maximum-candies-allocated-to-k-children",
