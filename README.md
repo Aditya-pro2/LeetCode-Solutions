@@ -62,6 +62,7 @@
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | `Binary Search` `Math` |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium | `Array` `Hash Table` `Sorting` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | `Bit Manipulation` |
 | 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | Easy | `Math` |
 | 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking) | Easy | `Array` `Simulation` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
