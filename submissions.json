@@ -126,6 +126,18 @@
     ]
   },
   {
+    "id": 111,
+    "title": "Minimum Depth of Binary Tree",
+    "title_slug": "minimum-depth-of-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 119,
     "title": "Pascal's Triangle II",
     "title_slug": "pascals-triangle-ii",
