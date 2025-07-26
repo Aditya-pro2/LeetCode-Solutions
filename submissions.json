@@ -4572,6 +4572,16 @@
     ]
   },
   {
+    "id": 3280,
+    "title": "Convert Date to Binary",
+    "title_slug": "convert-date-to-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3304,
     "title": "Find the K-th Character in String Game I",
     "title_slug": "find-the-k-th-character-in-string-game-i",
