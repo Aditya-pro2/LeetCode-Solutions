@@ -1006,6 +1006,18 @@
     ]
   },
   {
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "title_slug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 802,
     "title": "Find Eventual Safe States",
     "title_slug": "find-eventual-safe-states",
