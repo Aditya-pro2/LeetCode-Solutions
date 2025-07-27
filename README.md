@@ -76,6 +76,7 @@
 | 0511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | Easy | `Database` |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
+| 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
