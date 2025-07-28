@@ -2677,6 +2677,18 @@
     ]
   },
   {
+    "id": 2044,
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "title_slug": "count-number-of-maximum-bitwise-or-subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 2053,
     "title": "Kth Distinct String in an Array",
     "title_slug": "kth-distinct-string-in-an-array",
