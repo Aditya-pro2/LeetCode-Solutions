@@ -2017,6 +2017,17 @@
     ]
   },
   {
+    "id": 1603,
+    "title": "Design Parking System",
+    "title_slug": "design-parking-system",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Design",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1614,
     "title": "Maximum Nesting Depth of the Parentheses",
     "title_slug": "maximum-nesting-depth-of-the-parentheses",
