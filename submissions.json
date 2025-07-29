@@ -2331,6 +2331,15 @@
     ]
   },
   {
+    "id": 1791,
+    "title": "Find Center of Star Graph",
+    "title_slug": "find-center-of-star-graph",
+    "difficulty": "Easy",
+    "skills": [
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1795,
     "title": "Rearrange Products Table",
     "title_slug": "rearrange-products-table",
