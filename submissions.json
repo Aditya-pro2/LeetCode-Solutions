@@ -4372,6 +4372,16 @@
     ]
   },
   {
+    "id": 3146,
+    "title": "Permutation Difference between Two Strings",
+    "title_slug": "permutation-difference-between-two-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3151,
     "title": "Special Array I",
     "title_slug": "special-array-i",
