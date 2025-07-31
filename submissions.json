@@ -1018,6 +1018,20 @@
     ]
   },
   {
+    "id": 787,
+    "title": "Cheapest Flights Within K Stops",
+    "title_slug": "cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 802,
     "title": "Find Eventual Safe States",
     "title_slug": "find-eventual-safe-states",
