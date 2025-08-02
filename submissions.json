@@ -919,6 +919,18 @@
     ]
   },
   {
+    "id": 652,
+    "title": "Find Duplicate Subtrees",
+    "title_slug": "find-duplicate-subtrees",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 657,
     "title": "Robot Return to Origin",
     "title_slug": "robot-return-to-origin",
