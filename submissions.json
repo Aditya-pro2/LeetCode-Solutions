@@ -138,6 +138,19 @@
     ]
   },
   {
+    "id": 96,
+    "title": "Unique Binary Search Trees",
+    "title_slug": "unique-binary-search-trees",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Dynamic Programming",
+      "Math",
+      "Tree"
+    ]
+  },
+  {
     "id": 111,
     "title": "Minimum Depth of Binary Tree",
     "title_slug": "minimum-depth-of-binary-tree",
