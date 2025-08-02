@@ -2177,6 +2177,16 @@
     ]
   },
   {
+    "id": 1663,
+    "title": "Smallest String With A Given Numeric Value",
+    "title_slug": "smallest-string-with-a-given-numeric-value",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1678,
     "title": "Goal Parser Interpretation",
     "title_slug": "goal-parser-interpretation",
