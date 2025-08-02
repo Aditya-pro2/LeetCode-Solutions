@@ -987,6 +987,19 @@
     ]
   },
   {
+    "id": 695,
+    "title": "Max Area of Island",
+    "title_slug": "max-area-of-island",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 705,
     "title": "Design HashSet",
     "title_slug": "design-hashset",
