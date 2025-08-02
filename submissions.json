@@ -1855,6 +1855,19 @@
     ]
   },
   {
+    "id": 1373,
+    "title": "Maximum Sum BST in Binary Tree",
+    "title_slug": "maximum-sum-bst-in-binary-tree",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 1380,
     "title": "Lucky Numbers in a Matrix",
     "title_slug": "lucky-numbers-in-a-matrix",
