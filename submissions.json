@@ -426,6 +426,17 @@
     ]
   },
   {
+    "id": 299,
+    "title": "Bulls and Cows",
+    "title_slug": "bulls-and-cows",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 303,
     "title": "Range Sum Query - Immutable",
     "title_slug": "range-sum-query-immutable",
