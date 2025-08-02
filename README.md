@@ -57,6 +57,7 @@
 | 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal) | Easy | `Bit Manipulation` `Math` `String` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
+| 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | Hard | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Prefix Sum` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | `Math` `Simulation` `String` |
