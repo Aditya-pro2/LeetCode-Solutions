@@ -2758,6 +2758,22 @@
     ]
   },
   {
+    "id": 2035,
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "title_slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Bitmask",
+      "Dynamic Programming",
+      "Ordered Set",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2037,
     "title": "Minimum Number of Moves to Seat Everyone",
     "title_slug": "minimum-number-of-moves-to-seat-everyone",
