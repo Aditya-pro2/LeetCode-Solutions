@@ -975,6 +975,18 @@
     ]
   },
   {
+    "id": 685,
+    "title": "Redundant Connection II",
+    "title_slug": "redundant-connection-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 689,
     "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
     "title_slug": "maximum-sum-of-3-non-overlapping-subarrays",
