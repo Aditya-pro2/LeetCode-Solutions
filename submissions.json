@@ -2583,6 +2583,17 @@
     ]
   },
   {
+    "id": 1903,
+    "title": "Largest Odd Number in String",
+    "title_slug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1910,
     "title": "Remove All Occurrences of a Substring",
     "title_slug": "remove-all-occurrences-of-a-substring",
