@@ -3731,6 +3731,18 @@
     ]
   },
   {
+    "id": 2561,
+    "title": "Rearranging Fruits",
+    "title_slug": "rearranging-fruits",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table",
+      "Sort"
+    ]
+  },
+  {
     "id": 2563,
     "title": "Count the Number of Fair Pairs",
     "title_slug": "count-the-number-of-fair-pairs",
