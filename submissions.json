@@ -1592,6 +1592,17 @@
     ]
   },
   {
+    "id": 1221,
+    "title": "Split a String in Balanced Strings",
+    "title_slug": "split-a-string-in-balanced-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1233,
     "title": "Remove Sub-Folders from the Filesystem",
     "title_slug": "remove-sub-folders-from-the-filesystem",
