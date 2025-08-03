@@ -5081,6 +5081,15 @@
     ]
   },
   {
+    "id": 3285,
+    "title": "Find Indices of Stable Mountains",
+    "title_slug": "find-indices-of-stable-mountains",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3304,
     "title": "Find the K-th Character in String Game I",
     "title_slug": "find-the-k-th-character-in-string-game-i",
