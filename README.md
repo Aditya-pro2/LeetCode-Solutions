@@ -105,6 +105,7 @@
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |
 | 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Medium | `Greedy` `Hash Table` `String` `Two Pointers` |
+| 0765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Greedy` `Union-Find` |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Medium | `Array` `Greedy` `Monotonic Stack` `Sorting` `Stack` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |

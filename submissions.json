@@ -1081,6 +1081,19 @@
     ]
   },
   {
+    "id": 765,
+    "title": "Couples Holding Hands",
+    "title_slug": "couples-holding-hands",
+    "difficulty": "Hard",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Greedy",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 766,
     "title": "Toeplitz Matrix",
     "title_slug": "toeplitz-matrix",
