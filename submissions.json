@@ -629,6 +629,16 @@
     ]
   },
   {
+    "id": 416,
+    "title": "Partition Equal Subset Sum",
+    "title_slug": "partition-equal-subset-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 434,
     "title": "Number of Segments in a String",
     "title_slug": "number-of-segments-in-a-string",
