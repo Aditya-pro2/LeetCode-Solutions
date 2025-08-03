@@ -11,6 +11,7 @@
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | `Linked List` `Recursion` |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | Medium | `Bit Manipulation` `Math` |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | `Array` `Two Pointers` |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard | `Dynamic Programming` `Stack` `String` |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say) | Medium | `String` |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
