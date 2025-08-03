@@ -2425,6 +2425,17 @@
     ]
   },
   {
+    "id": 1691,
+    "title": "Maximum Height by Stacking Cuboids ",
+    "title_slug": "maximum-height-by-stacking-cuboids",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1693,
     "title": "Daily Leads and Partners",
     "title_slug": "daily-leads-and-partners",
