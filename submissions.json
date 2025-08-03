@@ -2381,6 +2381,18 @@
     ]
   },
   {
+    "id": 1671,
+    "title": "Minimum Number of Removals to Make Mountain Array",
+    "title_slug": "minimum-number-of-removals-to-make-mountain-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1678,
     "title": "Goal Parser Interpretation",
     "title_slug": "goal-parser-interpretation",
