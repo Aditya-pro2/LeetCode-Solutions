@@ -458,6 +458,22 @@
     ]
   },
   {
+    "id": 329,
+    "title": "Longest Increasing Path in a Matrix",
+    "title_slug": "longest-increasing-path-in-a-matrix",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Matrix",
+      "Memoization",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",

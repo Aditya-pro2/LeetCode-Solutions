@@ -48,6 +48,7 @@
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | Medium | `Counting` `Hash Table` `String` |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | `Array` `Design` `Prefix Sum` |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | `Brainteaser` `Math` |
+| 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Matrix` `Memoization` `Topological Sort` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |
