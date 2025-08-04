@@ -332,6 +332,7 @@
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | `String` |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) | Hard | `Array` `Bit Manipulation` `Depth-First Search` `Tree` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | `Hash Table` `String` |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays) | Hard | `Combinatorics` `Dynamic Programming` `Math` `Number Theory` |
 | 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array) | Easy | `Array` `Counting` `Hash Table` |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
