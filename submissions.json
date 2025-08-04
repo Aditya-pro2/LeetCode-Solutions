@@ -4761,6 +4761,15 @@
     ]
   },
   {
+    "id": 3099,
+    "title": "Harshad Number",
+    "title_slug": "harshad-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3105,
     "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
     "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
