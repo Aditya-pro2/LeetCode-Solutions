@@ -475,6 +475,7 @@
 | 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal) | Easy | `Bit Manipulation` |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | `Array` `Math` |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
+| 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix) | Easy | `Array` `Simulation` `String` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers) | Hard | `Combinatorics` `Enumeration` `Hash Table` `Math` |
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary) | Easy | `Math` `String` |

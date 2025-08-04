@@ -5109,6 +5109,17 @@
     ]
   },
   {
+    "id": 3248,
+    "title": "Snake in Matrix",
+    "title_slug": "snake-in-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3264,
     "title": "Final Array State After K Multiplication Operations I",
     "title_slug": "final-array-state-after-k-multiplication-operations-i",
