@@ -5520,6 +5520,15 @@
     ]
   },
   {
+    "id": 3502,
+    "title": "Minimum Cost to Reach Every Position",
+    "title_slug": "minimum-cost-to-reach-every-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3591,
     "title": "Check if Any Element Has Prime Frequency",
     "title_slug": "check-if-any-element-has-prime-frequency",
