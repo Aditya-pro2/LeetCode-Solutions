@@ -5379,6 +5379,16 @@
     ]
   },
   {
+    "id": 3427,
+    "title": "Sum of Variable Length Subarrays",
+    "title_slug": "sum-of-variable-length-subarrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3439,
     "title": "Reschedule Meetings for Maximum Free Time I",
     "title_slug": "reschedule-meetings-for-maximum-free-time-i",
