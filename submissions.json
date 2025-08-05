@@ -912,6 +912,17 @@
     ]
   },
   {
+    "id": 590,
+    "title": "N-ary Tree Postorder Traversal",
+    "title_slug": "n-ary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 594,
     "title": "Longest Harmonious Subsequence",
     "title_slug": "longest-harmonious-subsequence",
