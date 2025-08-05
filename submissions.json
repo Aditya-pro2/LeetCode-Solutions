@@ -3202,6 +3202,16 @@
     ]
   },
   {
+    "id": 2103,
+    "title": "Rings and Rods",
+    "title_slug": "rings-and-rods",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2106,
     "title": "Maximum Fruits Harvested After at Most K Steps",
     "title_slug": "maximum-fruits-harvested-after-at-most-k-steps",
