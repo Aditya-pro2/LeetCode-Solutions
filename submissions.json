@@ -1905,6 +1905,15 @@
     ]
   },
   {
+    "id": 1309,
+    "title": "Decrypt String from Alphabet to Integer Mapping",
+    "title_slug": "decrypt-string-from-alphabet-to-integer-mapping",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1313,
     "title": "Decompress Run-Length Encoded List",
     "title_slug": "decompress-run-length-encoded-list",
