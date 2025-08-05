@@ -489,6 +489,7 @@
 | 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii) | Hard | `Dynamic Programming` `Prefix Sum` `String` |
 | 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i) | Medium | `Counting` `Dynamic Programming` `Hash Table` `Math` `String` |
 | 3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii) | Hard | `Counting` `Dynamic Programming` `Hash Table` `Math` `String` |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | Easy | `String` |
 | 3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | Medium | `Array` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | Medium | `Array` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations) | Hard | `Combinatorics` `Dynamic Programming` `Math` `String` |

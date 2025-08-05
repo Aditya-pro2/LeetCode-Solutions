@@ -5263,6 +5263,15 @@
     ]
   },
   {
+    "id": 3340,
+    "title": "Check Balanced String",
+    "title_slug": "check-balanced-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3341,
     "title": "Find Minimum Time to Reach Last Room I",
     "title_slug": "find-minimum-time-to-reach-last-room-i",
