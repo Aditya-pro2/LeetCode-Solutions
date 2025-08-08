@@ -121,6 +121,7 @@
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Medium | `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
+| 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Bit Manipulation` `Matrix` `Simulation` `Two Pointers` |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
