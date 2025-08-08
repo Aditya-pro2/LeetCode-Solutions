@@ -52,6 +52,7 @@
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | `Brainteaser` `Math` |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Matrix` `Memoization` `Topological Sort` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) | Medium | `Array` `Dynamic Programming` `Math` `Sorting` |
 | 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) | Medium | `Depth-First Search` `Trie` |
