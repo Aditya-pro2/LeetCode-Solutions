@@ -4798,6 +4798,15 @@
     ]
   },
   {
+    "id": 3019,
+    "title": "Number of Changing Keys",
+    "title_slug": "number-of-changing-keys",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3024,
     "title": "Type of Triangle",
     "title_slug": "type-of-triangle",

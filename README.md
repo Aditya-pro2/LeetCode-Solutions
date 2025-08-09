@@ -445,6 +445,7 @@
 | 2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference) | Medium | `Array` `Greedy` `Sorting` |
 | 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game) | Easy | `Array` `Heap (Priority Queue)` `Simulation` `Sorting` |
 | 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) | Hard | `Dynamic Programming` `Math` `String` |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | Easy | `String` |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle) | Easy | `Array` `Math` `Sorting` |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | Easy | `Array` `Hash Function` `Rolling Hash` `String` `String Matching` `Trie` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
