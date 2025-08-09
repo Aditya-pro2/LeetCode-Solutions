@@ -2459,6 +2459,16 @@
     ]
   },
   {
+    "id": 1652,
+    "title": "Defuse the Bomb",
+    "title_slug": "defuse-the-bomb",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1656,
     "title": "Design an Ordered Stream",
     "title_slug": "design-an-ordered-stream",
