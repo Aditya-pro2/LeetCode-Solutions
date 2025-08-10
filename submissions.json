@@ -1374,6 +1374,19 @@
     ]
   },
   {
+    "id": 869,
+    "title": "Reordered Power of 2",
+    "title_slug": "reordered-power-of-2",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Enumeration",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 873,
     "title": "Length of Longest Fibonacci Subsequence",
     "title_slug": "length-of-longest-fibonacci-subsequence",
