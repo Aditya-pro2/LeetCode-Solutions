@@ -3971,6 +3971,17 @@
     ]
   },
   {
+    "id": 2438,
+    "title": "Range Product Queries of Powers",
+    "title_slug": "range-product-queries-of-powers",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2444,
     "title": "Count Subarrays With Fixed Bounds",
     "title_slug": "count-subarrays-with-fixed-bounds",
