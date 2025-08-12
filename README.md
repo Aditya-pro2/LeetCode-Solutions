@@ -283,6 +283,7 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | `Array` `Simulation` |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers) | Medium | `Math` `Recursion` |
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) | Hard | `Dynamic Programming` |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | `Counting` `Hash Table` `String` |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system) | Hard | `Array` `Hash Function` `Hash Table` `String` `Trie` |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | Easy | `String` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | `Array` `String` |
