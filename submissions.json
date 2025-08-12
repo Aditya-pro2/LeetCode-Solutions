@@ -4500,6 +4500,15 @@
     ]
   },
   {
+    "id": 2787,
+    "title": "Ways to Express an Integer as Sum of Powers",
+    "title_slug": "ways-to-express-an-integer-as-sum-of-powers",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 2788,
     "title": "Split Strings by Separator",
     "title_slug": "split-strings-by-separator",
