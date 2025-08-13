@@ -17,6 +17,7 @@
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | `Array` `Backtracking` `Sorting` |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard | `Array` `Backtracking` |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
