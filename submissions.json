@@ -490,6 +490,16 @@
     ]
   },
   {
+    "id": 326,
+    "title": "Power of Three",
+    "title_slug": "power-of-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 329,
     "title": "Longest Increasing Path in a Matrix",
     "title_slug": "longest-increasing-path-in-a-matrix",

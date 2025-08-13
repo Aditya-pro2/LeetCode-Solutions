@@ -51,6 +51,7 @@
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) | Medium | `Counting` `Hash Table` `String` |
 | 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable) | Easy | `Array` `Design` `Prefix Sum` |
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | `Brainteaser` `Math` |
+| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Matrix` `Memoization` `Topological Sort` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
