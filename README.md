@@ -341,6 +341,7 @@
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | Medium | `Array` `Binary Search` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | `Math` |
 | 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string) | Easy | `Array` `String` |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string) | Easy | `String` |
 | 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array) | Medium | `Array` `Prefix Sum` |
 | 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) | Medium | `Array` `Bit Manipulation` `Counting` `Hash Table` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |

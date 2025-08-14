@@ -3665,6 +3665,15 @@
     ]
   },
   {
+    "id": 2264,
+    "title": "Largest 3-Same-Digit Number in String",
+    "title_slug": "largest-3-same-digit-number-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2270,
     "title": "Number of Ways to Split Array",
     "title_slug": "number-of-ways-to-split-array",
