@@ -2050,6 +2050,16 @@
     ]
   },
   {
+    "id": 1323,
+    "title": "Maximum 69 Number",
+    "title_slug": "maximum-69-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 1324,
     "title": "Print Words Vertically",
     "title_slug": "print-words-vertically",
