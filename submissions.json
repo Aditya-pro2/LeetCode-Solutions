@@ -1407,6 +1407,18 @@
     ]
   },
   {
+    "id": 837,
+    "title": "New 21 Game",
+    "title_slug": "new-21-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Probability and Statistics",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 838,
     "title": "Push Dominoes",
     "title_slug": "push-dominoes",

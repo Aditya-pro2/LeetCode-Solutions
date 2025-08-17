@@ -133,6 +133,7 @@
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Bit Manipulation` `Matrix` `Simulation` `Two Pointers` |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
+| 0837 | [New 21 Game](https://leetcode.com/problems/new-21-game) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` `Sliding Window` |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | `Counting` `Enumeration` `Hash Table` `Math` `Sorting` |
