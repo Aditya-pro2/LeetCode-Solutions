@@ -3852,6 +3852,16 @@
     ]
   },
   {
+    "id": 2348,
+    "title": "Number of Zero-Filled Subarrays",
+    "title_slug": "number-of-zero-filled-subarrays",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 2349,
     "title": "Design a Number Container System",
     "title_slug": "design-a-number-container-system",
