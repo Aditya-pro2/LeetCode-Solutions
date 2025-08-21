@@ -4681,6 +4681,17 @@
     ]
   },
   {
+    "id": 2807,
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "title_slug": "insert-greatest-common-divisors-in-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2810,
     "title": "Faulty Keyboard",
     "title_slug": "faulty-keyboard",
