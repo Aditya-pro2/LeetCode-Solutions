@@ -226,6 +226,7 @@
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node) | Hard | `Binary Search` `Bit Manipulation` `Breadth-First Search` `Depth-First Search` `Design` `Dynamic Programming` `Tree` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | Medium | `Array` `Binary Search` `Sorting` `Two Pointers` |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` `Monotonic Stack` `Stack` |
 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | `Array` `Binary Search` `Prefix Sum` `Sorting` `Two Pointers` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | Medium | `Array` `Dynamic Programming` `Math` `Prefix Sum` |

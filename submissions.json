@@ -2432,6 +2432,19 @@
     ]
   },
   {
+    "id": 1504,
+    "title": "Count Submatrices With All Ones",
+    "title_slug": "count-submatrices-with-all-ones",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1508,
     "title": "Range Sum of Sorted Subarray Sums",
     "title_slug": "range-sum-of-sorted-subarray-sums",
