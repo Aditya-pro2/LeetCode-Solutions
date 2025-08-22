@@ -144,6 +144,7 @@
 | 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | Medium | `Array` `Binary Tree` `Divide and Conquer` `Hash Table` `Tree` |
 | 0892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes) | Easy | `Array` `Geometry` `Math` `Matrix` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
+| 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays) | Medium | `Array` `Bit Manipulation` `Dynamic Programming` |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | Easy | `Array` `Sorting` `Two Pointers` |
