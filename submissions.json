@@ -4590,6 +4590,15 @@
     ]
   },
   {
+    "id": 2710,
+    "title": "Remove Trailing Zeros From a String",
+    "title_slug": "remove-trailing-zeros-from-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
