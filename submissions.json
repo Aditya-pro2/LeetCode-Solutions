@@ -1047,6 +1047,18 @@
     ]
   },
   {
+    "id": 617,
+    "title": "Merge Two Binary Trees",
+    "title_slug": "merge-two-binary-trees",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 627,
     "title": "Swap Sex of Employees",
     "title_slug": "swap-sex-of-employees",
