@@ -820,6 +820,17 @@
     ]
   },
   {
+    "id": 498,
+    "title": "Diagonal Traverse",
+    "title_slug": "diagonal-traverse",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 500,
     "title": "Keyboard Row",
     "title_slug": "keyboard-row",
