@@ -1013,6 +1013,15 @@
     ]
   },
   {
+    "id": 577,
+    "title": "Employee Bonus",
+    "title_slug": "employee-bonus",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 590,
     "title": "N-ary Tree Postorder Traversal",
     "title_slug": "n-ary-tree-postorder-traversal",
