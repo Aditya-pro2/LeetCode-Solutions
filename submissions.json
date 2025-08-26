@@ -1833,6 +1833,15 @@
     ]
   },
   {
+    "id": 1068,
+    "title": "Product Sales Analysis I",
+    "title_slug": "product-sales-analysis-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1071,
     "title": "Greatest Common Divisor of Strings",
     "title_slug": "greatest-common-divisor-of-strings",

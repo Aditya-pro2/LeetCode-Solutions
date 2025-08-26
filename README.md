@@ -171,6 +171,7 @@
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | `Database` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | Medium | `String` `Union-Find` |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | Easy | `Database` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | `Backtracking` `Counting` `Hash Table` `String` |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | `Database` |
