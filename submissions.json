@@ -2709,6 +2709,15 @@
     ]
   },
   {
+    "id": 1661,
+    "title": "Average Time of Process per Machine",
+    "title_slug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1662,
     "title": "Check If Two String Arrays are Equivalent",
     "title_slug": "check-if-two-string-arrays-are-equivalent",
