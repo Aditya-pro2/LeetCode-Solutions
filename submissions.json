@@ -1917,6 +1917,15 @@
     ]
   },
   {
+    "id": 1148,
+    "title": "Article Views I",
+    "title_slug": "article-views-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1154,
     "title": "Day of the Year",
     "title_slug": "day-of-the-year",

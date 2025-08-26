@@ -179,6 +179,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` |
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy | `Array` `Counting` `Hash Table` |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | `Math` `String` |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
