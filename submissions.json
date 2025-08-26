@@ -2583,6 +2583,15 @@
     ]
   },
   {
+    "id": 1581,
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "title_slug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1587,
     "title": "Bank Account Summary II",
     "title_slug": "bank-account-summary-ii",
