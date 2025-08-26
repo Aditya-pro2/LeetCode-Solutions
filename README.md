@@ -97,6 +97,7 @@
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
+| 0570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) | Medium | `Database` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
 | 0577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus) | Easy | `Database` |
