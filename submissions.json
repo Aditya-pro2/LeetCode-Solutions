@@ -2542,6 +2542,16 @@
     ]
   },
   {
+    "id": 1491,
+    "title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "title_slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1498,
     "title": "Number of Subsequences That Satisfy the Given Sum Condition",
     "title_slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
