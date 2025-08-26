@@ -100,6 +100,7 @@
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
 | 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) | Easy | `Depth-First Search` `Stack` `Tree` |
 | 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence) | Easy | `Array` `Counting` `Hash Table` `Sliding Window` `Sorting` |
+| 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii) | Easy | `Array` `Math` |
 | 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | Easy | `Array` `Hash Table` `String` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
