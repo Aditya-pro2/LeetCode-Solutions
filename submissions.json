@@ -5050,6 +5050,15 @@
     ]
   },
   {
+    "id": 3000,
+    "title": "Maximum Area of Longest Diagonal Rectangle",
+    "title_slug": "maximum-area-of-longest-diagonal-rectangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3019,
     "title": "Number of Changing Keys",
     "title_slug": "number-of-changing-keys",
