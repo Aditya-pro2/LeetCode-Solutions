@@ -2714,6 +2714,15 @@
     ]
   },
   {
+    "id": 1683,
+    "title": "Invalid Tweets",
+    "title_slug": "invalid-tweets",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1684,
     "title": "Count the Number of Consistent Strings",
     "title_slug": "count-the-number-of-consistent-strings",
