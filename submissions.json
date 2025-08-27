@@ -6067,6 +6067,18 @@
     ]
   },
   {
+    "id": 3459,
+    "title": "Length of Longest V-Shaped Diagonal Segment",
+    "title_slug": "length-of-longest-v-shaped-diagonal-segment",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Memoization"
+    ]
+  },
+  {
     "id": 3467,
     "title": "Transform Array by Parity",
     "title_slug": "transform-array-by-parity",
