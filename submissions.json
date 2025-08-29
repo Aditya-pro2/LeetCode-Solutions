@@ -2721,6 +2721,15 @@
     ]
   },
   {
+    "id": 1633,
+    "title": "Percentage of Users Attended a Contest",
+    "title_slug": "percentage-of-users-attended-a-contest",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1636,
     "title": "Sort Array by Increasing Frequency",
     "title_slug": "sort-array-by-increasing-frequency",
