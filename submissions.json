@@ -1890,6 +1890,15 @@
     ]
   },
   {
+    "id": 1075,
+    "title": "Project Employees I",
+    "title_slug": "project-employees-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1079,
     "title": "Letter Tile Possibilities",
     "title_slug": "letter-tile-possibilities",
