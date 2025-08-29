@@ -5229,6 +5229,15 @@
     ]
   },
   {
+    "id": 3021,
+    "title": "Alice and Bob Playing Flower Game",
+    "title_slug": "alice-and-bob-playing-flower-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3024,
     "title": "Type of Triangle",
     "title_slug": "type-of-triangle",
