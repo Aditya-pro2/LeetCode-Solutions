@@ -2055,6 +2055,15 @@
     ]
   },
   {
+    "id": 1251,
+    "title": "Average Selling Price",
+    "title_slug": "average-selling-price",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1252,
     "title": "Cells with Odd Values in a Matrix",
     "title_slug": "cells-with-odd-values-in-a-matrix",

@@ -193,6 +193,7 @@
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | `Counting` `Greedy` `String` |
 | 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | Medium | `Array` `Depth-First Search` `String` `Trie` |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | Easy | `Database` |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | `Array` `Math` `Simulation` |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Design` `Hash Table` `Tree` |
