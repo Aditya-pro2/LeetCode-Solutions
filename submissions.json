@@ -2053,6 +2053,15 @@
     ]
   },
   {
+    "id": 1211,
+    "title": "Queries Quality and Percentage",
+    "title_slug": "queries-quality-and-percentage",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1217,
     "title": "Minimum Cost to Move Chips to The Same Position",
     "title_slug": "minimum-cost-to-move-chips-to-the-same-position",

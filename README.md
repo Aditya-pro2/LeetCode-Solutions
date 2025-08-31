@@ -193,6 +193,7 @@
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | `Math` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | Easy | `Database` |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Easy | `Array` `Greedy` `Math` |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings) | Easy | `Counting` `Greedy` `String` |
 | 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) | Medium | `Array` `Depth-First Search` `String` `Trie` |
