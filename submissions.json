@@ -1138,6 +1138,15 @@
     ]
   },
   {
+    "id": 619,
+    "title": "Biggest Single Number",
+    "title_slug": "biggest-single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 627,
     "title": "Swap Sex of Employees",
     "title_slug": "swap-sex-of-employees",
