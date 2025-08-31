@@ -1126,6 +1126,15 @@
     ]
   },
   {
+    "id": 610,
+    "title": "Triangle Judgement",
+    "title_slug": "triangle-judgement",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 617,
     "title": "Merge Two Binary Trees",
     "title_slug": "merge-two-binary-trees",
