@@ -584,3 +584,4 @@
 | 3603 | [Minimum Cost Path with Alternating Directions II](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 3604 | [Minimum Time to Reach Destination in Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph) | Medium | `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 3608 | [Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components) | Medium | `Binary Search` `Graph Theory` `Sorting` `Union-Find` |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |

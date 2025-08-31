@@ -6269,5 +6269,15 @@
       "Sorting",
       "Union-Find"
     ]
+  },
+  {
+    "id": 3658,
+    "title": "GCD of Odd and Even Sums",
+    "title_slug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
