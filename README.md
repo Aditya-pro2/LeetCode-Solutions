@@ -189,6 +189,7 @@
 | 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs) | Easy | `Array` `Counting` `Hash Table` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | `Math` `String` |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | Medium | `Database` |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | `Math` |
