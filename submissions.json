@@ -72,6 +72,18 @@
     ]
   },
   {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 38,
     "title": "Count and Say",
     "title_slug": "count-and-say",
