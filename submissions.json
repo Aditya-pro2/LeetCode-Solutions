@@ -2098,6 +2098,15 @@
     ]
   },
   {
+    "id": 1204,
+    "title": "Last Person to Fit in the Bus",
+    "title_slug": "last-person-to-fit-in-the-bus",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1211,
     "title": "Queries Quality and Percentage",
     "title_slug": "queries-quality-and-percentage",
