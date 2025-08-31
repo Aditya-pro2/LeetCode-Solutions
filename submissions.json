@@ -2042,6 +2042,15 @@
     ]
   },
   {
+    "id": 1164,
+    "title": "Product Price at a Given Date",
+    "title_slug": "product-price-at-a-given-date",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1174,
     "title": "Immediate Food Delivery II",
     "title_slug": "immediate-food-delivery-ii",
