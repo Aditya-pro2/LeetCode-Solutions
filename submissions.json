@@ -3050,6 +3050,15 @@
     ]
   },
   {
+    "id": 1731,
+    "title": "The Number of Employees Which Report to Each Employee",
+    "title_slug": "the-number-of-employees-which-report-to-each-employee",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1741,
     "title": "Find Total Time Spent by Each Employee",
     "title_slug": "find-total-time-spent-by-each-employee",
