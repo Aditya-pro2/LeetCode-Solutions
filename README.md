@@ -390,6 +390,7 @@
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits) | Medium | `Array` `Hash Table` `Heap (Priority Queue)` `Sorting` |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Medium | `Array` `Math` |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | Easy | `Database` |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | `Array` `Greedy` `Hash Table` `Heap (Priority Queue)` `Simulation` `Sorting` |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | Medium | `Depth-First Search` `Graph Theory` |
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items) | Easy | `Array` `Hash Table` `Ordered Set` `Sorting` |

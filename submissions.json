@@ -4172,6 +4172,15 @@
     ]
   },
   {
+    "id": 2356,
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "title_slug": "number-of-unique-subjects-taught-by-each-teacher",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 2357,
     "title": "Make Array Zero by Subtracting Equal Amounts",
     "title_slug": "make-array-zero-by-subtracting-equal-amounts",
