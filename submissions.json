@@ -3032,6 +3032,15 @@
     ]
   },
   {
+    "id": 1729,
+    "title": "Find Followers Count",
+    "title_slug": "find-followers-count",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1741,
     "title": "Find Total Time Spent by Each Employee",
     "title_slug": "find-total-time-spent-by-each-employee",
