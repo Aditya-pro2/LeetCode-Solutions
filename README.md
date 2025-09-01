@@ -305,6 +305,7 @@
 | 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee) | Easy | `Database` |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) | Easy | `Counting` `Hash Table` `String` |
 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph) | Easy | `Graph Theory` |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio) | Medium | `Array` `Greedy` `Heap (Priority Queue)` |
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | `Database` |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | `Array` |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | `Math` `String` |

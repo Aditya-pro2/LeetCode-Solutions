@@ -3236,6 +3236,17 @@
     ]
   },
   {
+    "id": 1792,
+    "title": "Maximum Average Pass Ratio",
+    "title_slug": "maximum-average-pass-ratio",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
     "id": 1795,
     "title": "Rearrange Products Table",
     "title_slug": "rearrange-products-table",
