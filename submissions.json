@@ -3427,6 +3427,15 @@
     ]
   },
   {
+    "id": 1907,
+    "title": "Count Salary Categories",
+    "title_slug": "count-salary-categories",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1910,
     "title": "Remove All Occurrences of a Substring",
     "title_slug": "remove-all-occurrences-of-a-substring",
