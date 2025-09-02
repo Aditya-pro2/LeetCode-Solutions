@@ -2310,6 +2310,15 @@
     ]
   },
   {
+    "id": 1321,
+    "title": "Restaurant Growth",
+    "title_slug": "restaurant-growth",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1323,
     "title": "Maximum 69 Number",
     "title_slug": "maximum-69-number",
