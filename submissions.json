@@ -2769,6 +2769,15 @@
     ]
   },
   {
+    "id": 1517,
+    "title": "Find Users With Valid E-Mails",
+    "title_slug": "find-users-with-valid-e-mails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1524,
     "title": "Number of Sub-arrays With Odd Sum",
     "title_slug": "number-of-sub-arrays-with-odd-sum",
