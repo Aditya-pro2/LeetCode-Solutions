@@ -2690,6 +2690,15 @@
     ]
   },
   {
+    "id": 1484,
+    "title": "Group Sold Products By The Date",
+    "title_slug": "group-sold-products-by-the-date",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1486,
     "title": "XOR Operation in an Array",
     "title_slug": "xor-operation-in-an-array",
