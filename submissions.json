@@ -2754,6 +2754,15 @@
     ]
   },
   {
+    "id": 1527,
+    "title": "Patients With a Condition",
+    "title_slug": "patients-with-a-condition",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1528,
     "title": "Shuffle String",
     "title_slug": "shuffle-string",

@@ -258,6 +258,7 @@
 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | `Array` `Binary Search` `Prefix Sum` `Sorting` `Two Pointers` |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | Medium | `Array` `Dynamic Programming` `Math` `Prefix Sum` |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | `Database` |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | `Array` `String` |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | `Array` `Enumeration` |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | `Array` |
