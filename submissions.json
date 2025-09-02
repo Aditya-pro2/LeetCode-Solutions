@@ -302,6 +302,15 @@
     ]
   },
   {
+    "id": 177,
+    "title": "Nth Highest Salary",
+    "title_slug": "nth-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 182,
     "title": "Duplicate Emails",
     "title_slug": "duplicate-emails",
