@@ -38,6 +38,7 @@
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | Hard | `Database` |
 | 0193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | `Shell` |
 | 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
+| 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |

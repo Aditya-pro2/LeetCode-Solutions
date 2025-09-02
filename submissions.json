@@ -338,6 +338,15 @@
     ]
   },
   {
+    "id": 196,
+    "title": "Delete Duplicate Emails",
+    "title_slug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 197,
     "title": "Rising Temperature",
     "title_slug": "rising-temperature",
