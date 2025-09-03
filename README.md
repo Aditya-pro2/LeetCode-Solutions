@@ -519,6 +519,7 @@
 | 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game) | Medium | `Math` |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle) | Easy | `Array` `Math` `Sorting` |
 | 3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i) | Medium | `Array` `Enumeration` `Geometry` `Math` `Sorting` |
+| 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii) | Hard | `Array` `Enumeration` `Geometry` `Math` `Sorting` |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | Easy | `Array` `Hash Function` `Rolling Hash` `String` `String Matching` `Trie` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | Medium | `Array` `Heap (Priority Queue)` `Simulation` |
