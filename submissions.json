@@ -5864,6 +5864,17 @@
     ]
   },
   {
+    "id": 3184,
+    "title": "Count Pairs That Form a Complete Day I",
+    "title_slug": "count-pairs-that-form-a-complete-day-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3191,
     "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
     "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
