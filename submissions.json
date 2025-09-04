@@ -6459,6 +6459,15 @@
     ]
   },
   {
+    "id": 3516,
+    "title": "Find Closest Person",
+    "title_slug": "find-closest-person",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3550,
     "title": "Smallest Index With Digit Sum Equal to Index",
     "title_slug": "smallest-index-with-digit-sum-equal-to-index",
