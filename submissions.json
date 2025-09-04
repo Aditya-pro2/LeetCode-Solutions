@@ -6433,6 +6433,15 @@
     ]
   },
   {
+    "id": 3475,
+    "title": "DNA Pattern Recognition ",
+    "title_slug": "dna-pattern-recognition",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 3477,
     "title": "Fruits Into Baskets II",
     "title_slug": "fruits-into-baskets-ii",
