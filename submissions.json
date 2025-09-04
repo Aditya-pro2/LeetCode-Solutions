@@ -4118,6 +4118,16 @@
     ]
   },
   {
+    "id": 2181,
+    "title": "Merge Nodes in Between Zeros",
+    "title_slug": "merge-nodes-in-between-zeros",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2185,
     "title": "Counting Words With a Given Prefix",
     "title_slug": "counting-words-with-a-given-prefix",
