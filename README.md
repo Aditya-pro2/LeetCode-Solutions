@@ -293,6 +293,7 @@
 | 1691 | [Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids) | Hard | `Array` `Dynamic Programming` `Sorting` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | `Database` |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | `Counting` `String` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
 | 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings) | Medium | `Greedy` `Stack` `String` |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence) | Medium | `Array` `Backtracking` |

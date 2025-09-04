@@ -3105,6 +3105,16 @@
     ]
   },
   {
+    "id": 1704,
+    "title": "Determine if String Halves Are Alike",
+    "title_slug": "determine-if-string-halves-are-alike",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "String"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
