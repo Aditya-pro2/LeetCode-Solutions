@@ -424,6 +424,7 @@
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | Medium | `Backtracking` `Greedy` `Stack` `String` |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
+| 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | `Brainteaser` `Math` `Two Pointers` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or) | Medium | `Array` `Binary Search` `Bit Manipulation` `Sliding Window` |

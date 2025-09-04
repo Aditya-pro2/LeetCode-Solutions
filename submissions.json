@@ -4504,6 +4504,17 @@
     ]
   },
   {
+    "id": 2396,
+    "title": "Strictly Palindromic Number",
+    "title_slug": "strictly-palindromic-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Brainteaser",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2401,
     "title": "Longest Nice Subarray",
     "title_slug": "longest-nice-subarray",
