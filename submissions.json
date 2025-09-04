@@ -2493,6 +2493,15 @@
     ]
   },
   {
+    "id": 1374,
+    "title": "Generate a String With Characters That Have Odd Counts",
+    "title_slug": "generate-a-string-with-characters-that-have-odd-counts",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1378,
     "title": "Replace Employee ID With The Unique Identifier",
     "title_slug": "replace-employee-id-with-the-unique-identifier",
