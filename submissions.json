@@ -3092,6 +3092,16 @@
     ]
   },
   {
+    "id": 1689,
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "title_slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1691,
     "title": "Maximum Height by Stacking Cuboids ",
     "title_slug": "maximum-height-by-stacking-cuboids",
