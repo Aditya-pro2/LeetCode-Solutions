@@ -3675,6 +3675,16 @@
     ]
   },
   {
+    "id": 1974,
+    "title": "Minimum Time to Type Word Using Special Typewriter",
+    "title_slug": "minimum-time-to-type-word-using-special-typewriter",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1976,
     "title": "Number of Ways to Arrive at Destination",
     "title_slug": "number-of-ways-to-arrive-at-destination",
