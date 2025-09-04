@@ -240,6 +240,7 @@
 | 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | `Array` `Matrix` |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order) | Easy | `Array` `Simulation` |
+| 1393 | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) | Medium | `Database` |
 | 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array) | Easy | `Array` `Counting` `Hash Table` |
 | 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group) | Easy | `Hash Table` `Math` |
 | 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | Medium | `Counting` `Greedy` `Hash Table` `String` |

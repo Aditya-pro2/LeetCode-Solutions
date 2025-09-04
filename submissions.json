@@ -2543,6 +2543,15 @@
     ]
   },
   {
+    "id": 1393,
+    "title": "Capital Gain/Loss",
+    "title_slug": "capital-gainloss",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1394,
     "title": "Find Lucky Integer in an Array",
     "title_slug": "find-lucky-integer-in-an-array",
