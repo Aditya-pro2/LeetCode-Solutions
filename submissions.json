@@ -5155,6 +5155,17 @@
     ]
   },
   {
+    "id": 2749,
+    "title": "Minimum Operations to Make the Integer Zero",
+    "title_slug": "minimum-operations-to-make-the-integer-zero",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Brainteaser",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 2769,
     "title": "Find the Maximum Achievable Number",
     "title_slug": "find-the-maximum-achievable-number",
