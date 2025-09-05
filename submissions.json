@@ -5994,6 +5994,17 @@
     ]
   },
   {
+    "id": 3211,
+    "title": "Generate Binary Strings Without Adjacent Zeros",
+    "title_slug": "generate-binary-strings-without-adjacent-zeros",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bit Manipulation",
+      "String"
+    ]
+  },
+  {
     "id": 3216,
     "title": "Lexicographically Smallest String After a Swap",
     "title_slug": "lexicographically-smallest-string-after-a-swap",
