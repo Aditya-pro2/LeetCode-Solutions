@@ -1934,6 +1934,18 @@
     ]
   },
   {
+    "id": 1038,
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "title_slug": "binary-search-tree-to-greater-sum-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1041,
     "title": "Robot Bounded In Circle",
     "title_slug": "robot-bounded-in-circle",

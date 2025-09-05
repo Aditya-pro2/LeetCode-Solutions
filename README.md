@@ -182,6 +182,7 @@
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal) | Hard | `Binary Tree` `Depth-First Search` `String` `Tree` |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order) | Easy | `Array` `Geometry` `Math` `Matrix` `Sorting` |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | `Array` `Geometry` `Math` |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | Medium | `Math` `Simulation` `String` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | `Database` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
