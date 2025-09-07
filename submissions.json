@@ -2349,6 +2349,16 @@
     ]
   },
   {
+    "id": 1304,
+    "title": "Find N Unique Integers Sum up to Zero",
+    "title_slug": "find-n-unique-integers-sum-up-to-zero",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1309,
     "title": "Decrypt String from Alphabet to Integer Mapping",
     "title_slug": "decrypt-string-from-alphabet-to-integer-mapping",
