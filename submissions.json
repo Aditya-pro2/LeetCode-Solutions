@@ -2204,6 +2204,17 @@
     ]
   },
   {
+    "id": 1232,
+    "title": "Check If It Is a Straight Line",
+    "title_slug": "check-if-it-is-a-straight-line",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1233,
     "title": "Remove Sub-Folders from the Filesystem",
     "title_slug": "remove-sub-folders-from-the-filesystem",
