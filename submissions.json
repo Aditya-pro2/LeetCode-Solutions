@@ -4386,6 +4386,17 @@
     ]
   },
   {
+    "id": 2327,
+    "title": "Number of People Aware of a Secret",
+    "title_slug": "number-of-people-aware-of-a-secret",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Queue",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2331,
     "title": "Evaluate Boolean Binary Tree",
     "title_slug": "evaluate-boolean-binary-tree",
