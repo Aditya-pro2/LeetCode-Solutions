@@ -129,6 +129,7 @@
 | 0627 | [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees) | Easy | `Database` |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | Easy | `Array` `Sliding Window` |
 | 0646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 0652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | Medium | `Binary Tree` `Depth-First Search` `Hash Table` `Tree` |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | `Simulation` `String` |
