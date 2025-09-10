@@ -93,6 +93,17 @@
     ]
   },
   {
+    "id": 43,
+    "title": "Multiply Strings",
+    "title_slug": "multiply-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 44,
     "title": "Wildcard Matching",
     "title_slug": "wildcard-matching",
