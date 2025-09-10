@@ -4654,6 +4654,18 @@
     ]
   },
   {
+    "id": 2352,
+    "title": "Equal Row and Column Pairs",
+    "title_slug": "equal-row-and-column-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2356,
     "title": "Number of Unique Subjects Taught by Each Teacher",
     "title_slug": "number-of-unique-subjects-taught-by-each-teacher",
