@@ -61,6 +61,7 @@
 | 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher) | Medium | `Brainteaser` `Math` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Matrix` `Memoization` `Topological Sort` |
+| 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | Medium | `Array` `Greedy` |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | Easy | `String` `Two Pointers` |

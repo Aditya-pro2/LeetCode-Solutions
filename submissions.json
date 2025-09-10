@@ -595,6 +595,16 @@
     ]
   },
   {
+    "id": 334,
+    "title": "Increasing Triplet Subsequence",
+    "title_slug": "increasing-triplet-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 342,
     "title": "Power of Four",
     "title_slug": "power-of-four",
