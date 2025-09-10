@@ -847,6 +847,16 @@
     ]
   },
   {
+    "id": 443,
+    "title": "String Compression",
+    "title_slug": "string-compression",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 445,
     "title": "Add Two Numbers II",
     "title_slug": "add-two-numbers-ii",

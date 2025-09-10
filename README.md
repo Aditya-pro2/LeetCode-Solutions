@@ -84,6 +84,7 @@
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | `String` |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | `Binary Search` `Math` |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium | `Array` `Hash Table` `Sorting` |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | `String` `Two Pointers` |
 | 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | Medium | `Linked List` `Math` `Stack` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | Easy | `Bit Manipulation` |
