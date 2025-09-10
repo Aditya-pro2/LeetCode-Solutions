@@ -2692,6 +2692,15 @@
     ]
   },
   {
+    "id": 1431,
+    "title": "Kids With the Greatest Number of Candies",
+    "title_slug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1432,
     "title": "Max Difference You Can Get From Changing an Integer",
     "title_slug": "max-difference-you-can-get-from-changing-an-integer",
