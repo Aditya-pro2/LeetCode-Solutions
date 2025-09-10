@@ -1742,6 +1742,17 @@
     ]
   },
   {
+    "id": 872,
+    "title": "Leaf-Similar Trees",
+    "title_slug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 873,
     "title": "Length of Longest Fibonacci Subsequence",
     "title_slug": "length-of-longest-fibonacci-subsequence",

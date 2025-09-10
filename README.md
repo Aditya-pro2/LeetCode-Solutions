@@ -166,6 +166,7 @@
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | `Counting` `Enumeration` `Hash Table` `Math` `Sorting` |
+| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | Medium | `Array` `Dynamic Programming` `Hash Table` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | Medium | `Array` `Binary Tree` `Divide and Conquer` `Hash Table` `Tree` |
