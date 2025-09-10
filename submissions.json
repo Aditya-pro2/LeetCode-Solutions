@@ -3265,6 +3265,17 @@
     ]
   },
   {
+    "id": 1733,
+    "title": "Minimum Number of People to Teach",
+    "title_slug": "minimum-number-of-people-to-teach",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1741,
     "title": "Find Total Time Spent by Each Employee",
     "title_slug": "find-total-time-spent-by-each-employee",

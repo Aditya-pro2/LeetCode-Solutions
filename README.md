@@ -309,6 +309,7 @@
 | 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product) | Medium | `Array` `Counting` `Hash Table` |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count) | Easy | `Database` |
 | 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee) | Easy | `Database` |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach) | Medium | `Array` `Greedy` `Hash Table` |
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) | Easy | `Database` |
 | 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box) | Easy | `Counting` `Hash Table` `Math` |
 | 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements) | Easy | `Array` `Counting` `Hash Table` |
