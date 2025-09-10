@@ -2277,6 +2277,16 @@
     ]
   },
   {
+    "id": 1207,
+    "title": "Unique Number of Occurrences",
+    "title_slug": "unique-number-of-occurrences",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1211,
     "title": "Queries Quality and Percentage",
     "title_slug": "queries-quality-and-percentage",
