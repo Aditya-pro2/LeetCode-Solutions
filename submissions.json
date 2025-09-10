@@ -3164,6 +3164,18 @@
     ]
   },
   {
+    "id": 1657,
+    "title": "Determine if Two Strings Are Close",
+    "title_slug": "determine-if-two-strings-are-close",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 1658,
     "title": "Minimum Operations to Reduce X to Zero",
     "title_slug": "minimum-operations-to-reduce-x-to-zero",

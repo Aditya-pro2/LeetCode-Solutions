@@ -299,6 +299,7 @@
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | Hard | `Array` `Dynamic Programming` `String` |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | `Array` `Sliding Window` |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | Easy | `Array` `Data Stream` `Design` `Hash Table` |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | Medium | `Counting` `Hash Table` `Sorting` `String` |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | Medium | `Array` `Binary Search` `Hash Table` `Prefix Sum` `Sliding Window` |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) | Easy | `Database` |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | Easy | `Array` `String` |
