@@ -1497,6 +1497,17 @@
     ]
   },
   {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",
