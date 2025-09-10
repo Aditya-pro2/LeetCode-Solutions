@@ -4282,6 +4282,17 @@
     ]
   },
   {
+    "id": 2130,
+    "title": "Maximum Twin Sum of a Linked List",
+    "title_slug": "maximum-twin-sum-of-a-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2131,
     "title": "Longest Palindrome by Concatenating Two Letter Words",
     "title_slug": "longest-palindrome-by-concatenating-two-letter-words",

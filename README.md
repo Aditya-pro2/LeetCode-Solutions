@@ -404,6 +404,7 @@
 | 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | Medium | `Greedy` `Stack` `String` |
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | `Math` |
 | 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) | Hard | `Depth-First Search` `Graph Theory` `Topological Sort` |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | Medium | `Linked List` `Stack` `Two Pointers` |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | Medium | `Array` `Counting` `Greedy` `Hash Table` `String` |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii) | Medium | `Array` `Sliding Window` |
 | 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k) | Easy | `Simulation` `String` |
