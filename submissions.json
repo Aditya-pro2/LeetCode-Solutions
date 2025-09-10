@@ -1938,6 +1938,18 @@
     ]
   },
   {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "title_slug": "max-consecutive-ones-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1007,
     "title": "Minimum Domino Rotations For Equal Row",
     "title_slug": "minimum-domino-rotations-for-equal-row",
