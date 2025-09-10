@@ -4778,6 +4778,17 @@
     ]
   },
   {
+    "id": 2390,
+    "title": "Removing Stars From a String",
+    "title_slug": "removing-stars-from-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 2396,
     "title": "Strictly Palindromic Number",
     "title_slug": "strictly-palindromic-number",
