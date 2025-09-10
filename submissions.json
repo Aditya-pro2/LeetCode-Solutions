@@ -2791,6 +2791,16 @@
     ]
   },
   {
+    "id": 1456,
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "title_slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "skills": [
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 1460,
     "title": "Make Two Arrays Equal by Reversing Subarrays",
     "title_slug": "make-two-arrays-equal-by-reversing-subarrays",
