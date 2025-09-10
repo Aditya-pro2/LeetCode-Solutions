@@ -1866,6 +1866,17 @@
     ]
   },
   {
+    "id": 933,
+    "title": "Number of Recent Calls",
+    "title_slug": "number-of-recent-calls",
+    "difficulty": "Easy",
+    "skills": [
+      "Data Stream",
+      "Design",
+      "Queue"
+    ]
+  },
+  {
     "id": 938,
     "title": "Range Sum of BST",
     "title_slug": "range-sum-of-bst",
