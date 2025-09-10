@@ -1475,6 +1475,16 @@
     ]
   },
   {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 733,
     "title": "Flood Fill",
     "title_slug": "flood-fill",
