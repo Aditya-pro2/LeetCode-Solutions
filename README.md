@@ -301,6 +301,7 @@
 | 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array) | Hard | `Array` `Binary Search` `Dynamic Programming` `Greedy` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | Easy | `String` |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | Easy | `Database` |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | Easy | `Array` `Bit Manipulation` `Counting` `Hash Table` `String` |
 | 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament) | Easy | `Math` `Simulation` |
