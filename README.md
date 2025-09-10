@@ -83,6 +83,7 @@
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | `Math` `Simulation` `String` |
 | 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) | Medium | `Array` `Dynamic Programming` |
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string) | Easy | `String` |
+| 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | `Binary Search` `Math` |
 | 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | Medium | `Array` `Hash Table` `Sorting` |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | Medium | `String` `Two Pointers` |

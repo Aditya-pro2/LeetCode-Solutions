@@ -836,6 +836,17 @@
     ]
   },
   {
+    "id": 437,
+    "title": "Path Sum III",
+    "title_slug": "path-sum-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 441,
     "title": "Arranging Coins",
     "title_slug": "arranging-coins",
