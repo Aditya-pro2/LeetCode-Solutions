@@ -616,6 +616,16 @@
     ]
   },
   {
+    "id": 345,
+    "title": "Reverse Vowels of a String",
+    "title_slug": "reverse-vowels-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 349,
     "title": "Intersection of Two Arrays",
     "title_slug": "intersection-of-two-arrays",
