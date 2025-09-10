@@ -1336,6 +1336,17 @@
     ]
   },
   {
+    "id": 649,
+    "title": "Dota2 Senate",
+    "title_slug": "dota2-senate",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Queue",
+      "String"
+    ]
+  },
+  {
     "id": 652,
     "title": "Find Duplicate Subtrees",
     "title_slug": "find-duplicate-subtrees",
