@@ -1184,6 +1184,16 @@
     ]
   },
   {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "title_slug": "can-place-flowers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 607,
     "title": "Sales Person",
     "title_slug": "sales-person",
