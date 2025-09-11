@@ -2351,6 +2351,17 @@
     ]
   },
   {
+    "id": 1137,
+    "title": "N-th Tribonacci Number",
+    "title_slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 1148,
     "title": "Article Views I",
     "title_slug": "article-views-i",
