@@ -1728,6 +1728,15 @@
     ]
   },
   {
+    "id": 790,
+    "title": "Domino and Tromino Tiling",
+    "title_slug": "domino-and-tromino-tiling",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 802,
     "title": "Find Eventual Safe States",
     "title_slug": "find-eventual-safe-states",

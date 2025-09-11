@@ -166,6 +166,7 @@
 | 0781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | Medium | `Array` `Greedy` `Hash Table` `Math` |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Medium | `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
+| 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Medium | `Dynamic Programming` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` |
