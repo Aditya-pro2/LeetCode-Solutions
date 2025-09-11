@@ -156,6 +156,7 @@
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
+| 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` |
 | 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels) | Medium | `Greedy` `Hash Table` `String` `Two Pointers` |
 | 0765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Greedy` `Union-Find` |

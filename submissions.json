@@ -1612,6 +1612,16 @@
     ]
   },
   {
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",
