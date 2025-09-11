@@ -877,6 +877,18 @@
     ]
   },
   {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 437,
     "title": "Path Sum III",
     "title_slug": "path-sum-iii",
