@@ -110,6 +110,7 @@
 | 0550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | Medium | `Database` |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | `String` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
+| 0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | Easy | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 0561 | [Array Partition](https://leetcode.com/problems/array-partition) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
