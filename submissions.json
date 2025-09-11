@@ -2392,6 +2392,16 @@
     ]
   },
   {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 1148,
     "title": "Article Views I",
     "title_slug": "article-views-i",
