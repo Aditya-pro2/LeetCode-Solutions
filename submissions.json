@@ -2741,6 +2741,18 @@
     ]
   },
   {
+    "id": 1372,
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "title_slug": "longest-zigzag-path-in-a-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 1373,
     "title": "Maximum Sum BST in Binary Tree",
     "title_slug": "maximum-sum-bst-in-binary-tree",

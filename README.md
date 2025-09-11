@@ -259,6 +259,7 @@
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | `Array` `Bit Manipulation` `Counting` `Sorting` |
 | 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates) | Easy | `Math` `String` |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid) | Hard | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | Medium | `Binary Tree` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree) | Hard | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts) | Easy | `String` |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | Easy | `Database` |
