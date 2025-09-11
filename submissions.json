@@ -3987,6 +3987,17 @@
     ]
   },
   {
+    "id": 1926,
+    "title": "Nearest Exit from Entrance in Maze",
+    "title_slug": "nearest-exit-from-entrance-in-maze",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1931,
     "title": "Painting a Grid With Three Different Colors",
     "title_slug": "painting-a-grid-with-three-different-colors",
