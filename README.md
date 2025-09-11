@@ -484,6 +484,7 @@
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) | Medium | `Array` `Bit Manipulation` `Prefix Sum` |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | Hard | `Array` `Monotonic Queue` `Queue` `Sliding Window` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |
+| 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | Medium | `Array` `Heap (Priority Queue)` `Simulation` `Two Pointers` |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | Medium | `Dynamic Programming` |
 | 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
