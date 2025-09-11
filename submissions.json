@@ -3008,6 +3008,17 @@
     ]
   },
   {
+    "id": 1466,
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "title_slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",

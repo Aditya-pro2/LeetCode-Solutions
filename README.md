@@ -284,6 +284,7 @@
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays) | Easy | `Array` `Hash Table` `Sorting` |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node) | Hard | `Binary Search` `Bit Manipulation` `Breadth-First Search` `Depth-First Search` `Design` `Dynamic Programming` `Tree` |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | `Database` |
