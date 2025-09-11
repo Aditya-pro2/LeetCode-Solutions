@@ -4792,6 +4792,18 @@
     ]
   },
   {
+    "id": 2336,
+    "title": "Smallest Number in Infinite Set",
+    "title_slug": "smallest-number-in-infinite-set",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
     "id": 2338,
     "title": "Count the Number of Ideal Arrays",
     "title_slug": "count-the-number-of-ideal-arrays",
