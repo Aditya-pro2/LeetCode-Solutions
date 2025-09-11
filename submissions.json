@@ -2741,6 +2741,15 @@
     ]
   },
   {
+    "id": 1318,
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "title_slug": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 1321,
     "title": "Restaurant Growth",
     "title_slug": "restaurant-growth",

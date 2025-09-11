@@ -260,6 +260,7 @@
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | Easy | `String` |
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | `Array` |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | Medium | `Bit Manipulation` |
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth) | Medium | `Database` |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | `Greedy` `Math` |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | Medium | `Array` `Simulation` `String` |
