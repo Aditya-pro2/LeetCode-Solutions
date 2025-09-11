@@ -5299,6 +5299,18 @@
     ]
   },
   {
+    "id": 2542,
+    "title": "Maximum Subsequence Score",
+    "title_slug": "maximum-subsequence-score",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2544,
     "title": "Alternating Digit Sum",
     "title_slug": "alternating-digit-sum",
