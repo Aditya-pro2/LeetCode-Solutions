@@ -1067,6 +1067,15 @@
     ]
   },
   {
+    "id": 521,
+    "title": "Longest Uncommon Subsequence I",
+    "title_slug": "longest-uncommon-subsequence-i",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 550,
     "title": "Game Play Analysis IV",
     "title_slug": "game-play-analysis-iv",
