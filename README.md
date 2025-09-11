@@ -107,6 +107,7 @@
 | 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii) | Medium | `Array` `Dynamic Programming` |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | Easy | `String` |
 | 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii) | Easy | `String` `Two Pointers` |
+| 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | Medium | `Database` |
 | 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i) | Easy | `String` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |

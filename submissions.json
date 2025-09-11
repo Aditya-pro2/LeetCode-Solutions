@@ -1086,6 +1086,18 @@
     ]
   },
   {
+    "id": 547,
+    "title": "Number of Provinces",
+    "title_slug": "number-of-provinces",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 550,
     "title": "Game Play Analysis IV",
     "title_slug": "game-play-analysis-iv",
