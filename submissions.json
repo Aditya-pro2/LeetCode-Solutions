@@ -2632,6 +2632,20 @@
     ]
   },
   {
+    "id": 1268,
+    "title": "Search Suggestions System",
+    "title_slug": "search-suggestions-system",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 1275,
     "title": "Find Winner on a Tic Tac Toe Game",
     "title_slug": "find-winner-on-a-tic-tac-toe-game",
