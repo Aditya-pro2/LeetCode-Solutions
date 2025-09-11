@@ -44,6 +44,7 @@
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
 | 0197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature) | Easy | `Database` |
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | Easy | `Linked List` `Recursion` |
+| 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | `Array` `Backtracking` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | `Design` `Queue` `Stack` |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Counting` `Hash Table` `Sorting` |
