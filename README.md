@@ -627,6 +627,7 @@
 | 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game) | Easy | `Game Theory` `Math` `Simulation` |
 | 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | Medium | `Counting` `Hash Table` `String` |
 | 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal) | Easy | `Bit Manipulation` |
+| 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string) | Medium | `Brainteaser` `Game Theory` `Math` `String` |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | `Array` `Math` |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix) | Easy | `Array` `Simulation` `String` |
