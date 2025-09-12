@@ -30,6 +30,7 @@
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | Medium | `Binary Search Tree` `Binary Tree` `Dynamic Programming` `Math` `Tree` |
 | 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | `Backtracking` `Dynamic Programming` `String` |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Hash Table` `Linked List` `Two Pointers` |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
