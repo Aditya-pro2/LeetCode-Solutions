@@ -44,6 +44,7 @@
 | 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | Easy | `Database` |
 | 0183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | Easy | `Database` |
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) | Hard | `Database` |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | `Shell` |
 | 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
 | 0196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | Easy | `Database` |
