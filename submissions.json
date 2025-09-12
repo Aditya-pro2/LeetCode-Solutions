@@ -41,6 +41,16 @@
     ]
   },
   {
+    "id": 27,
+    "title": "Remove Element",
+    "title_slug": "remove-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 29,
     "title": "Divide Two Integers",
     "title_slug": "divide-two-integers",
