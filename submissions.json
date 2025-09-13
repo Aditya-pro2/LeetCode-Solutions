@@ -5830,6 +5830,16 @@
     ]
   },
   {
+    "id": 2716,
+    "title": "Minimize String Length",
+    "title_slug": "minimize-string-length",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
