@@ -544,6 +544,7 @@
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | Easy | `Array` `Hash Table` |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy | `Array` `String` |
 | 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) | Easy | `Simulation` `Stack` `String` |
 | 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome) | Easy | `Greedy` `String` `Two Pointers` |
 | 2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer) | Medium | `Backtracking` `Math` |
 | 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string) | Easy | `String` |
