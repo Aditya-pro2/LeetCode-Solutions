@@ -7319,6 +7319,17 @@
     ]
   },
   {
+    "id": 3541,
+    "title": "Find Most Frequent Vowel and Consonant",
+    "title_slug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3550,
     "title": "Smallest Index With Digit Sum Equal to Index",
     "title_slug": "smallest-index-with-digit-sum-equal-to-index",
