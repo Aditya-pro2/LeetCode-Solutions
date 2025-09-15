@@ -403,6 +403,7 @@
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors) | Hard | `Dynamic Programming` |
 | 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate) | Medium | `Database` |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type) | Easy | `Hash Table` `String` |
 | 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences) | Easy | `Counting` `Hash Table` `String` |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system) | Hard | `Array` `Hash Function` `Hash Table` `String` `Trie` |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | Easy | `String` |

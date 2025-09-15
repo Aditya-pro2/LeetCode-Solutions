@@ -4250,6 +4250,16 @@
     ]
   },
   {
+    "id": 1935,
+    "title": "Maximum Number of Words You Can Type",
+    "title_slug": "maximum-number-of-words-you-can-type",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1941,
     "title": "Check if All Characters Have Equal Number of Occurrences",
     "title_slug": "check-if-all-characters-have-equal-number-of-occurrences",
