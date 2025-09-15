@@ -2892,6 +2892,16 @@
     ]
   },
   {
+    "id": 1332,
+    "title": "Remove Palindromic Subsequences",
+    "title_slug": "remove-palindromic-subsequences",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1337,
     "title": "The K Weakest Rows in a Matrix",
     "title_slug": "the-k-weakest-rows-in-a-matrix",
