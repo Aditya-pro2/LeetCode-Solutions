@@ -4837,6 +4837,18 @@
     ]
   },
   {
+    "id": 2197,
+    "title": "Replace Non-Coprime Numbers in Array",
+    "title_slug": "replace-non-coprime-numbers-in-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Math",
+      "Number Theory",
+      "Stack"
+    ]
+  },
+  {
     "id": 2200,
     "title": "Find All K-Distant Indices in an Array",
     "title_slug": "find-all-k-distant-indices-in-an-array",
