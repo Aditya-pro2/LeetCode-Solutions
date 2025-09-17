@@ -483,6 +483,7 @@
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | Medium | `Array` `Math` |
 | 2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | Medium | `Array` `Hash Table` `Matrix` `Simulation` |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system) | Medium | `Array` `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` `String` |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher) | Easy | `Database` |
 | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts) | Easy | `Array` `Greedy` `Hash Table` `Heap (Priority Queue)` `Simulation` `Sorting` |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | Medium | `Depth-First Search` `Graph Theory` |
