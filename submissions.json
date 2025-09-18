@@ -7210,6 +7210,18 @@
     ]
   },
   {
+    "id": 3408,
+    "title": "Design Task Manager",
+    "title_slug": "design-task-manager",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Ordered Set"
+    ]
+  },
+  {
     "id": 3411,
     "title": "Maximum Subarray With Equal Products",
     "title_slug": "maximum-subarray-with-equal-products",
