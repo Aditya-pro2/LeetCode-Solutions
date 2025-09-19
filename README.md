@@ -691,6 +691,7 @@
 | 3475 | [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition) | Medium | `Database` |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii) | Easy | `Array` `Binary Search` `Ordered Set` `Segment Tree` `Simulation` |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) | Hard | `Array` `Enumeration` `Prefix Sum` `Segment Tree` |
+| 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) | Medium | `Array` `Design` `Hash Table` `Matrix` `String` |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) | Easy | `Array` `Greedy` `Hash Table` |
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero) | Hard | `Array` `Bit Manipulation` `Math` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | Easy | `Simulation` `String` |

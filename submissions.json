@@ -7379,6 +7379,19 @@
     ]
   },
   {
+    "id": 3484,
+    "title": "Design Spreadsheet",
+    "title_slug": "design-spreadsheet",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table",
+      "Matrix",
+      "String"
+    ]
+  },
+  {
     "id": 3487,
     "title": "Maximum Unique Subarray Sum After Deletion",
     "title_slug": "maximum-unique-subarray-sum-after-deletion",
