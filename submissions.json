@@ -7481,6 +7481,15 @@
     ]
   },
   {
+    "id": 3492,
+    "title": "Maximum Containers on a Ship",
+    "title_slug": "maximum-containers-on-a-ship",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3495,
     "title": "Minimum Operations to Make Array Elements Zero",
     "title_slug": "minimum-operations-to-make-array-elements-zero",

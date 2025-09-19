@@ -700,6 +700,7 @@
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) | Hard | `Array` `Enumeration` `Prefix Sum` `Segment Tree` |
 | 3484 | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet) | Medium | `Array` `Design` `Hash Table` `Matrix` `String` |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) | Easy | `Array` `Greedy` `Hash Table` |
+| 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship) | Easy | `Math` |
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero) | Hard | `Array` `Bit Manipulation` `Math` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | Easy | `Simulation` `String` |
 | 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position) | Easy | `Array` |
