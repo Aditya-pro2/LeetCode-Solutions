@@ -5586,6 +5586,16 @@
     ]
   },
   {
+    "id": 2496,
+    "title": "Maximum Value of a String in an Array",
+    "title_slug": "maximum-value-of-a-string-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2500,
     "title": "Delete Greatest Value in Each Row",
     "title_slug": "delete-greatest-value-in-each-row",
