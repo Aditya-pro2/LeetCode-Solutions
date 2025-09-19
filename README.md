@@ -528,6 +528,7 @@
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
+| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |
 | 2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) | Medium | `Array` `Prefix Sum` `String` |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` |
 | 2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits) | Hard | `Array` `Greedy` `Hash Table` `Sort` |
