@@ -5013,6 +5013,15 @@
     ]
   },
   {
+    "id": 2278,
+    "title": "Percentage of Letter in String",
+    "title_slug": "percentage-of-letter-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2294,
     "title": "Partition Array Such That Maximum Difference Is K",
     "title_slug": "partition-array-such-that-maximum-difference-is-k",
