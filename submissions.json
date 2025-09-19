@@ -4325,6 +4325,16 @@
     ]
   },
   {
+    "id": 1945,
+    "title": "Sum of Digits of String After Convert",
+    "title_slug": "sum-of-digits-of-string-after-convert",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 1948,
     "title": "Delete Duplicate Folders in System",
     "title_slug": "delete-duplicate-folders-in-system",
