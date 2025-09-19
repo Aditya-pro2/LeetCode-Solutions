@@ -2308,6 +2308,17 @@
     ]
   },
   {
+    "id": 1022,
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "title_slug": "sum-of-root-to-leaf-binary-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1025,
     "title": "Divisor Game",
     "title_slug": "divisor-game",
