@@ -213,6 +213,7 @@
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | Medium | `Array` `Dynamic Programming` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters) | Easy | `Array` `Hash Table` `String` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | Medium | `Array` `Greedy` |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Medium | `Array` `Dynamic Programming` |
