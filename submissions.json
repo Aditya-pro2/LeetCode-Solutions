@@ -2476,6 +2476,18 @@
     ]
   },
   {
+    "id": 1122,
+    "title": "Relative Sort Array",
+    "title_slug": "relative-sort-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1123,
     "title": "Lowest Common Ancestor of Deepest Leaves",
     "title_slug": "lowest-common-ancestor-of-deepest-leaves",
