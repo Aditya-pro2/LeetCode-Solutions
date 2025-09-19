@@ -512,6 +512,7 @@
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | Medium | `Bit Manipulation` `Greedy` |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) | Medium | `Greedy` `Hash Table` `Stack` `String` |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) | Medium | `Array` `Bit Manipulation` `Prefix Sum` |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | Easy | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | Hard | `Array` `Monotonic Queue` `Queue` `Sliding Window` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | Medium | `Array` `Heap (Priority Queue)` `Simulation` `Two Pointers` |
