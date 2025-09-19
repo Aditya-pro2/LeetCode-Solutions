@@ -644,6 +644,7 @@
 | 3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string) | Medium | `Brainteaser` `Game Theory` `Math` `String` |
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won) | Easy | `Array` `Math` |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players) | Easy | `Array` `Counting` `Hash Table` |
+| 3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service) | Easy | `Array` `Design` `Hash Table` `Matrix` `Simulation` |
 | 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix) | Easy | `Array` `Simulation` `String` |
 | 3258 | [Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i) | Easy | `Sliding Window` `String` |
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |

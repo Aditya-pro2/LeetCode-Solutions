@@ -6863,6 +6863,19 @@
     ]
   },
   {
+    "id": 3242,
+    "title": "Design Neighbor Sum Service",
+    "title_slug": "design-neighbor-sum-service",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Design",
+      "Hash Table",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3248,
     "title": "Snake in Matrix",
     "title_slug": "snake-in-matrix",
