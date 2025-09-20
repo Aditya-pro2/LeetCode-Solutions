@@ -711,6 +711,7 @@
 | 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero) | Hard | `Array` `Bit Manipulation` `Math` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | Easy | `Simulation` `String` |
 | 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position) | Easy | `Array` |
+| 3508 | [Implement Router](https://leetcode.com/problems/implement-router) | Medium | `Array` `Binary Search` `Design` `Hash Table` `Ordered Set` `Queue` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | Easy | `Array` `Math` |

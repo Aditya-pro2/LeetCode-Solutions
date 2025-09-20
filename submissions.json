@@ -7596,6 +7596,20 @@
     ]
   },
   {
+    "id": 3508,
+    "title": "Implement Router",
+    "title_slug": "implement-router",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Hash Table",
+      "Ordered Set",
+      "Queue"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
