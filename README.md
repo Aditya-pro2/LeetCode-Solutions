@@ -619,6 +619,7 @@
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | Medium | `Array` `Heap (Priority Queue)` `Simulation` |
 | 3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | Hard | `Array` `Bit Manipulation` `Dynamic Programming` `Greedy` `Sorting` `Tree` |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | Easy | `Array` `Simulation` |
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | Easy | `Array` `Math` |
 | 3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special) | Medium | `Counting` `Greedy` `Hash Table` `Sorting` `String` |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | Easy | `Math` |

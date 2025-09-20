@@ -6608,6 +6608,16 @@
     ]
   },
   {
+    "id": 3069,
+    "title": "Distribute Elements Into Two Arrays I",
+    "title_slug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3079,
     "title": "Find the Sum of Encrypted Integers",
     "title_slug": "find-the-sum-of-encrypted-integers",
