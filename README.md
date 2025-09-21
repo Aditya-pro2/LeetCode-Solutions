@@ -179,6 +179,7 @@
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Medium | `Dynamic Programming` |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
+| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | `Array` `String` |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | `Array` `String` `Two Pointers` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |

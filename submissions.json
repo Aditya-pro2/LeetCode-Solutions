@@ -1868,6 +1868,16 @@
     ]
   },
   {
+    "id": 806,
+    "title": "Number of Lines To Write String",
+    "title_slug": "number-of-lines-to-write-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 808,
     "title": "Soup Servings",
     "title_slug": "soup-servings",
