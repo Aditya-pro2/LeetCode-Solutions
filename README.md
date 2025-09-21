@@ -503,6 +503,7 @@
 | 2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string) | Medium | `Backtracking` `Greedy` `Stack` `String` |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | Easy | `Sliding Window` `String` |
 | 2381 | [Shifting Letters II](https://leetcode.com/problems/shifting-letters-ii) | Medium | `Array` `Prefix Sum` `String` |
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | `Simulation` `Stack` `String` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | `Brainteaser` `Math` `Two Pointers` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
