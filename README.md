@@ -415,6 +415,7 @@
 | 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) | Easy | `Simulation` `String` |
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system) | Hard | `Array` `Hash Function` `Hash Table` `String` `Trie` |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | Easy | `String` |
+| 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | `Database` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | `Array` `String` |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | Easy | `Greedy` `String` |
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | Medium | `Dynamic Programming` `Graph Theory` `Shortest Path` `Topological Sort` |

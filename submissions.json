@@ -4379,6 +4379,15 @@
     ]
   },
   {
+    "id": 1965,
+    "title": "Employees With Missing Information",
+    "title_slug": "employees-with-missing-information",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1967,
     "title": "Number of Strings That Appear as Substrings in Word",
     "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
