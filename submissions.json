@@ -7461,6 +7461,17 @@
     ]
   },
   {
+    "id": 3402,
+    "title": "Minimum Operations to Make Columns Strictly Increasing",
+    "title_slug": "minimum-operations-to-make-columns-strictly-increasing",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3403,
     "title": "Find the Lexicographically Largest String From the Box I",
     "title_slug": "find-the-lexicographically-largest-string-from-the-box-i",
