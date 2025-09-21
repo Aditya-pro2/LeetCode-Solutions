@@ -2140,6 +2140,17 @@
     ]
   },
   {
+    "id": 922,
+    "title": "Sort Array By Parity II",
+    "title_slug": "sort-array-by-parity-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 933,
     "title": "Number of Recent Calls",
     "title_slug": "number-of-recent-calls",
