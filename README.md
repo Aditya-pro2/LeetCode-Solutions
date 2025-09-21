@@ -432,6 +432,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | Hard | `Array` `Binary Search` `Bit Manipulation` `Bitmask` `Dynamic Programming` `Ordered Set` `Sorting` `Two Pointers` |
 | 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) | Hard | `Array` `Binary Search` |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence) | Easy | `String` |
 | 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets) | Medium | `Array` `Backtracking` `Bit Manipulation` `Enumeration` |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
