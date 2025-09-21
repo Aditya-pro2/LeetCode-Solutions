@@ -6430,6 +6430,16 @@
     ]
   },
   {
+    "id": 2917,
+    "title": "Find the K-or of an Array",
+    "title_slug": "find-the-k-or-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2918,
     "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
     "title_slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
