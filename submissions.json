@@ -5894,6 +5894,15 @@
     ]
   },
   {
+    "id": 2595,
+    "title": "Number of Even and Odd Bits",
+    "title_slug": "number-of-even-and-odd-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2610,
     "title": "Convert an Array Into a 2D Array With Conditions",
     "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
