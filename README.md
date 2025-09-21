@@ -602,6 +602,7 @@
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii) | Medium | `Array` `Dynamic Programming` `String` |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | Easy | `Array` `Hash Table` |
 | 2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros) | Medium | `Array` `Greedy` |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i) | Easy | `Array` `Matrix` |
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i) | Easy | `Combinatorics` `Enumeration` `Math` |
 | 2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii) | Medium | `Combinatorics` `Enumeration` `Math` |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sliding Window` `Trie` |

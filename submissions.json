@@ -6420,6 +6420,16 @@
     ]
   },
   {
+    "id": 2923,
+    "title": "Find Champion I",
+    "title_slug": "find-champion-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2928,
     "title": "Distribute Candies Among Children I",
     "title_slug": "distribute-candies-among-children-i",
