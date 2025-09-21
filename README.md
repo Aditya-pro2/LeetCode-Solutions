@@ -226,6 +226,7 @@
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang) | Easy | `Array` `Geometry` `Math` |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle) | Medium | `Math` `Simulation` `String` |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | Easy | `Stack` `String` |
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | Easy | `Database` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Counting Sort` `Sorting` |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | Medium | `String` `Union-Find` |

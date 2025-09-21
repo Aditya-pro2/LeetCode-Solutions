@@ -2401,6 +2401,16 @@
     ]
   },
   {
+    "id": 1047,
+    "title": "Remove All Adjacent Duplicates In String",
+    "title_slug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1050,
     "title": "Actors and Directors Who Cooperated At Least Three Times",
     "title_slug": "actors-and-directors-who-cooperated-at-least-three-times",
