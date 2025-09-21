@@ -5531,6 +5531,17 @@
     ]
   },
   {
+    "id": 2399,
+    "title": "Check Distances Between Same Letters",
+    "title_slug": "check-distances-between-same-letters",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2401,
     "title": "Longest Nice Subarray",
     "title_slug": "longest-nice-subarray",

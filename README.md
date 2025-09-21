@@ -520,6 +520,7 @@
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | Easy | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sorting` |
 | 2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | Medium | `Simulation` `Stack` `String` |
 | 2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number) | Medium | `Brainteaser` `Math` `Two Pointers` |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | Easy | `Array` `Hash Table` `String` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or) | Medium | `Array` `Binary Search` `Bit Manipulation` `Sliding Window` |
