@@ -4752,6 +4752,15 @@
     ]
   },
   {
+    "id": 2124,
+    "title": "Check if All A's Appears Before All B's",
+    "title_slug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2127,
     "title": "Maximum Employees to Be Invited to a Meeting",
     "title_slug": "maximum-employees-to-be-invited-to-a-meeting",
