@@ -246,6 +246,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year) | Easy | `Math` `String` |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) | Medium | `Database` |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | Medium | `Database` |
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
