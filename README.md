@@ -531,6 +531,7 @@
 | 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array) | Easy | `Array` `String` |
 | 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row) | Easy | `Array` `Heap (Priority Queue)` `Matrix` `Simulation` `Sorting` |
 | 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries) | Hard | `Array` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Sorting` `Two Pointers` `Union-Find` |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings) | Easy | `Array` `Bit Manipulation` `Counting` `Hash Table` `String` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Medium | `Array` `Bit Manipulation` `Math` |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | `Array` `Binary Search` `Counting` |
