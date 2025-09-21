@@ -676,6 +676,7 @@
 | 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i) | Easy | `Array` `Heap (Priority Queue)` `Math` `Simulation` |
 | 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers) | Easy | `Math` |
 | 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers) | Hard | `Combinatorics` `Enumeration` `Hash Table` `Math` |
+| 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color) | Easy | `Math` `String` |
 | 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary) | Easy | `Math` `String` |
 | 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains) | Easy | `Array` |
 | 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | Easy | `Array` `Math` |

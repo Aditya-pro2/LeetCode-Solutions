@@ -7208,6 +7208,16 @@
     ]
   },
   {
+    "id": 3274,
+    "title": "Check if Two Chessboard Squares Have the Same Color",
+    "title_slug": "check-if-two-chessboard-squares-have-the-same-color",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3280,
     "title": "Convert Date to Binary",
     "title_slug": "convert-date-to-binary",
