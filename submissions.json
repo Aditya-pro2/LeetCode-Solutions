@@ -5065,6 +5065,17 @@
     ]
   },
   {
+    "id": 2283,
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "title_slug": "check-if-number-has-equal-digit-count-and-digit-value",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2294,
     "title": "Partition Array Such That Maximum Difference Is K",
     "title_slug": "partition-array-such-that-maximum-difference-is-k",
