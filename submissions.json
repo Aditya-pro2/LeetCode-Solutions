@@ -5607,6 +5607,17 @@
     ]
   },
   {
+    "id": 2475,
+    "title": "Number of Unequal Triplets in Array",
+    "title_slug": "number-of-unequal-triplets-in-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2493,
     "title": "Divide Nodes Into the Maximum Number of Groups",
     "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
