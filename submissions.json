@@ -3551,6 +3551,17 @@
     ]
   },
   {
+    "id": 1598,
+    "title": "Crawler Log Folder",
+    "title_slug": "crawler-log-folder",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1603,
     "title": "Design Parking System",
     "title_slug": "design-parking-system",
