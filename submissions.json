@@ -3000,6 +3000,17 @@
     ]
   },
   {
+    "id": 1331,
+    "title": "Rank Transform of an Array",
+    "title_slug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1332,
     "title": "Remove Palindromic Subsequences",
     "title_slug": "remove-palindromic-subsequences",
