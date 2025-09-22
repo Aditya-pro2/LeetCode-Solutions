@@ -1900,6 +1900,15 @@
     ]
   },
   {
+    "id": 824,
+    "title": "Goat Latin",
+    "title_slug": "goat-latin",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 827,
     "title": "Making A Large Island",
     "title_slug": "making-a-large-island",
