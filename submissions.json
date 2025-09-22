@@ -3192,6 +3192,18 @@
     ]
   },
   {
+    "id": 1385,
+    "title": "Find the Distance Value Between Two Arrays",
+    "title_slug": "find-the-distance-value-between-two-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1389,
     "title": "Create Target Array in the Given Order",
     "title_slug": "create-target-array-in-the-given-order",
