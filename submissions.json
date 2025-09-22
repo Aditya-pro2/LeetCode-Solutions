@@ -6760,6 +6760,16 @@
     ]
   },
   {
+    "id": 2980,
+    "title": "Check if Bitwise OR Has Trailing Zeros",
+    "title_slug": "check-if-bitwise-or-has-trailing-zeros",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2999,
     "title": "Count the Number of Powerful Integers",
     "title_slug": "count-the-number-of-powerful-integers",
