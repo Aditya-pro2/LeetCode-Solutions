@@ -4115,6 +4115,15 @@
     ]
   },
   {
+    "id": 1779,
+    "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+    "title_slug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1780,
     "title": "Check if Number is a Sum of Powers of Three",
     "title_slug": "check-if-number-is-a-sum-of-powers-of-three",
