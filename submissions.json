@@ -6727,6 +6727,17 @@
     ]
   },
   {
+    "id": 3005,
+    "title": "Count Elements With Maximum Frequency",
+    "title_slug": "count-elements-with-maximum-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3019,
     "title": "Number of Changing Keys",
     "title_slug": "number-of-changing-keys",
