@@ -579,6 +579,7 @@
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits) | Easy | `Bit Manipulation` |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | Medium | `Array` `Hash Table` |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Sorting` |
+| 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) | Easy | `Array` `Matrix` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | `Math` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
