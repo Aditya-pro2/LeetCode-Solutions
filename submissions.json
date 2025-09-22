@@ -2287,6 +2287,17 @@
     ]
   },
   {
+    "id": 999,
+    "title": "Available Captures for Rook",
+    "title_slug": "available-captures-for-rook",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1002,
     "title": "Find Common Characters",
     "title_slug": "find-common-characters",
