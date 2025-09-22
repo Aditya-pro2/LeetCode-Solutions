@@ -7842,6 +7842,15 @@
     ]
   },
   {
+    "id": 3452,
+    "title": "Sum of Good Numbers",
+    "title_slug": "sum-of-good-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3459,
     "title": "Length of Longest V-Shaped Diagonal Segment",
     "title_slug": "length-of-longest-v-shaped-diagonal-segment",
