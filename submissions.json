@@ -3627,6 +3627,16 @@
     ]
   },
   {
+    "id": 1619,
+    "title": "Mean of Array After Removing Some Elements",
+    "title_slug": "mean-of-array-after-removing-some-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1633,
     "title": "Percentage of Users Attended a Contest",
     "title_slug": "percentage-of-users-attended-a-contest",
