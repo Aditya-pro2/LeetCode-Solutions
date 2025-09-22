@@ -5809,6 +5809,15 @@
     ]
   },
   {
+    "id": 2490,
+    "title": "Circular Sentence",
+    "title_slug": "circular-sentence",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2493,
     "title": "Divide Nodes Into the Maximum Number of Groups",
     "title_slug": "divide-nodes-into-the-maximum-number-of-groups",
