@@ -7349,6 +7349,16 @@
     ]
   },
   {
+    "id": 3206,
+    "title": "Alternating Groups I",
+    "title_slug": "alternating-groups-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3208,
     "title": "Alternating Groups II",
     "title_slug": "alternating-groups-ii",

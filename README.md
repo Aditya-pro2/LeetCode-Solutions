@@ -690,6 +690,7 @@
 | 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) | Medium | `Array` `Dynamic Programming` |
 | 3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) | Medium | `Array` `Dynamic Programming` |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
+| 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i) | Easy | `Array` `Sliding Window` |
 | 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | Medium | `Array` `Sliding Window` |
 | 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string) | Easy | `String` |
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | Medium | `Backtracking` `Bit Manipulation` `String` |
