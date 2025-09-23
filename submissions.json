@@ -5210,6 +5210,18 @@
     ]
   },
   {
+    "id": 2248,
+    "title": "Intersection of Multiple Arrays",
+    "title_slug": "intersection-of-multiple-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2255,
     "title": "Count Prefixes of a Given String",
     "title_slug": "count-prefixes-of-a-given-string",
