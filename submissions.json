@@ -3993,6 +3993,15 @@
     ]
   },
   {
+    "id": 1694,
+    "title": "Reformat Phone Number",
+    "title_slug": "reformat-phone-number",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1695,
     "title": "Maximum Erasure Value",
     "title_slug": "maximum-erasure-value",

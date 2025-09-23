@@ -377,6 +377,7 @@
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | `Greedy` `String` |
 | 1691 | [Maximum Height by Stacking Cuboids ](https://leetcode.com/problems/maximum-height-by-stacking-cuboids) | Hard | `Array` `Dynamic Programming` `Sorting` |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) | Easy | `Database` |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number) | Easy | `String` |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike) | Easy | `Counting` `String` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
