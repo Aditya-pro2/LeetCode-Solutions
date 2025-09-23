@@ -3617,6 +3617,16 @@
     ]
   },
   {
+    "id": 1582,
+    "title": "Special Positions in a Binary Matrix",
+    "title_slug": "special-positions-in-a-binary-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1587,
     "title": "Bank Account Summary II",
     "title_slug": "bank-account-summary-ii",

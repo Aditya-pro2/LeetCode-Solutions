@@ -341,6 +341,7 @@
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | `Array` |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy | `Array` `Matrix` |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | `Database` |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | Easy | `Array` `Matrix` |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | `Database` |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | `Array` `Stack` `String` |
