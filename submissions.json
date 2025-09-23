@@ -3369,6 +3369,17 @@
     ]
   },
   {
+    "id": 1455,
+    "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "title_slug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1456,
     "title": "Maximum Number of Vowels in a Substring of Given Length",
     "title_slug": "maximum-number-of-vowels-in-a-substring-of-given-length",

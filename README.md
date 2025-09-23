@@ -318,6 +318,7 @@
 | 1436 | [Destination City](https://leetcode.com/problems/destination-city) | Easy | `Array` `Hash Table` `String` |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time) | Easy | `Array` |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) | Easy | `String` `String Matching` `Two Pointers` |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | `Sliding Window` `String` |
 | 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays) | Easy | `Array` `Hash Table` `Sorting` |
 | 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
