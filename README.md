@@ -269,6 +269,7 @@
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | Easy | `Database` |
 | 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix) | Easy | `Array` `Math` `Simulation` |
 | 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Design` `Hash Table` `Tree` |
 | 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) | Medium | `Array` `Breadth-First Search` `Counting` `Depth-First Search` `Matrix` `Union-Find` |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | Medium | `Array` `Binary Search` `Heap (Priority Queue)` `Sorting` `String` `Trie` |
