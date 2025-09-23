@@ -5357,6 +5357,16 @@
     ]
   },
   {
+    "id": 2303,
+    "title": "Calculate Amount Paid in Taxes",
+    "title_slug": "calculate-amount-paid-in-taxes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2309,
     "title": "Greatest English Letter in Upper and Lower Case",
     "title_slug": "greatest-english-letter-in-upper-and-lower-case",
