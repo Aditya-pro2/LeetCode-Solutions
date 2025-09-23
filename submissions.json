@@ -3720,6 +3720,16 @@
     ]
   },
   {
+    "id": 1624,
+    "title": "Largest Substring Between Two Equal Characters",
+    "title_slug": "largest-substring-between-two-equal-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1633,
     "title": "Percentage of Users Attended a Contest",
     "title_slug": "percentage-of-users-attended-a-contest",
