@@ -8043,6 +8043,18 @@
     ]
   },
   {
+    "id": 3483,
+    "title": "Unique 3-Digit Even Numbers",
+    "title_slug": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Recursion"
+    ]
+  },
+  {
     "id": 3484,
     "title": "Design Spreadsheet",
     "title_slug": "design-spreadsheet",
