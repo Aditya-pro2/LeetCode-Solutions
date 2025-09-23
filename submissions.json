@@ -2190,6 +2190,17 @@
     ]
   },
   {
+    "id": 929,
+    "title": "Unique Email Addresses",
+    "title_slug": "unique-email-addresses",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 933,
     "title": "Number of Recent Calls",
     "title_slug": "number-of-recent-calls",

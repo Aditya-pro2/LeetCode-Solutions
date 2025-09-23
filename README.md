@@ -208,6 +208,7 @@
 | 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium | `Array` `Hash Table` `String` |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | Easy | `Array` `Hash Table` `String` |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | `Data Stream` `Design` `Queue` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
