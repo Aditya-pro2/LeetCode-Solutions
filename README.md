@@ -153,6 +153,7 @@
 | 0649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | Medium | `Greedy` `Queue` `String` |
 | 0652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | Medium | `Binary Tree` `Depth-First Search` `Hash Table` `Tree` |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | `Simulation` `String` |
+| 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother) | Easy | `Array` `Matrix` |
 | 0679 | [24 Game](https://leetcode.com/problems/24-game) | Hard | `Array` `Backtracking` `Math` |
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
 | 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game) | Easy | `Array` `Simulation` `Stack` |

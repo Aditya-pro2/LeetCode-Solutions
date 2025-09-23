@@ -1569,6 +1569,16 @@
     ]
   },
   {
+    "id": 661,
+    "title": "Image Smoother",
+    "title_slug": "image-smoother",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 679,
     "title": "24 Game",
     "title_slug": "24-game",
