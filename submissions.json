@@ -335,6 +335,16 @@
     ]
   },
   {
+    "id": 165,
+    "title": "Compare Version Numbers",
+    "title_slug": "compare-version-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
