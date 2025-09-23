@@ -6948,6 +6948,16 @@
     ]
   },
   {
+    "id": 3033,
+    "title": "Modify the Matrix",
+    "title_slug": "modify-the-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3042,
     "title": "Count Prefix and Suffix Pairs I",
     "title_slug": "count-prefix-and-suffix-pairs-i",
