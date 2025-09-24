@@ -1672,6 +1672,16 @@
     ]
   },
   {
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "title_slug": "count-binary-substrings",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 705,
     "title": "Design HashSet",
     "title_slug": "design-hashset",
