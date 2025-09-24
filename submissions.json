@@ -345,6 +345,17 @@
     ]
   },
   {
+    "id": 166,
+    "title": "Fraction to Recurring Decimal",
+    "title_slug": "fraction-to-recurring-decimal",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
