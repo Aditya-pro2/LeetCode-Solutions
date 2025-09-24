@@ -5061,6 +5061,15 @@
     ]
   },
   {
+    "id": 2129,
+    "title": "Capitalize the Title",
+    "title_slug": "capitalize-the-title",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2130,
     "title": "Maximum Twin Sum of a Linked List",
     "title_slug": "maximum-twin-sum-of-a-linked-list",

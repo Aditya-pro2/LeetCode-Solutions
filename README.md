@@ -478,6 +478,7 @@
 | 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | Easy | `Math` |
 | 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | `String` |
 | 2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting) | Hard | `Depth-First Search` `Graph Theory` `Topological Sort` |
+| 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | Easy | `String` |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | Medium | `Linked List` `Stack` `Two Pointers` |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | Medium | `Array` `Counting` `Greedy` `Hash Table` `String` |
 | 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii) | Medium | `Array` `Sliding Window` |
