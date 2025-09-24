@@ -5768,6 +5768,16 @@
     ]
   },
   {
+    "id": 2395,
+    "title": "Find Subarrays With Equal Sum",
+    "title_slug": "find-subarrays-with-equal-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2396,
     "title": "Strictly Palindromic Number",
     "title_slug": "strictly-palindromic-number",
