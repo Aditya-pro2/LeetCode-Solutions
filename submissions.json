@@ -6823,6 +6823,15 @@
     ]
   },
   {
+    "id": 2908,
+    "title": "Minimum Sum of Mountain Triplets I",
+    "title_slug": "minimum-sum-of-mountain-triplets-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2913,
     "title": "Subarrays Distinct Element Sum of Squares I",
     "title_slug": "subarrays-distinct-element-sum-of-squares-i",
