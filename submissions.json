@@ -5322,6 +5322,16 @@
     ]
   },
   {
+    "id": 2243,
+    "title": "Calculate Digit Sum of a String",
+    "title_slug": "calculate-digit-sum-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2248,
     "title": "Intersection of Multiple Arrays",
     "title_slug": "intersection-of-multiple-arrays",
