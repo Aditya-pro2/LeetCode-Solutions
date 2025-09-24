@@ -661,6 +661,7 @@
 | 2999 | [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers) | Hard | `Dynamic Programming` `Math` `String` |
 | 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle) | Easy | `Array` |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | Easy | `Array` `Counting` `Hash Table` |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i) | Easy | `Greedy` `Math` `String` |
 | 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys) | Easy | `String` |
 | 3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game) | Medium | `Math` |
 | 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle) | Easy | `Array` `Math` `Sorting` |

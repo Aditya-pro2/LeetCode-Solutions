@@ -7036,6 +7036,17 @@
     ]
   },
   {
+    "id": 3014,
+    "title": "Minimum Number of Pushes to Type Word I",
+    "title_slug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3019,
     "title": "Number of Changing Keys",
     "title_slug": "number-of-changing-keys",
