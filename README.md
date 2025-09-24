@@ -353,6 +353,7 @@
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | `Array` `Stack` `String` |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | `Counting` `Design` `Simulation` |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | `Array` `Binary Search` `Sorting` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Stack` `String` |
 | 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements) | Easy | `Array` `Sorting` |
 | 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters) | Easy | `Hash Table` `String` |
