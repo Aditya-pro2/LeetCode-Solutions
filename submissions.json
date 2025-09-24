@@ -4475,6 +4475,17 @@
     ]
   },
   {
+    "id": 1897,
+    "title": "Redistribute Characters to Make All Strings Equal",
+    "title_slug": "redistribute-characters-to-make-all-strings-equal",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1900,
     "title": "The Earliest and Latest Rounds Where Players Compete",
     "title_slug": "the-earliest-and-latest-rounds-where-players-compete",
