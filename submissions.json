@@ -5501,6 +5501,16 @@
     ]
   },
   {
+    "id": 2319,
+    "title": "Check if Matrix Is X-Matrix",
+    "title_slug": "check-if-matrix-is-x-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 2322,
     "title": "Minimum Score After Removals on a Tree",
     "title_slug": "minimum-score-after-removals-on-a-tree",

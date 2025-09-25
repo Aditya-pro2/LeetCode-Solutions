@@ -520,6 +520,7 @@
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case) | Easy | `Enumeration` `Hash Table` `String` |
 | 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) | Medium | `Dynamic Programming` `Greedy` `Memoization` `String` |
 | 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks) | Easy | `String` |
+| 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix) | Easy | `Array` `Matrix` |
 | 2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree) | Hard | `Array` `Bit Manipulation` `Depth-First Search` `Tree` |
 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message) | Easy | `Hash Table` `String` |
 | 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret) | Medium | `Dynamic Programming` `Queue` `Simulation` |
