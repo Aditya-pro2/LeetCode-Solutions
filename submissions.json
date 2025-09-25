@@ -5324,6 +5324,16 @@
     ]
   },
   {
+    "id": 2224,
+    "title": "Minimum Number of Operations to Convert Time",
+    "title_slug": "minimum-number-of-operations-to-convert-time",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 2226,
     "title": "Maximum Candies Allocated to K Children",
     "title_slug": "maximum-candies-allocated-to-k-children",
