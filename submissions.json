@@ -7210,6 +7210,16 @@
     ]
   },
   {
+    "id": 3083,
+    "title": "Existence of a Substring in a String and Its Reverse",
+    "title_slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3085,
     "title": "Minimum Deletions to Make String K-Special",
     "title_slug": "minimum-deletions-to-make-string-k-special",
