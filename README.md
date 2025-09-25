@@ -465,6 +465,7 @@
 | 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value) | Easy | `Array` |
 | 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string) | Easy | `Hash Table` `String` |
 | 2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign) | Hard | `Array` `Binary Search` `Greedy` `Monotonic Queue` `Queue` `Sorting` `Two Pointers` |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors) | Easy | `Array` `Greedy` |
 | 2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers) | Hard | `Enumeration` `Math` |
 | 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | `Array` `Binary Search` `Sorting` |

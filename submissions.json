@@ -4918,6 +4918,16 @@
     ]
   },
   {
+    "id": 2078,
+    "title": "Two Furthest Houses With Different Colors",
+    "title_slug": "two-furthest-houses-with-different-colors",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2081,
     "title": "Sum of k-Mirror Numbers",
     "title_slug": "sum-of-k-mirror-numbers",
