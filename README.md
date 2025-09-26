@@ -143,6 +143,7 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | `Array` `Greedy` |
 | 0607 | [Sales Person](https://leetcode.com/problems/sales-person) | Easy | `Database` |
 | 0610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | Easy | `Database` |
+| 0611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number) | Medium | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | Easy | `Database` |
 | 0626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats) | Medium | `Database` |

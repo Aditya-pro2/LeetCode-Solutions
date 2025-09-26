@@ -1463,6 +1463,19 @@
     ]
   },
   {
+    "id": 611,
+    "title": "Valid Triangle Number",
+    "title_slug": "valid-triangle-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 617,
     "title": "Merge Two Binary Trees",
     "title_slug": "merge-two-binary-trees",
