@@ -2033,6 +2033,15 @@
     ]
   },
   {
+    "id": 868,
+    "title": "Binary Gap",
+    "title_slug": "binary-gap",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 869,
     "title": "Reordered Power of 2",
     "title_slug": "reordered-power-of-2",

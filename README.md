@@ -194,6 +194,7 @@
 | 0837 | [New 21 Game](https://leetcode.com/problems/new-21-game) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` `Sliding Window` |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | Medium | `Dynamic Programming` `String` `Two Pointers` |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | Easy | `Array` `Matrix` `Simulation` |
+| 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | `Bit Manipulation` |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | Medium | `Counting` `Enumeration` `Hash Table` `Math` `Sorting` |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence) | Medium | `Array` `Dynamic Programming` `Hash Table` |
