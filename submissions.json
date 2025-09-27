@@ -3382,6 +3382,16 @@
     ]
   },
   {
+    "id": 1413,
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "title_slug": "minimum-value-to-get-positive-step-by-step-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1422,
     "title": "Maximum Score After Splitting a String",
     "title_slug": "maximum-score-after-splitting-a-string",
