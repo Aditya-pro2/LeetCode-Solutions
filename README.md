@@ -221,6 +221,7 @@
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | `Array` `Divide and Conquer` `Geometry` `Heap (Priority Queue)` `Math` `Quickselect` `Sorting` |
 | 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | Easy | `Array` `Greedy` `Math` `Sorting` |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | Medium | `Array` `Dynamic Programming` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
