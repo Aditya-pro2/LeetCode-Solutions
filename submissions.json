@@ -6814,6 +6814,16 @@
     ]
   },
   {
+    "id": 2833,
+    "title": "Furthest Point From Origin",
+    "title_slug": "furthest-point-from-origin",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "String"
+    ]
+  },
+  {
     "id": 2843,
     "title": "  Count Symmetric Integers",
     "title_slug": "count-symmetric-integers",
