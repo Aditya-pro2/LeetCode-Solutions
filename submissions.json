@@ -2527,6 +2527,16 @@
     ]
   },
   {
+    "id": 1039,
+    "title": "Minimum Score Triangulation of Polygon",
+    "title_slug": "minimum-score-triangulation-of-polygon",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1041,
     "title": "Robot Bounded In Circle",
     "title_slug": "robot-bounded-in-circle",
