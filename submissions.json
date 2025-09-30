@@ -5388,6 +5388,18 @@
     ]
   },
   {
+    "id": 2221,
+    "title": "Find Triangular Sum of an Array",
+    "title_slug": "find-triangular-sum-of-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Combinatorics",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2224,
     "title": "Minimum Number of Operations to Convert Time",
     "title_slug": "minimum-number-of-operations-to-convert-time",

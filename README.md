@@ -509,6 +509,7 @@
 | 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array) | Easy | `Array` |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | Easy | `Array` `Hash Table` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | `Bit Manipulation` |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | `Array` `Combinatorics` `Math` `Simulation` |
 | 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time) | Easy | `Greedy` `String` |
 | 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children) | Medium | `Array` `Binary Search` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | `Math` |
