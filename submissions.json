@@ -3676,6 +3676,16 @@
     ]
   },
   {
+    "id": 1518,
+    "title": "Water Bottles",
+    "title_slug": "water-bottles",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1524,
     "title": "Number of Sub-arrays With Odd Sum",
     "title_slug": "number-of-sub-arrays-with-odd-sum",
