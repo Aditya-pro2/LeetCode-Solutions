@@ -5532,6 +5532,16 @@
     ]
   },
   {
+    "id": 2293,
+    "title": "Min Max Game",
+    "title_slug": "min-max-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2294,
     "title": "Partition Array Such That Maximum Difference Is K",
     "title_slug": "partition-array-such-that-maximum-difference-is-k",
