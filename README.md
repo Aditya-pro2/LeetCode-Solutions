@@ -691,6 +691,7 @@
 | 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers) | Easy | `Array` `Math` |
 | 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse) | Easy | `Hash Table` `String` |
 | 3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special) | Medium | `Counting` `Greedy` `Hash Table` `Sorting` `String` |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | Easy | `Hash Table` `Sliding Window` `String` |
 | 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number) | Easy | `Math` |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | `Array` |
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | Hard | `Array` `Bit Manipulation` `Graph Theory` `Union-Find` |
