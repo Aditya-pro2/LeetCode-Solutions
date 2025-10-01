@@ -769,6 +769,7 @@
 | 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern) | Easy | `String` `String Matching` |
 | 3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager) | Medium | `Design` `Hash Table` `Heap (Priority Queue)` `Ordered Set` |
 | 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products) | Easy | `Array` `Enumeration` `Math` `Number Theory` `Sliding Window` |
+| 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip) | Easy | `Array` `Matrix` `Simulation` |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | Easy | `Array` `Prefix Sum` |
 | 3439 | [Reschedule Meetings for Maximum Free Time I](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i) | Medium | `Array` `Greedy` `Sliding Window` |
