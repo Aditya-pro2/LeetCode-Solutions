@@ -4967,6 +4967,17 @@
     ]
   },
   {
+    "id": 2068,
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "title_slug": "check-whether-two-strings-are-almost-equivalent",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2071,
     "title": "Maximum Number of Tasks You Can Assign",
     "title_slug": "maximum-number-of-tasks-you-can-assign",
