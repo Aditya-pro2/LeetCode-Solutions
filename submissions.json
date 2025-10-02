@@ -6768,6 +6768,16 @@
     ]
   },
   {
+    "id": 2600,
+    "title": "K Items With the Maximum Sum",
+    "title_slug": "k-items-with-the-maximum-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 2610,
     "title": "Convert an Array Into a 2D Array With Conditions",
     "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
