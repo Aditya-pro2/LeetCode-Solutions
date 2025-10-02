@@ -671,6 +671,7 @@
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | Medium | `Linked List` `Math` `Number Theory` |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | `Simulation` `String` |
+| 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | Easy | `Array` `Hash Table` |
 | 2818 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score) | Hard | `Array` `Greedy` `Math` `Monotonic Stack` `Number Theory` `Sorting` `Stack` |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words) | Easy | `Array` `String` |

@@ -7139,6 +7139,16 @@
     ]
   },
   {
+    "id": 2815,
+    "title": "Max Pair Sum in an Array",
+    "title_slug": "max-pair-sum-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2818,
     "title": "Apply Operations to Maximize Score",
     "title_slug": "apply-operations-to-maximize-score",
