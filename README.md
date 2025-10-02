@@ -154,6 +154,7 @@
 | 0646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain) | Medium | `Array` `Dynamic Programming` `Greedy` `Sorting` |
 | 0649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | Medium | `Greedy` `Queue` `String` |
 | 0652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) | Medium | `Binary Tree` `Depth-First Search` `Hash Table` `Tree` |
+| 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | `Simulation` `String` |
 | 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother) | Easy | `Array` `Matrix` |
 | 0679 | [24 Game](https://leetcode.com/problems/24-game) | Hard | `Array` `Backtracking` `Math` |
