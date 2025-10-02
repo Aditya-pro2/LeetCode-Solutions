@@ -4330,6 +4330,19 @@
     ]
   },
   {
+    "id": 1763,
+    "title": "Longest Nice Substring",
+    "title_slug": "longest-nice-substring",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer",
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 1768,
     "title": "Merge Strings Alternately",
     "title_slug": "merge-strings-alternately",
