@@ -3552,6 +3552,15 @@
     ]
   },
   {
+    "id": 1446,
+    "title": "Consecutive Characters",
+    "title_slug": "consecutive-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1448,
     "title": "Count Good Nodes in Binary Tree",
     "title_slug": "count-good-nodes-in-binary-tree",
