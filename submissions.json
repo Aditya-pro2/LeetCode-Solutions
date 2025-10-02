@@ -5561,6 +5561,17 @@
     ]
   },
   {
+    "id": 2190,
+    "title": "Most Frequent Number Following Key In an Array",
+    "title_slug": "most-frequent-number-following-key-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2191,
     "title": "Sort the Jumbled Numbers",
     "title_slug": "sort-the-jumbled-numbers",
