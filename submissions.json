@@ -4519,6 +4519,17 @@
     ]
   },
   {
+    "id": 1854,
+    "title": "Maximum Population Year",
+    "title_slug": "maximum-population-year",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1857,
     "title": "Largest Color Value in a Directed Graph",
     "title_slug": "largest-color-value-in-a-directed-graph",
