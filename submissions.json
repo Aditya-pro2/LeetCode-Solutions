@@ -5452,6 +5452,17 @@
     ]
   },
   {
+    "id": 2148,
+    "title": "Count Elements With Strictly Smaller and Greater Elements ",
+    "title_slug": "count-elements-with-strictly-smaller-and-greater-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2160,
     "title": "Minimum Sum of Four Digit Number After Splitting Digits",
     "title_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
