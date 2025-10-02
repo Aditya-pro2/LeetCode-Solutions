@@ -5653,6 +5653,17 @@
     ]
   },
   {
+    "id": 2259,
+    "title": "Remove Digit From Number to Maximize Result",
+    "title_slug": "remove-digit-from-number-to-maximize-result",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 2264,
     "title": "Largest 3-Same-Digit Number in String",
     "title_slug": "largest-3-same-digit-number-in-string",
