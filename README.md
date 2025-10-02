@@ -506,6 +506,7 @@
 | 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits) | Easy | `Greedy` `Math` `Sorting` |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | Medium | `Array` `Simulation` `Two Pointers` |
 | 2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements) | Hard | `Array` `Dynamic Programming` `Heap (Priority Queue)` |
+| 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently) | Easy | `Array` `Sorting` |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array) | Easy | `Array` |
 | 2179 | [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array) | Hard | `Array` `Binary Indexed Tree` `Binary Search` `Divide and Conquer` `Merge Sort` `Ordered Set` `Segment Tree` |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum) | Easy | `Math` `Simulation` |
