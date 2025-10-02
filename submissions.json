@@ -7183,6 +7183,16 @@
     ]
   },
   {
+    "id": 2899,
+    "title": "Last Visited Integers",
+    "title_slug": "last-visited-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2900,
     "title": "Longest Unequal Adjacent Groups Subsequence I",
     "title_slug": "longest-unequal-adjacent-groups-subsequence-i",
