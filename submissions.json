@@ -5642,6 +5642,17 @@
     ]
   },
   {
+    "id": 2269,
+    "title": "Find the K-Beauty of a Number",
+    "title_slug": "find-the-k-beauty-of-a-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2270,
     "title": "Number of Ways to Split Array",
     "title_slug": "number-of-ways-to-split-array",
