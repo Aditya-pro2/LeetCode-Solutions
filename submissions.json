@@ -2616,6 +2616,15 @@
     ]
   },
   {
+    "id": 1078,
+    "title": "Occurrences After Bigram",
+    "title_slug": "occurrences-after-bigram",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1079,
     "title": "Letter Tile Possibilities",
     "title_slug": "letter-tile-possibilities",

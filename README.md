@@ -247,6 +247,7 @@
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | Easy | `Database` |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | Easy | `Math` `String` |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | Easy | `Database` |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram) | Easy | `String` |
 | 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | `Backtracking` `Counting` `Hash Table` `String` |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | Easy | `Database` |
 | 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Hard | `Dynamic Programming` `String` |
