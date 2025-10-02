@@ -3066,6 +3066,15 @@
     ]
   },
   {
+    "id": 1287,
+    "title": "Element Appearing More Than 25% In Sorted Array",
+    "title_slug": "element-appearing-more-than-25-in-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1290,
     "title": "Convert Binary Number in a Linked List to Integer",
     "title_slug": "convert-binary-number-in-a-linked-list-to-integer",
