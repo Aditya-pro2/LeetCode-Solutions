@@ -385,6 +385,7 @@
 | 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency) | Easy | `Array` `Hash Table` `Sorting` |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points) | Easy | `Array` `Sorting` |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | Hard | `Array` `Dynamic Programming` `String` |
+| 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation) | Easy | `Array` `Hash Table` |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) | Easy | `Array` `Sliding Window` |
 | 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream) | Easy | `Array` `Data Stream` `Design` `Hash Table` |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | Medium | `Counting` `Hash Table` `Sorting` `String` |

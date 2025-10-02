@@ -4077,6 +4077,16 @@
     ]
   },
   {
+    "id": 1640,
+    "title": "Check Array Formation Through Concatenation",
+    "title_slug": "check-array-formation-through-concatenation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1652,
     "title": "Defuse the Bomb",
     "title_slug": "defuse-the-bomb",
