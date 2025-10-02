@@ -3873,6 +3873,16 @@
     ]
   },
   {
+    "id": 1560,
+    "title": "Most Visited Sector in  a Circular Track",
+    "title_slug": "most-visited-sector-in-a-circular-track",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1572,
     "title": "Matrix Diagonal Sum",
     "title_slug": "matrix-diagonal-sum",

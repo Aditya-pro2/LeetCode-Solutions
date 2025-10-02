@@ -365,6 +365,7 @@
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | `Array` `Binary Search` |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | Easy | `Stack` `String` |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | `Array` |
+| 1560 | [Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track) | Easy | `Array` `Simulation` |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy | `Array` `Matrix` |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | `Database` |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | Easy | `Array` `Matrix` |
