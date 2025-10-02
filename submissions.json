@@ -4814,6 +4814,17 @@
     ]
   },
   {
+    "id": 1995,
+    "title": "Count Special Quadruplets",
+    "title_slug": "count-special-quadruplets",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2000,
     "title": "Reverse Prefix of Word",
     "title_slug": "reverse-prefix-of-word",

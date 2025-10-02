@@ -457,6 +457,7 @@
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination) | Medium | `Dynamic Programming` `Graph Theory` `Shortest Path` `Topological Sort` |
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string) | Medium | `Array` `Backtracking` `Hash Table` `String` |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array) | Easy | `Array` `Prefix Sum` |
+| 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets) | Easy | `Array` `Enumeration` `Hash Table` |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) | Easy | `Stack` `String` `Two Pointers` |
 | 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k) | Easy | `Array` `Counting` `Hash Table` |
 | 2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times) | Hard | `Backtracking` `Counting` `Enumeration` `Hash Table` `String` `Two Pointers` |
