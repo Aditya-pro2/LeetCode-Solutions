@@ -1899,6 +1899,19 @@
     ]
   },
   {
+    "id": 783,
+    "title": "Minimum Distance Between BST Nodes",
+    "title_slug": "minimum-distance-between-bst-nodes",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 785,
     "title": "Is Graph Bipartite?",
     "title_slug": "is-graph-bipartite",

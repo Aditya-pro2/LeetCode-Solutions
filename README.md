@@ -182,6 +182,7 @@
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Medium | `Array` `Greedy` `Monotonic Stack` `Sorting` `Stack` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
 | 0781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | Medium | `Array` `Greedy` `Hash Table` `Math` |
+| 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | Medium | `Breadth-First Search` `Depth-First Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | Medium | `Dynamic Programming` |
