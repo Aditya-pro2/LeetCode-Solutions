@@ -1672,6 +1672,15 @@
     ]
   },
   {
+    "id": 693,
+    "title": "Binary Number with Alternating Bits",
+    "title_slug": "binary-number-with-alternating-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 695,
     "title": "Max Area of Island",
     "title_slug": "max-area-of-island",

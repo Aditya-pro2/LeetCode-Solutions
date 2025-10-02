@@ -162,6 +162,7 @@
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | Hard | `Array` `Dynamic Programming` `Prefix Sum` `Sliding Window` |
+| 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | `Bit Manipulation` |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | Easy | `Array` `Design` `Hash Function` `Hash Table` `Linked List` |
