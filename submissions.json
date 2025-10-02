@@ -7134,6 +7134,17 @@
     ]
   },
   {
+    "id": 2869,
+    "title": "Minimum Operations to Collect Elements",
+    "title_slug": "minimum-operations-to-collect-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2873,
     "title": "Maximum Value of an Ordered Triplet I",
     "title_slug": "maximum-value-of-an-ordered-triplet-i",
