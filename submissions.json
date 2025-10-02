@@ -1808,6 +1808,17 @@
     ]
   },
   {
+    "id": 748,
+    "title": "Shortest Completing Word",
+    "title_slug": "shortest-completing-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 762,
     "title": "Prime Number of Set Bits in Binary Representation",
     "title_slug": "prime-number-of-set-bits-in-binary-representation",
