@@ -5891,6 +5891,17 @@
     ]
   },
   {
+    "id": 2347,
+    "title": "Best Poker Hand",
+    "title_slug": "best-poker-hand",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2348,
     "title": "Number of Zero-Filled Subarrays",
     "title_slug": "number-of-zero-filled-subarrays",
