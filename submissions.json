@@ -3513,6 +3513,15 @@
     ]
   },
   {
+    "id": 1407,
+    "title": "Top Travellers",
+    "title_slug": "top-travellers",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1408,
     "title": "String Matching in an Array",
     "title_slug": "string-matching-in-an-array",
