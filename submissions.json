@@ -3647,6 +3647,16 @@
     ]
   },
   {
+    "id": 1496,
+    "title": "Path Crossing",
+    "title_slug": "path-crossing",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1498,
     "title": "Number of Subsequences That Satisfy the Given Sum Condition",
     "title_slug": "number-of-subsequences-that-satisfy-the-given-sum-condition",

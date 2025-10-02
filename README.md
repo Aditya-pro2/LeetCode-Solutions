@@ -344,6 +344,7 @@
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | `Array` `Sorting` |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | `Array` `Dynamic Programming` `Sliding Window` |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | Easy | `Hash Table` `String` |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | Medium | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` `Monotonic Stack` `Stack` |
 | 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums) | Medium | `Array` `Binary Search` `Prefix Sum` `Sorting` `Two Pointers` |
