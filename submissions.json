@@ -4628,6 +4628,15 @@
     ]
   },
   {
+    "id": 1869,
+    "title": "Longer Contiguous Segments of Ones than Zeros",
+    "title_slug": "longer-contiguous-segments-of-ones-than-zeros",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1876,
     "title": "Substrings of Size Three with Distinct Characters",
     "title_slug": "substrings-of-size-three-with-distinct-characters",

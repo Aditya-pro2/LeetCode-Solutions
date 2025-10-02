@@ -438,6 +438,7 @@
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | `Sorting` `String` |
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | `Array` `Backtracking` `Bit Manipulation` `Combinatorics` `Enumeration` `Math` |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | Medium | `Array` `Design` `Hash Table` |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | Easy | `String` |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | `Counting` `Hash Table` `Sliding Window` `String` |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | `String` |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) | Easy | `Database` |
