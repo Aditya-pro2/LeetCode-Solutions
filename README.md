@@ -718,6 +718,7 @@
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary) | Easy | `Array` `Prefix Sum` `Simulation` |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | Easy | `Array` `Hash Function` `Rolling Hash` `String` `String Matching` `Trie` |
+| 3046 | [Split the Array](https://leetcode.com/problems/split-the-array) | Easy | `Array` `Counting` `Hash Table` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii) | Medium | `Array` `Heap (Priority Queue)` `Simulation` |
 | 3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) | Hard | `Array` `Bit Manipulation` `Dynamic Programming` `Greedy` `Sorting` `Tree` |
