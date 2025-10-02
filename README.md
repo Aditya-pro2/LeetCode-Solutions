@@ -685,6 +685,7 @@
 | 2899 | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers) | Easy | `Array` `Simulation` |
 | 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i) | Easy | `Array` `Dynamic Programming` `Greedy` `String` |
 | 2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii) | Medium | `Array` `Dynamic Programming` `String` |
+| 2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i) | Easy | `Array` `Two Pointers` |
 | 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i) | Easy | `Array` |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) | Easy | `Array` `Hash Table` |
 | 2917 | [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array) | Easy | `Array` `Bit Manipulation` |

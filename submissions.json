@@ -7290,6 +7290,16 @@
     ]
   },
   {
+    "id": 2903,
+    "title": "Find Indices With Index and Value Difference I",
+    "title_slug": "find-indices-with-index-and-value-difference-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2908,
     "title": "Minimum Sum of Mountain Triplets I",
     "title_slug": "minimum-sum-of-mountain-triplets-i",
