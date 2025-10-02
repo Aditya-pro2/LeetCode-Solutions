@@ -1719,6 +1719,16 @@
     ]
   },
   {
+    "id": 697,
+    "title": "Degree of an Array",
+    "title_slug": "degree-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 705,
     "title": "Design HashSet",
     "title_slug": "design-hashset",
