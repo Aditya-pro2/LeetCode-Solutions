@@ -5757,6 +5757,17 @@
     ]
   },
   {
+    "id": 2287,
+    "title": "Rearrange Characters to Make Target String",
+    "title_slug": "rearrange-characters-to-make-target-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2293,
     "title": "Min Max Game",
     "title_slug": "min-max-game",
