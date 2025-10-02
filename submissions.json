@@ -6747,6 +6747,16 @@
     ]
   },
   {
+    "id": 2717,
+    "title": "Semi-Ordered Permutation",
+    "title_slug": "semi-ordered-permutation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
