@@ -449,6 +449,7 @@
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) | Easy | `Array` `Backtracking` `Bit Manipulation` `Combinatorics` `Enumeration` `Math` |
 | 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum) | Medium | `Array` `Design` `Hash Table` |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros) | Easy | `String` |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) | Easy | `Database` |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | `Counting` `Hash Table` `Sliding Window` `String` |
 | 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words) | Easy | `String` |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation) | Easy | `Array` `Matrix` |

@@ -4741,6 +4741,15 @@
     ]
   },
   {
+    "id": 1873,
+    "title": "Calculate Special Bonus",
+    "title_slug": "calculate-special-bonus",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1876,
     "title": "Substrings of Size Three with Distinct Characters",
     "title_slug": "substrings-of-size-three-with-distinct-characters",
