@@ -7354,6 +7354,15 @@
     ]
   },
   {
+    "id": 2855,
+    "title": "Minimum Right Shifts to Sort the Array",
+    "title_slug": "minimum-right-shifts-to-sort-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2859,
     "title": "Sum of Values at Indices With K Set Bits",
     "title_slug": "sum-of-values-at-indices-with-k-set-bits",

@@ -691,6 +691,7 @@
 | 2843 | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers) | Easy | `Enumeration` `Math` |
 | 2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays) | Medium | `Array` `Hash Table` `Prefix Sum` |
 | 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars) | Easy | `Array` `Hash Table` `Prefix Sum` |
+| 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array) | Easy | `Array` |
 | 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits) | Easy | `Array` `Bit Manipulation` |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | Easy | `Greedy` `Math` `String` |
 | 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements) | Easy | `Array` `Bit Manipulation` `Hash Table` |
