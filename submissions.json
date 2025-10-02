@@ -5350,6 +5350,17 @@
     ]
   },
   {
+    "id": 2144,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "title_slug": "minimum-cost-of-buying-candies-with-discount",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2145,
     "title": "Count the Hidden Sequences",
     "title_slug": "count-the-hidden-sequences",
