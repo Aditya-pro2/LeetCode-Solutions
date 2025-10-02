@@ -355,6 +355,7 @@
 | 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | Easy | `Database` |
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string) | Easy | `Array` `String` |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets) | Easy | `Array` `Enumeration` |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | `Array` `Binary Search` |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | Easy | `Stack` `String` |
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | `Array` |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy | `Array` `Matrix` |
