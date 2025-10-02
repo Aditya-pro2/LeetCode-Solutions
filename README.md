@@ -611,6 +611,7 @@
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | Easy | `Array` `Binary Search` `Hash Table` `Two Pointers` |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
+| 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board) | Easy | `Array` `Hash Table` `Math` `Simulation` |
 | 2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags) | Hard | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | Easy | `Array` `Heap (Priority Queue)` `Simulation` |

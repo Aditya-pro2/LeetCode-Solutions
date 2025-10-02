@@ -6509,6 +6509,18 @@
     ]
   },
   {
+    "id": 2549,
+    "title": "Count Distinct Numbers on Board",
+    "title_slug": "count-distinct-numbers-on-board",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2551,
     "title": "Put Marbles in Bags",
     "title_slug": "put-marbles-in-bags",
