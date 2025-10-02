@@ -2483,6 +2483,15 @@
     ]
   },
   {
+    "id": 1009,
+    "title": "Complement of Base 10 Integer",
+    "title_slug": "complement-of-base-10-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 1014,
     "title": "Best Sightseeing Pair",
     "title_slug": "best-sightseeing-pair",
