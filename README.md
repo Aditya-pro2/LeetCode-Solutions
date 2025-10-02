@@ -606,6 +606,7 @@
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | `Array` `Math` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | Medium | `Array` `Heap (Priority Queue)` `Simulation` `Two Pointers` |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages) | Easy | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | Medium | `Dynamic Programming` |
 | 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |

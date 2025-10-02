@@ -6448,6 +6448,18 @@
     ]
   },
   {
+    "id": 2465,
+    "title": "Number of Distinct Averages",
+    "title_slug": "number-of-distinct-averages",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2466,
     "title": "Count Ways To Build Good Strings",
     "title_slug": "count-ways-to-build-good-strings",
