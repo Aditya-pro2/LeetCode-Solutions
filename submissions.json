@@ -2117,6 +2117,18 @@
     ]
   },
   {
+    "id": 888,
+    "title": "Fair Candy Swap",
+    "title_slug": "fair-candy-swap",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 889,
     "title": "Construct Binary Tree from Preorder and Postorder Traversal",
     "title_slug": "construct-binary-tree-from-preorder-and-postorder-traversal",
