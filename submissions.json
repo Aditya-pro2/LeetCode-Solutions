@@ -2886,6 +2886,17 @@
     ]
   },
   {
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "title_slug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1192,
     "title": "Critical Connections in a Network",
     "title_slug": "critical-connections-in-a-network",

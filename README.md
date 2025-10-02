@@ -273,6 +273,7 @@
 | 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements) | Easy | `Math` |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table) | Easy | `Database` |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week) | Easy | `Math` |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | `Counting` `Hash Table` `String` |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) | Hard | `Biconnected Component` `Depth-First Search` `Graph Theory` |
 | 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) | Medium | `Database` |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | Easy | `Array` `Hash Table` |
