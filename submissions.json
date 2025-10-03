@@ -7297,6 +7297,15 @@
     ]
   },
   {
+    "id": 2806,
+    "title": "Account Balance After Rounded Purchase",
+    "title_slug": "account-balance-after-rounded-purchase",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2807,
     "title": "Insert Greatest Common Divisors in Linked List",
     "title_slug": "insert-greatest-common-divisors-in-linked-list",

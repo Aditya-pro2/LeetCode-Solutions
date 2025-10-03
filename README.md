@@ -686,6 +686,7 @@
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | `Array` `String` |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target) | Easy | `Array` |
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | Medium | `Array` `Hash Table` `Sliding Window` |
+| 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase) | Easy | `Math` |
 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) | Medium | `Linked List` `Math` `Number Theory` |
 | 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard) | Easy | `Simulation` `String` |
 | 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array) | Easy | `Array` `Hash Table` |
