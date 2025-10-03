@@ -7294,6 +7294,16 @@
     ]
   },
   {
+    "id": 2729,
+    "title": "Check if The Number is Fascinating",
+    "title_slug": "check-if-the-number-is-fascinating",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 2733,
     "title": "Neither Minimum nor Maximum",
     "title_slug": "neither-minimum-nor-maximum",
