@@ -4670,6 +4670,16 @@
     ]
   },
   {
+    "id": 1796,
+    "title": "Second Largest Digit in a String",
+    "title_slug": "second-largest-digit-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1800,
     "title": "Maximum Ascending Subarray Sum",
     "title_slug": "maximum-ascending-subarray-sum",
