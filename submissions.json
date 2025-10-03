@@ -8870,6 +8870,15 @@
     ]
   },
   {
+    "id": 3436,
+    "title": "Find Valid Emails",
+    "title_slug": "find-valid-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 3438,
     "title": "Find Valid Pair of Adjacent Digits in String",
     "title_slug": "find-valid-pair-of-adjacent-digits-in-string",
