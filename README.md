@@ -195,6 +195,7 @@
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | `Array` `String` `Two Pointers` |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | `String` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
+| 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups) | Easy | `String` |
 | 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | Easy | `Array` `Bit Manipulation` `Matrix` `Simulation` `Two Pointers` |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
 | 0837 | [New 21 Game](https://leetcode.com/problems/new-21-game) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` `Sliding Window` |

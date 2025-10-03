@@ -2046,6 +2046,15 @@
     ]
   },
   {
+    "id": 830,
+    "title": "Positions of Large Groups",
+    "title_slug": "positions-of-large-groups",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 832,
     "title": "Flipping an Image",
     "title_slug": "flipping-an-image",
