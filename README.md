@@ -620,6 +620,7 @@
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) | Medium | `Array` `Bit Manipulation` `Prefix Sum` |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | Easy | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | Hard | `Array` `Monotonic Queue` `Queue` `Sliding Window` |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict) | Easy | `Array` `String` |
 | 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference) | Easy | `Array` `Hash Table` `String` |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | `Array` `Math` |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array) | Easy | `Array` `Simulation` `Two Pointers` |

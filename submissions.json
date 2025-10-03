@@ -6585,6 +6585,16 @@
     ]
   },
   {
+    "id": 2446,
+    "title": "Determine if Two Events Have Conflict",
+    "title_slug": "determine-if-two-events-have-conflict",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2451,
     "title": "Odd String Difference",
     "title_slug": "odd-string-difference",
