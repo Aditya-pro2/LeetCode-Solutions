@@ -648,6 +648,7 @@
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum) | Easy | `Greedy` `Math` `Sorting` |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | Medium | `Math` |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) | Easy | `Math` `Simulation` |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | `Array` `Counting` `String` |
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars) | Medium | `Array` `Binary Search` |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits) | Easy | `Bit Manipulation` |
