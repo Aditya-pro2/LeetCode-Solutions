@@ -487,6 +487,7 @@
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | Easy | `Array` |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array) | Easy | `Array` `Matrix` `Simulation` |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string) | Easy | `Greedy` `String` |
 | 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three) | Easy | `Array` `Bit Manipulation` `Hash Table` |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid) | Medium | `Array` `Math` `Matrix` `Sorting` |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | Hard | `Array` `Binary Search` `Bit Manipulation` `Bitmask` `Dynamic Programming` `Ordered Set` `Sorting` `Two Pointers` |

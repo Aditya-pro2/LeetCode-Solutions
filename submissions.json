@@ -5137,6 +5137,16 @@
     ]
   },
   {
+    "id": 2027,
+    "title": "Minimum Moves to Convert String",
+    "title_slug": "minimum-moves-to-convert-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 2032,
     "title": "Two Out of Three",
     "title_slug": "two-out-of-three",
