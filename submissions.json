@@ -2769,6 +2769,16 @@
     ]
   },
   {
+    "id": 1089,
+    "title": "Duplicate Zeros",
+    "title_slug": "duplicate-zeros",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1092,
     "title": "Shortest Common Supersequence ",
     "title_slug": "shortest-common-supersequence",
