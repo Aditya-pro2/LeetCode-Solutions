@@ -2540,6 +2540,17 @@
     ]
   },
   {
+    "id": 1005,
+    "title": "Maximize Sum Of Array After K Negations",
+    "title_slug": "maximize-sum-of-array-after-k-negations",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1007,
     "title": "Minimum Domino Rotations For Equal Row",
     "title_slug": "minimum-domino-rotations-for-equal-row",
