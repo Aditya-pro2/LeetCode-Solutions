@@ -3936,6 +3936,15 @@
     ]
   },
   {
+    "id": 1556,
+    "title": "Thousand Separator",
+    "title_slug": "thousand-separator",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1560,
     "title": "Most Visited Sector in  a Circular Track",
     "title_slug": "most-visited-sector-in-a-circular-track",
