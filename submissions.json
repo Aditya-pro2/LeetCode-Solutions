@@ -7708,6 +7708,18 @@
     ]
   },
   {
+    "id": 2970,
+    "title": "Count the Number of Incremovable Subarrays I",
+    "title_slug": "count-the-number-of-incremovable-subarrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Enumeration",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2974,
     "title": "Minimum Number Game",
     "title_slug": "minimum-number-game",
