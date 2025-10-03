@@ -2371,6 +2371,17 @@
     ]
   },
   {
+    "id": 953,
+    "title": "Verifying an Alien Dictionary",
+    "title_slug": "verifying-an-alien-dictionary",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 965,
     "title": "Univalued Binary Tree",
     "title_slug": "univalued-binary-tree",

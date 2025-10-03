@@ -224,6 +224,7 @@
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | `Data Stream` `Design` `Queue` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
+| 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | Easy | `Array` `Hash Table` `String` |
 | 0965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
 | 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) | Medium | `Array` `Divide and Conquer` `Geometry` `Heap (Priority Queue)` `Math` `Quickselect` `Sorting` |
