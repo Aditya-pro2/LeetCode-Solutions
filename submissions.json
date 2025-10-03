@@ -6995,6 +6995,17 @@
     ]
   },
   {
+    "id": 2605,
+    "title": "Form Smallest Number From Two Digit Arrays",
+    "title_slug": "form-smallest-number-from-two-digit-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2610,
     "title": "Convert an Array Into a 2D Array With Conditions",
     "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
