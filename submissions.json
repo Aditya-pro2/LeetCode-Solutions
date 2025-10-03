@@ -6606,6 +6606,16 @@
     ]
   },
   {
+    "id": 2481,
+    "title": "Minimum Cuts to Divide a Circle",
+    "title_slug": "minimum-cuts-to-divide-a-circle",
+    "difficulty": "Easy",
+    "skills": [
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 2490,
     "title": "Circular Sentence",
     "title_slug": "circular-sentence",
