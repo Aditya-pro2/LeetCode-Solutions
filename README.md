@@ -448,6 +448,7 @@
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | Easy | `Math` |
 | 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Medium | `Array` `Binary Search` `Greedy` `Prefix Sum` `Sliding Window` `Sorting` |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | Easy | `String` |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | Easy | `Array` |
 | 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year) | Easy | `Array` `Counting` `Prefix Sum` |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) | Hard | `Counting` `Dynamic Programming` `Graph Theory` `Hash Table` `Memoization` `String` `Topological Sort` |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | `Sorting` `String` |

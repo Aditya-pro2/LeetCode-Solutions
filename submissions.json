@@ -4722,6 +4722,15 @@
     ]
   },
   {
+    "id": 1848,
+    "title": "Minimum Distance to the Target Element",
+    "title_slug": "minimum-distance-to-the-target-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1854,
     "title": "Maximum Population Year",
     "title_slug": "maximum-population-year",
