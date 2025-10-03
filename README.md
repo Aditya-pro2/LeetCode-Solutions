@@ -481,6 +481,7 @@
 | 1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system) | Hard | `Array` `Hash Function` `Hash Table` `String` `Trie` |
 | 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string) | Easy | `String` |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array) | Easy | `Array` `String` `Two Pointers` |
 | 1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) | Easy | `Database` |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word) | Easy | `Array` `String` |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter) | Easy | `Greedy` `String` |

@@ -5064,6 +5064,17 @@
     ]
   },
   {
+    "id": 1961,
+    "title": "Check If String Is a Prefix of Array",
+    "title_slug": "check-if-string-is-a-prefix-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1965,
     "title": "Employees With Missing Information",
     "title_slug": "employees-with-missing-information",
