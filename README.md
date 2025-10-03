@@ -562,6 +562,7 @@
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | `Counting` `Hash Table` `String` |
 | 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game) | Easy | `Array` `Simulation` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
+| 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii) | Easy | `String` |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k) | Hard | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes) | Easy | `Array` `Simulation` |
 | 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case) | Easy | `Enumeration` `Hash Table` `String` |
