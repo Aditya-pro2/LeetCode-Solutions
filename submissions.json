@@ -8000,6 +8000,16 @@
     ]
   },
   {
+    "id": 3038,
+    "title": "Maximum Number of Operations With the Same Score I",
+    "title_slug": "maximum-number-of-operations-with-the-same-score-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3042,
     "title": "Count Prefix and Suffix Pairs I",
     "title_slug": "count-prefix-and-suffix-pairs-i",

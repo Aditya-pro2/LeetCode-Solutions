@@ -753,6 +753,7 @@
 | 3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii) | Hard | `Array` `Enumeration` `Geometry` `Math` `Sorting` |
 | 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary) | Easy | `Array` `Prefix Sum` `Simulation` |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix) | Easy | `Array` `Matrix` |
+| 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i) | Easy | `Array` `Simulation` |
 | 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | Easy | `Array` `Hash Function` `Rolling Hash` `String` `String Matching` `Trie` |
 | 3046 | [Split the Array](https://leetcode.com/problems/split-the-array) | Easy | `Array` `Counting` `Hash Table` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i) | Easy | `Array` |
