@@ -3605,6 +3605,15 @@
     ]
   },
   {
+    "id": 1417,
+    "title": "Reformat The String",
+    "title_slug": "reformat-the-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1422,
     "title": "Maximum Score After Splitting a String",
     "title_slug": "maximum-score-after-splitting-a-string",

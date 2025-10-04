@@ -340,6 +340,7 @@
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | Easy | `Database` |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array) | Easy | `Array` `String` `String Matching` |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | Easy | `Array` `Prefix Sum` |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string) | Easy | `String` |
 | 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string) | Easy | `Prefix Sum` `String` |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Medium | `Array` `Prefix Sum` `Sliding Window` |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | Easy | `Array` |
