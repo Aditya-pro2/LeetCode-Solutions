@@ -6459,6 +6459,17 @@
     ]
   },
   {
+    "id": 2404,
+    "title": "Most Frequent Even Element",
+    "title_slug": "most-frequent-even-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 2410,
     "title": "Maximum Matching of Players With Trainers",
     "title_slug": "maximum-matching-of-players-with-trainers",
