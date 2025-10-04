@@ -771,6 +771,7 @@
 | 3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph) | Hard | `Array` `Bit Manipulation` `Graph Theory` `Union-Find` |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string) | Easy | `String` |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | Easy | `Hash Table` `String` |
+| 3127 | [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color) | Easy | `Array` `Enumeration` `Matrix` |
 | 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i) | Easy | `Array` |
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word) | Easy | `String` |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions) | Easy | `Array` `Matrix` |
