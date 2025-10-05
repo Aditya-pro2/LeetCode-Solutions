@@ -887,3 +887,4 @@
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings) | Medium | `Simulation` `Stack` `String` |
+| 3704 | [Count No-Zero Pairs That Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n) | Hard | `Dynamic Programming` `Math` |

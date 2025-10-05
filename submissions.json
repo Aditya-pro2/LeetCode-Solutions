@@ -9434,5 +9434,15 @@
       "Stack",
       "String"
     ]
+  },
+  {
+    "id": 3704,
+    "title": "Count No-Zero Pairs That Sum to N",
+    "title_slug": "count-no-zero-pairs-that-sum-to-n",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
   }
 ]
