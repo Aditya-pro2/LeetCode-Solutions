@@ -7387,6 +7387,19 @@
     ]
   },
   {
+    "id": 2748,
+    "title": "Number of Beautiful Pairs",
+    "title_slug": "number-of-beautiful-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2749,
     "title": "Minimum Operations to Make the Integer Zero",
     "title_slug": "minimum-operations-to-make-the-integer-zero",
