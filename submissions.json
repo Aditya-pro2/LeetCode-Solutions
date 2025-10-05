@@ -1642,6 +1642,15 @@
     ]
   },
   {
+    "id": 674,
+    "title": "Longest Continuous Increasing Subsequence",
+    "title_slug": "longest-continuous-increasing-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 679,
     "title": "24 Game",
     "title_slug": "24-game",
