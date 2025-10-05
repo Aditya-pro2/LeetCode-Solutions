@@ -4188,6 +4188,16 @@
     ]
   },
   {
+    "id": 1646,
+    "title": "Get Maximum in Generated Array",
+    "title_slug": "get-maximum-in-generated-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1652,
     "title": "Defuse the Bomb",
     "title_slug": "defuse-the-bomb",
