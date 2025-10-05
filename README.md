@@ -623,6 +623,7 @@
 | 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | Medium | `Array` `Bit Manipulation` `Brainteaser` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Math` `Number Theory` |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | Medium | `Bit Manipulation` `Greedy` |
+| 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) | Easy | `Array` |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) | Medium | `Greedy` `Hash Table` `Stack` `String` |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) | Medium | `Array` `Bit Manipulation` `Prefix Sum` |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | Easy | `Array` `Hash Table` `Sorting` `Two Pointers` |
