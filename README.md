@@ -668,6 +668,7 @@
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured) | Easy | `Array` `Two Pointers` |
 | 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array) | Easy | `Array` `String` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria) | Easy | `Math` |
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array) | Medium | `Array` `Bit Manipulation` `Math` |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | Easy | `Array` `Binary Search` `Counting` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |

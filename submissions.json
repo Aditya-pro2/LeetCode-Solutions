@@ -7097,6 +7097,15 @@
     ]
   },
   {
+    "id": 2525,
+    "title": "Categorize Box According to Criteria",
+    "title_slug": "categorize-box-according-to-criteria",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2527,
     "title": "Find Xor-Beauty of Array",
     "title_slug": "find-xor-beauty-of-array",
