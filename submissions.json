@@ -7265,6 +7265,15 @@
     ]
   },
   {
+    "id": 2609,
+    "title": "Find the Longest Balanced Substring of a Binary String",
+    "title_slug": "find-the-longest-balanced-substring-of-a-binary-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2610,
     "title": "Convert an Array Into a 2D Array With Conditions",
     "title_slug": "convert-an-array-into-a-2d-array-with-conditions",
