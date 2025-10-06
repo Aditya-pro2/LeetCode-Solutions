@@ -2070,6 +2070,18 @@
     ]
   },
   {
+    "id": 819,
+    "title": "Most Common Word",
+    "title_slug": "most-common-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 821,
     "title": "Shortest Distance to a Character",
     "title_slug": "shortest-distance-to-a-character",

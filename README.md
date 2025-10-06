@@ -197,6 +197,7 @@
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | Easy | `Array` `Hash Table` `String` |
 | 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string) | Easy | `Array` `String` |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | Medium | `Dynamic Programming` `Math` `Probability and Statistics` |
+| 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word) | Easy | `Array` `Counting` `Hash Table` `String` |
 | 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) | Easy | `Array` `String` `Two Pointers` |
 | 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin) | Easy | `String` |
 | 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | Hard | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
