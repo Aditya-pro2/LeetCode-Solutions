@@ -7360,6 +7360,17 @@
     ]
   },
   {
+    "id": 2682,
+    "title": "Find the Losers of the Circular Game",
+    "title_slug": "find-the-losers-of-the-circular-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2683,
     "title": "Neighboring Bitwise XOR",
     "title_slug": "neighboring-bitwise-xor",
