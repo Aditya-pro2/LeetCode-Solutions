@@ -4084,6 +4084,15 @@
     ]
   },
   {
+    "id": 1576,
+    "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+    "title_slug": "replace-all-s-to-avoid-consecutive-repeating-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1581,
     "title": "Customer Who Visited but Did Not Make Any Transactions",
     "title_slug": "customer-who-visited-but-did-not-make-any-transactions",
