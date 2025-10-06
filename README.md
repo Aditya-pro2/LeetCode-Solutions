@@ -717,6 +717,7 @@
 | 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation) | Easy | `Array` `Simulation` |
 | 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating) | Easy | `Hash Table` `Math` |
 | 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum) | Easy | `Array` `Sorting` |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled) | Easy | `Math` `Simulation` |
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy | `Array` `Hash Table` `Simulation` `String` |
 | 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero) | Medium | `Bit Manipulation` `Brainteaser` `Enumeration` |
