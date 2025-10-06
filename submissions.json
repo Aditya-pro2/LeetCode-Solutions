@@ -6571,6 +6571,16 @@
     ]
   },
   {
+    "id": 2383,
+    "title": "Minimum Hours of Training to Win a Competition",
+    "title_slug": "minimum-hours-of-training-to-win-a-competition",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2389,
     "title": "Longest Subsequence With Limited Sum",
     "title_slug": "longest-subsequence-with-limited-sum",
