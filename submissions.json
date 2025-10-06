@@ -1642,6 +1642,17 @@
     ]
   },
   {
+    "id": 671,
+    "title": "Second Minimum Node In a Binary Tree",
+    "title_slug": "second-minimum-node-in-a-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 674,
     "title": "Longest Continuous Increasing Subsequence",
     "title_slug": "longest-continuous-increasing-subsequence",
