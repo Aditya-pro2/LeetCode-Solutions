@@ -2147,6 +2147,18 @@
     ]
   },
   {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 867,
     "title": "Transpose Matrix",
     "title_slug": "transpose-matrix",
