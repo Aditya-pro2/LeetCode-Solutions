@@ -385,6 +385,7 @@
 | 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds) | Easy | `Array` |
 | 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator) | Easy | `String` |
 | 1560 | [Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track) | Easy | `Array` `Simulation` |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times) | Easy | `Array` `Enumeration` |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | Easy | `Array` `Matrix` |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters) | Easy | `String` |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy | `Database` |

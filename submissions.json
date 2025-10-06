@@ -4086,6 +4086,16 @@
     ]
   },
   {
+    "id": 1566,
+    "title": "Detect Pattern of Length M Repeated K or More Times",
+    "title_slug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 1572,
     "title": "Matrix Diagonal Sum",
     "title_slug": "matrix-diagonal-sum",
