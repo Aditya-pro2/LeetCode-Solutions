@@ -4608,6 +4608,16 @@
     ]
   },
   {
+    "id": 1736,
+    "title": "Latest Time by Replacing Hidden Digits",
+    "title_slug": "latest-time-by-replacing-hidden-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String"
+    ]
+  },
+  {
     "id": 1741,
     "title": "Find Total Time Spent by Each Employee",
     "title_slug": "find-total-time-spent-by-each-employee",
