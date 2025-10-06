@@ -8022,6 +8022,15 @@
     ]
   },
   {
+    "id": 2937,
+    "title": "Make Three Strings Equal",
+    "title_slug": "make-three-strings-equal",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2942,
     "title": "Find Words Containing Character",
     "title_slug": "find-words-containing-character",

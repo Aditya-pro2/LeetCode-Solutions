@@ -756,6 +756,7 @@
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i) | Easy | `Combinatorics` `Enumeration` `Math` |
 | 2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii) | Medium | `Combinatorics` `Enumeration` `Math` |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sliding Window` `Trie` |
+| 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal) | Easy | `String` |
 | 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character) | Easy | `Array` `String` |
 | 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts) | Easy | `Array` `Math` `Matrix` `Simulation` |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) | Medium | `Array` `Sorting` `Union-Find` |
