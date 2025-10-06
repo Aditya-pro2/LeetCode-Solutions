@@ -1940,6 +1940,21 @@
     ]
   },
   {
+    "id": 778,
+    "title": "Swim in Rising Water",
+    "title_slug": "swim-in-rising-water",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 781,
     "title": "Rabbits in Forest",
     "title_slug": "rabbits-in-forest",

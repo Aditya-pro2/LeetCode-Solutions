@@ -186,6 +186,7 @@
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | Easy | `Array` `Matrix` |
 | 0769 | [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted) | Medium | `Array` `Greedy` `Monotonic Stack` `Sorting` `Stack` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
+| 0778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) | Hard | `Array` `Binary Search` `Breadth-First Search` `Depth-First Search` `Heap (Priority Queue)` `Matrix` `Union-Find` |
 | 0781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) | Medium | `Array` `Greedy` `Hash Table` `Math` |
 | 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
