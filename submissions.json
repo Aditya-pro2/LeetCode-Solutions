@@ -9534,6 +9534,15 @@
     ]
   },
   {
+    "id": 3456,
+    "title": "Find Special Substring of Length K",
+    "title_slug": "find-special-substring-of-length-k",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3459,
     "title": "Length of Longest V-Shaped Diagonal Segment",
     "title_slug": "length-of-longest-v-shaped-diagonal-segment",
