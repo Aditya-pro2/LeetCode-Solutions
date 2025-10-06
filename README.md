@@ -899,6 +899,7 @@
 | 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment) | Hard | `Array` `Dynamic Programming` `Matrix` `Memoization` |
 | 3465 | [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers) | Easy | `Database` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity) | Easy | `Array` `Counting` `Sorting` |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer) | Easy | `Array` `Hash Table` |
 | 3475 | [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition) | Medium | `Database` |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii) | Easy | `Array` `Binary Search` `Ordered Set` `Segment Tree` `Simulation` |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair) | Hard | `Array` `Enumeration` `Prefix Sum` `Segment Tree` |
