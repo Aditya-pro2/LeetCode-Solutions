@@ -6626,6 +6626,17 @@
     ]
   },
   {
+    "id": 2423,
+    "title": "Remove Letter To Equalize Frequency",
+    "title_slug": "remove-letter-to-equalize-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2425,
     "title": "Bitwise XOR of All Pairings",
     "title_slug": "bitwise-xor-of-all-pairings",
