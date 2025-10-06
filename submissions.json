@@ -3465,6 +3465,19 @@
     ]
   },
   {
+    "id": 1346,
+    "title": "Check If N and Its Double Exist",
+    "title_slug": "check-if-n-and-its-double-exist",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1352,
     "title": "Product of the Last K Numbers",
     "title_slug": "product-of-the-last-k-numbers",
