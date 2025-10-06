@@ -8413,6 +8413,17 @@
     ]
   },
   {
+    "id": 3095,
+    "title": "Shortest Subarray With OR at Least K I",
+    "title_slug": "shortest-subarray-with-or-at-least-k-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3099,
     "title": "Harshad Number",
     "title_slug": "harshad-number",
