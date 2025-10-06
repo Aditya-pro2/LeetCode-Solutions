@@ -698,6 +698,7 @@
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | Easy | `Array` `Enumeration` `Hash Table` |
 | 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string) | Easy | `String` |
 | 2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions) | Medium | `Array` `Hash Table` |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal) | Easy | `Array` `Math` `Matrix` `Number Theory` |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Sorting` |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) | Easy | `Array` `Matrix` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
