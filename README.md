@@ -710,6 +710,7 @@
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | Medium | `Array` `Hash Table` `Sorting` |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
 | 2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers) | Medium | `Dynamic Programming` |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator) | Easy | `Array` `String` |
