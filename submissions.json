@@ -6892,6 +6892,16 @@
     ]
   },
   {
+    "id": 2515,
+    "title": "Shortest Distance to Target String in a Circular Array",
+    "title_slug": "shortest-distance-to-target-string-in-a-circular-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 2520,
     "title": "Count the Digits That Divide a Number",
     "title_slug": "count-the-digits-that-divide-a-number",
