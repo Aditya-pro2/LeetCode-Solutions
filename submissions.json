@@ -2662,6 +2662,16 @@
     ]
   },
   {
+    "id": 1013,
+    "title": "Partition Array Into Three Parts With Equal Sum",
+    "title_slug": "partition-array-into-three-parts-with-equal-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1014,
     "title": "Best Sightseeing Pair",
     "title_slug": "best-sightseeing-pair",

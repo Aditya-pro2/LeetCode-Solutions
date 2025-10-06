@@ -250,6 +250,7 @@
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations) | Easy | `Array` `Greedy` `Sorting` |
 | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | Medium | `Array` `Greedy` |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | `Bit Manipulation` |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | Easy | `Array` `Greedy` |
 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair) | Medium | `Array` `Dynamic Programming` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Stack` `String` |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
