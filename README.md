@@ -391,6 +391,7 @@
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | Easy | `Array` `Matrix` |
 | 1587 | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) | Easy | `Database` |
 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays) | Easy | `Array` `Math` `Prefix Sum` |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words) | Easy | `String` |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder) | Easy | `Array` `Stack` `String` |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | Easy | `Counting` `Design` `Simulation` |
 | 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) | Easy | `Array` `Binary Search` `Sorting` |

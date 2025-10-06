@@ -4144,6 +4144,15 @@
     ]
   },
   {
+    "id": 1592,
+    "title": "Rearrange Spaces Between Words",
+    "title_slug": "rearrange-spaces-between-words",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1598,
     "title": "Crawler Log Folder",
     "title_slug": "crawler-log-folder",
