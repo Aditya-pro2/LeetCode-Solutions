@@ -4964,6 +4964,17 @@
     ]
   },
   {
+    "id": 1893,
+    "title": "Check if All the Integers in a Range Are Covered",
+    "title_slug": "check-if-all-the-integers-in-a-range-are-covered",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1897,
     "title": "Redistribute Characters to Make All Strings Equal",
     "title_slug": "redistribute-characters-to-make-all-strings-equal",
