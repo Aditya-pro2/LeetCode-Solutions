@@ -630,6 +630,7 @@
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | Medium | `Bit Manipulation` `Greedy` |
 | 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task) | Easy | `Array` |
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string) | Medium | `Greedy` `Hash Table` `Stack` `String` |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times) | Easy | `Enumeration` `String` |
 | 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers) | Medium | `Array` `Bit Manipulation` `Prefix Sum` |
 | 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) | Easy | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | Hard | `Array` `Monotonic Queue` `Queue` `Sliding Window` |
