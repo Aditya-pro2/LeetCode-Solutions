@@ -817,6 +817,7 @@
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3195 | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) | Medium | `Array` `Matrix` |
 | 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii) | Hard | `Array` `Enumeration` `Matrix` |
+| 3200 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle) | Easy | `Array` `Enumeration` |
 | 3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i) | Medium | `Array` `Dynamic Programming` |
 | 3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii) | Medium | `Array` `Dynamic Programming` |
 | 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees) | Hard | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Tree` |
