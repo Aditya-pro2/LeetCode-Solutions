@@ -7049,6 +7049,16 @@
     ]
   },
   {
+    "id": 2511,
+    "title": "Maximum Enemy Forts That Can Be Captured",
+    "title_slug": "maximum-enemy-forts-that-can-be-captured",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2515,
     "title": "Shortest Distance to Target String in a Circular Array",
     "title_slug": "shortest-distance-to-target-string-in-a-circular-array",
