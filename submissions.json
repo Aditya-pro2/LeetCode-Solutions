@@ -9365,6 +9365,15 @@
     ]
   },
   {
+    "id": 3465,
+    "title": "Find Products with Valid Serial Numbers",
+    "title_slug": "find-products-with-valid-serial-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 3467,
     "title": "Transform Array by Parity",
     "title_slug": "transform-array-by-parity",
