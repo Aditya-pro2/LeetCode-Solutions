@@ -861,6 +861,7 @@
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
 | 3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i) | Medium | `Array` `Prefix Sum` |
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | Easy | `Math` `Simulation` |
 | 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Prefix Sum` `Sorting` |
 | 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
