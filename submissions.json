@@ -2552,6 +2552,17 @@
     ]
   },
   {
+    "id": 997,
+    "title": "Find the Town Judge",
+    "title_slug": "find-the-town-judge",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Graph Theory",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 999,
     "title": "Available Captures for Rook",
     "title_slug": "available-captures-for-rook",
