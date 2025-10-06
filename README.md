@@ -679,6 +679,7 @@
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | Medium | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Sorting` |
 | 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid) | Easy | `Array` `Matrix` |
 | 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones) | Easy | `Array` `Matrix` |
+| 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score) | Easy | `Array` |
 | 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time) | Easy | `Math` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
 | 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
