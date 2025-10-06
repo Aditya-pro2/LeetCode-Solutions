@@ -9650,6 +9650,15 @@
     ]
   },
   {
+    "id": 3560,
+    "title": "Find Minimum Log Transportation Cost",
+    "title_slug": "find-minimum-log-transportation-cost",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3570,
     "title": "Find Books with No Available Copies",
     "title_slug": "find-books-with-no-available-copies",
