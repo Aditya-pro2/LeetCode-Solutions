@@ -4861,6 +4861,16 @@
     ]
   },
   {
+    "id": 1805,
+    "title": "Number of Different Integers in a String",
+    "title_slug": "number-of-different-integers-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1812,
     "title": "Determine Color of a Chessboard Square",
     "title_slug": "determine-color-of-a-chessboard-square",

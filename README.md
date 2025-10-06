@@ -461,6 +461,7 @@
 | 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) | Easy | `Database` |
 | 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string) | Easy | `Hash Table` `String` |
 | 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | Easy | `Array` |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string) | Easy | `Hash Table` `String` |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square) | Easy | `Math` `String` |
 | 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence) | Easy | `Array` `String` |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | Easy | `Array` `Math` |
