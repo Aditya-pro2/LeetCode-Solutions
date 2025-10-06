@@ -708,6 +708,7 @@
 | 2656 | [Maximum Sum With Exactly K Elements ](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements) | Easy | `Array` `Greedy` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays) | Medium | `Array` `Bit Manipulation` `Hash Table` |
 | 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
+| 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game) | Easy | `Array` `Simulation` |
 | 2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column) | Medium | `Array` `Hash Table` `Matrix` |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array) | Easy | `Array` `Hash Table` |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens) | Easy | `Array` `String` |
