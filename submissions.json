@@ -6578,6 +6578,16 @@
     ]
   },
   {
+    "id": 2409,
+    "title": "Count Days Spent Together",
+    "title_slug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2410,
     "title": "Maximum Matching of Players With Trainers",
     "title_slug": "maximum-matching-of-players-with-trainers",

@@ -620,6 +620,7 @@
 | 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters) | Easy | `Array` `Hash Table` `String` |
 | 2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray) | Medium | `Array` `Bit Manipulation` `Sliding Window` |
 | 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element) | Easy | `Array` `Counting` `Hash Table` |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | Easy | `Math` `String` |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or) | Medium | `Array` `Binary Search` `Bit Manipulation` `Sliding Window` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
