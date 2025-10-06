@@ -855,6 +855,7 @@
 | 3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii) | Medium | `Array` `Binary Search` `Prefix Sum` |
 | 3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Prefix Sum` `Sorting` |
 | 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected) | Hard | `Array` `Dynamic Programming` `Matrix` |
+| 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
 | 3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i) | Medium | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii) | Hard | `Breadth-First Search` `Depth-First Search` `Tree` |
 | 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k) | Easy | `Array` `Hash Table` |

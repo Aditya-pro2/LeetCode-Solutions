@@ -9087,6 +9087,17 @@
     ]
   },
   {
+    "id": 3364,
+    "title": "Minimum Positive Sum Subarray ",
+    "title_slug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3372,
     "title": "Maximize the Number of Target Nodes After Connecting Trees I",
     "title_slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
