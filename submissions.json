@@ -5553,6 +5553,15 @@
     ]
   },
   {
+    "id": 2047,
+    "title": "Number of Valid Words in a Sentence",
+    "title_slug": "number-of-valid-words-in-a-sentence",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2053,
     "title": "Kth Distinct String in an Array",
     "title_slug": "kth-distinct-string-in-an-array",
