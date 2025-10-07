@@ -7755,6 +7755,16 @@
     ]
   },
   {
+    "id": 2760,
+    "title": "Longest Even Odd Subarray With Threshold",
+    "title_slug": "longest-even-odd-subarray-with-threshold",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2765,
     "title": "Longest Alternating Subarray",
     "title_slug": "longest-alternating-subarray",
