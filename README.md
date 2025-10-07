@@ -229,6 +229,7 @@
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | Medium | `Array` `Hash Table` `String` |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | Easy | `String` `Two Pointers` |
 | 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name) | Easy | `String` `Two Pointers` |
 | 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | Easy | `Array` `Hash Table` `String` |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | Easy | `Data Stream` `Design` `Queue` |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | Easy | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |

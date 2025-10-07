@@ -2425,6 +2425,16 @@
     ]
   },
   {
+    "id": 925,
+    "title": "Long Pressed Name",
+    "title_slug": "long-pressed-name",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 929,
     "title": "Unique Email Addresses",
     "title_slug": "unique-email-addresses",
