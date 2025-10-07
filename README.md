@@ -939,6 +939,7 @@
 | 3608 | [Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components) | Medium | `Binary Search` `Graph Theory` `Sorting` `Union-Find` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically) | Easy | `Array` `Matrix` `Two Pointers` |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
