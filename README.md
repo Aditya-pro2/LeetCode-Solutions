@@ -728,6 +728,7 @@
 | 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs) | Easy | `Array` `Hash Table` `Simulation` `String` |
 | 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero) | Medium | `Bit Manipulation` `Brainteaser` `Enumeration` |
+| 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray) | Easy | `Array` `Enumeration` |
 | 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split) | Medium | `Array` `Hash Table` `Sorting` |
