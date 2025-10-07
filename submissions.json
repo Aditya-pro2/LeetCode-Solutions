@@ -3920,6 +3920,19 @@
     ]
   },
   {
+    "id": 1488,
+    "title": "Avoid Flood in The City",
+    "title_slug": "avoid-flood-in-the-city",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
     "id": 1491,
     "title": "Average Salary Excluding the Minimum and Maximum Salary",
     "title_slug": "average-salary-excluding-the-minimum-and-maximum-salary",

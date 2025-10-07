@@ -369,6 +369,7 @@
 | 1483 | [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node) | Hard | `Binary Search` `Bit Manipulation` `Breadth-First Search` `Depth-First Search` `Design` `Dynamic Programming` `Tree` |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | Easy | `Database` |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array) | Easy | `Bit Manipulation` `Math` |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city) | Medium | `Array` `Binary Search` `Greedy` `Hash Table` `Heap (Priority Queue)` |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | `Array` `Sorting` |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | Medium | `Array` `Dynamic Programming` `Sliding Window` |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | Easy | `Hash Table` `String` |
