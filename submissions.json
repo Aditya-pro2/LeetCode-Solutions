@@ -7408,6 +7408,16 @@
     ]
   },
   {
+    "id": 2591,
+    "title": "Distribute Money to Maximum Children",
+    "title_slug": "distribute-money-to-maximum-children",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 2594,
     "title": "Minimum Time to Repair Cars",
     "title_slug": "minimum-time-to-repair-cars",

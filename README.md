@@ -697,6 +697,7 @@
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | Medium | `Math` |
 | 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow) | Easy | `Math` `Simulation` |
 | 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range) | Easy | `Array` `Counting` `String` |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children) | Easy | `Greedy` `Math` |
 | 2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars) | Medium | `Array` `Binary Search` |
 | 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits) | Easy | `Bit Manipulation` |
 | 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum) | Easy | `Greedy` `Math` |
