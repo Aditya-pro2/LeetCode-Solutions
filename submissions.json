@@ -6304,6 +6304,18 @@
     ]
   },
   {
+    "id": 2300,
+    "title": "Successful Pairs of Spells and Potions",
+    "title_slug": "successful-pairs-of-spells-and-potions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2302,
     "title": "Count Subarrays With Score Less Than K",
     "title_slug": "count-subarrays-with-score-less-than-k",
