@@ -9993,6 +9993,13 @@
     ]
   },
   {
+    "id": 3642,
+    "title": "Find Books with Polarized Opinions",
+    "title_slug": "find-books-with-polarized-opinions",
+    "difficulty": "Medium",
+    "skills": []
+  },
+  {
     "id": 3643,
     "title": "Flip Square Submatrix Vertically",
     "title_slug": "flip-square-submatrix-vertically",
