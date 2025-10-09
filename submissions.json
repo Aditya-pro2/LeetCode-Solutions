@@ -10057,6 +10057,15 @@
     ]
   },
   {
+    "id": 3683,
+    "title": "Earliest Time to Finish One Task",
+    "title_slug": "earliest-time-to-finish-one-task",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3701,
     "title": "Compute Alternating Sum",
     "title_slug": "compute-alternating-sum",
