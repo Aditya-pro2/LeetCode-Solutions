@@ -9778,6 +9778,17 @@
     ]
   },
   {
+    "id": 3494,
+    "title": "Find the Minimum Amount of Time to Brew Potions",
+    "title_slug": "find-the-minimum-amount-of-time-to-brew-potions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3495,
     "title": "Minimum Operations to Make Array Elements Zero",
     "title_slug": "minimum-operations-to-make-array-elements-zero",
