@@ -10100,6 +10100,16 @@
     ]
   },
   {
+    "id": 3697,
+    "title": "Compute Decimal Representation",
+    "title_slug": "compute-decimal-representation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3701,
     "title": "Compute Alternating Sum",
     "title_slug": "compute-alternating-sum",
