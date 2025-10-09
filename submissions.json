@@ -10089,6 +10089,17 @@
     ]
   },
   {
+    "id": 3692,
+    "title": "Majority Frequency Characters",
+    "title_slug": "majority-frequency-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3701,
     "title": "Compute Alternating Sum",
     "title_slug": "compute-alternating-sum",

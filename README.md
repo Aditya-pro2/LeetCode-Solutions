@@ -950,6 +950,7 @@
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | Easy | `Array` |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements) | Easy | `Array` `Greedy` `Hash Table` `Sorting` |
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array) | Easy | `Array` `Bit Manipulation` `Simulation` |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters) | Easy | `Counting` `Hash Table` `String` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings) | Medium | `Simulation` `Stack` `String` |
