@@ -945,6 +945,7 @@
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |
 | 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
+| 3674 | [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array) | Easy | `Array` `Bit Manipulation` `Brainteaser` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings) | Medium | `Simulation` `Stack` `String` |

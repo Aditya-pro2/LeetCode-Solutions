@@ -10036,6 +10036,17 @@
     ]
   },
   {
+    "id": 3674,
+    "title": "Minimum Operations to Equalize Array",
+    "title_slug": "minimum-operations-to-equalize-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Brainteaser"
+    ]
+  },
+  {
     "id": 3701,
     "title": "Compute Alternating Sum",
     "title_slug": "compute-alternating-sum",
