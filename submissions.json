@@ -6809,6 +6809,18 @@
     ]
   },
   {
+    "id": 2415,
+    "title": "Reverse Odd Levels of Binary Tree",
+    "title_slug": "reverse-odd-levels-of-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 2418,
     "title": "Sort the People",
     "title_slug": "sort-the-people",
