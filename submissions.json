@@ -3377,6 +3377,18 @@
     ]
   },
   {
+    "id": 1302,
+    "title": "Deepest Leaves Sum",
+    "title_slug": "deepest-leaves-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 1304,
     "title": "Find N Unique Integers Sum up to Zero",
     "title_slug": "find-n-unique-integers-sum-up-to-zero",
