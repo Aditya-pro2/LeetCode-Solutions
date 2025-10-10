@@ -6221,6 +6221,17 @@
     ]
   },
   {
+    "id": 2265,
+    "title": "Count Nodes Equal to Average of Subtree",
+    "title_slug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 2269,
     "title": "Find the K-Beauty of a Number",
     "title_slug": "find-the-k-beauty-of-a-number",
