@@ -8760,6 +8760,16 @@
     ]
   },
   {
+    "id": 3147,
+    "title": "Taking Maximum Energy From the Mystic Dungeon",
+    "title_slug": "taking-maximum-energy-from-the-mystic-dungeon",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3151,
     "title": "Special Array I",
     "title_slug": "special-array-i",
