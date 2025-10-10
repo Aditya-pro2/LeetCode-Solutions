@@ -4964,6 +4964,17 @@
     ]
   },
   {
+    "id": 1828,
+    "title": "Queries on Number of Points Inside a Circle",
+    "title_slug": "queries-on-number-of-points-inside-a-circle",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1832,
     "title": "Check if the Sentence Is Pangram",
     "title_slug": "check-if-the-sentence-is-pangram",
