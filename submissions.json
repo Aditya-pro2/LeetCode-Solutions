@@ -1238,6 +1238,18 @@
     ]
   },
   {
+    "id": 535,
+    "title": "Encode and Decode TinyURL",
+    "title_slug": "encode-and-decode-tinyurl",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Hash Function",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 541,
     "title": "Reverse String II",
     "title_slug": "reverse-string-ii",
