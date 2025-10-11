@@ -844,6 +844,7 @@
 | 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits) | Easy | `Simulation` `Stack` `String` |
 | 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds) | Easy | `Math` `Simulation` |
 | 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i) | Easy | `Array` `Counting` `Hash Table` |
+| 3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting) | Medium | `Array` `Binary Search` `Counting` `Dynamic Programming` `Hash Table` `Sorting` `Two Pointers` |
 | 3191 | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i) | Medium | `Array` `Bit Manipulation` `Prefix Sum` `Queue` `Sliding Window` |
 | 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements) | Easy | `Array` `Sorting` `Two Pointers` |
 | 3195 | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i) | Medium | `Array` `Matrix` |

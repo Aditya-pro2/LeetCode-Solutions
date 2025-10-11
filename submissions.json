@@ -8953,6 +8953,21 @@
     ]
   },
   {
+    "id": 3186,
+    "title": "Maximum Total Damage With Spell Casting",
+    "title_slug": "maximum-total-damage-with-spell-casting",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Counting",
+      "Dynamic Programming",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3191,
     "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
     "title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
