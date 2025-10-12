@@ -9946,6 +9946,20 @@
     ]
   },
   {
+    "id": 3539,
+    "title": "Find Sum of Array Product of Magical Sequences",
+    "title_slug": "find-sum-of-array-product-of-magical-sequences",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Bitmask",
+      "Combinatorics",
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 3541,
     "title": "Find Most Frequent Vowel and Consonant",
     "title_slug": "find-most-frequent-vowel-and-consonant",
