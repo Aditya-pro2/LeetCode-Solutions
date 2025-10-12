@@ -1634,6 +1634,20 @@
     ]
   },
   {
+    "id": 654,
+    "title": "Maximum Binary Tree",
+    "title_slug": "maximum-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Tree",
+      "Divide and Conquer",
+      "Monotonic Stack",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 657,
     "title": "Robot Return to Origin",
     "title_slug": "robot-return-to-origin",
