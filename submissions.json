@@ -2071,6 +2071,17 @@
     ]
   },
   {
+    "id": 807,
+    "title": "Max Increase to Keep City Skyline",
+    "title_slug": "max-increase-to-keep-city-skyline",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
     "id": 808,
     "title": "Soup Servings",
     "title_slug": "soup-servings",
