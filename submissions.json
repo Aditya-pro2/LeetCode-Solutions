@@ -6313,6 +6313,18 @@
     ]
   },
   {
+    "id": 2273,
+    "title": "Find Resultant Array After Removing Anagrams",
+    "title_slug": "find-resultant-array-after-removing-anagrams",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 2275,
     "title": "Largest Combination With Bitwise AND Greater Than Zero",
     "title_slug": "largest-combination-with-bitwise-and-greater-than-zero",
